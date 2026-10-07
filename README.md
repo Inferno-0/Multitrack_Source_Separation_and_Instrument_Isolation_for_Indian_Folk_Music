@@ -40,27 +40,3 @@ The repository follows a research-first philosophy emphasizing reproducibility, 
 * Build reusable musical components.
 * Prepare for future generative music research.
 
-# Repository Architecture
-* **01_Research**: Contains all human-written research documentation, literature surveys, and standards.
-* **02_Knowledge**: Acts as the permanent knowledge base of folk musicology, traditions, and AI/DSP theory.
-* **03_Datasets**: Organizes manually curated audio files, annotations, and metadata catalogs.
-* **04_Processing**: Contains source code pipelines, Jupyter notebooks, model configurations, and utilities.
-* **05_Experiments**: Stores scientific experiment templates, configurations, logs, and active/completed trials.
-* **06_Outputs**: Serves as the destination folder for all machine-generated files, figures, and audio reports.
-* **07_Infrastructure**: Manages setup configurations, environments, project libraries, and licenses.
-
-# Current Project Status
-The repository currently contains only the research architecture and documentation. No implementation has begun. The current phase is:
-**Research Foundation and Dataset Design**
-
-# Long-Term Vision
-The repository is designed to support future research in:
-* Music Information Retrieval
-* Source Separation
-* Voice Conversion
-* Instrument Replacement
-* Instrument Addition
-* Indian Folk Music Generation
-
-# License
-MIT License
