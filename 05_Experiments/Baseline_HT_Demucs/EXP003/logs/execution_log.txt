@@ -1,0 +1,138 @@
+======================================================================
+IKS INTERNSHIP EXPERIMENT EXECUTION LOG
+======================================================================
+
+======================================================================
+Experiment Information
+======================================================================
+Experiment ID          : EXP003
+Notebook Version       : 3.0
+Dataset                : BAUL_GEET
+Model                  : HT-Demucs
+Demucs Model           : htdemucs
+Separation Type        : Two-stem (Vocals / No_Vocals)
+Number of Recordings   : 3
+
+======================================================================
+Execution Timing
+======================================================================
+Execution Start        : 2026-08-08 10:51:21
+Execution End          : 2026-08-08 10:52:40
+Total Processing Time  : 78.55 seconds
+
+======================================================================
+Environment
+======================================================================
+PyTorch Version        : 2.11.0+cu128
+GPU                    : Tesla T4
+Demucs Version         : 4.1.0
+
+======================================================================
+Repository Paths
+======================================================================
+Project Root           : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation
+Infrastructure         : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/07_Infrastructure
+Dataset Directory      : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/03_Datasets/BAUL_GEET
+Input Audio Directory  : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/03_Datasets/BAUL_GEET/Audio/WAV
+Experiment Directory   : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP003
+Output Directory       : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP003/outputs
+Logs Directory         : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP003/logs
+
+======================================================================
+Input Recordings
+======================================================================
+- BAUL_002.wav
+- BAUL_016.wav
+- BAUL_024.wav
+
+======================================================================
+Processing Details
+======================================================================
+
+Recording             : BAUL_002.wav
+Status                : SUCCESS
+Processing Time       : 29.56 seconds
+Return Code           : 0
+Command               : /usr/bin/python3 -m demucs --two-stems vocals -d cuda -o /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP003/outputs /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/03_Datasets/BAUL_GEET/Audio/WAV/BAUL_002.wav
+
+Recording             : BAUL_016.wav
+Status                : SUCCESS
+Processing Time       : 34.87 seconds
+Return Code           : 0
+Command               : /usr/bin/python3 -m demucs --two-stems vocals -d cuda -o /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP003/outputs /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/03_Datasets/BAUL_GEET/Audio/WAV/BAUL_016.wav
+
+Recording             : BAUL_024.wav
+Status                : SUCCESS
+Processing Time       : 14.13 seconds
+Return Code           : 0
+Command               : /usr/bin/python3 -m demucs --two-stems vocals -d cuda -o /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP003/outputs /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/03_Datasets/BAUL_GEET/Audio/WAV/BAUL_024.wav
+
+======================================================================
+Generated Outputs
+======================================================================
+
+BAUL_002
+  - BAUL_002_Vocals.wav
+  - BAUL_002_No_Vocals.wav
+
+BAUL_016
+  - BAUL_016_Vocals.wav
+  - BAUL_016_No_Vocals.wav
+
+BAUL_024
+  - BAUL_024_Vocals.wav
+  - BAUL_024_No_Vocals.wav
+
+======================================================================
+Audio Integrity Validation
+======================================================================
+
+File                  : BAUL_002_Vocals.wav
+Sample Rate           : 44100 Hz
+Channels              : 2
+Duration              : 336.54 seconds
+File Size             : 59365164 bytes
+
+File                  : BAUL_002_No_Vocals.wav
+Sample Rate           : 44100 Hz
+Channels              : 2
+Duration              : 336.54 seconds
+File Size             : 59365164 bytes
+
+File                  : BAUL_016_Vocals.wav
+Sample Rate           : 44100 Hz
+Channels              : 2
+Duration              : 550.42 seconds
+File Size             : 97093420 bytes
+
+File                  : BAUL_016_No_Vocals.wav
+Sample Rate           : 44100 Hz
+Channels              : 2
+Duration              : 550.42 seconds
+File Size             : 97093420 bytes
+
+File                  : BAUL_024_Vocals.wav
+Sample Rate           : 44100 Hz
+Channels              : 2
+Duration              : 177.15 seconds
+File Size             : 31248428 bytes
+
+File                  : BAUL_024_No_Vocals.wav
+Sample Rate           : 44100 Hz
+Channels              : 2
+Duration              : 177.15 seconds
+File Size             : 31248428 bytes
+
+======================================================================
+Final Experiment Status
+======================================================================
+Experiment Status      : SUCCESS
+Recordings Processed   : 3 / 3
+Separated Audio Files  : 6 / 6
+Audio Validation       : PASSED
+Manual Evaluation      : PENDING
+Objective Evaluation   : PENDING
+
+======================================================================
+Next Step: Manual listening evaluation of all Vocals and No_Vocals outputs.
+======================================================================

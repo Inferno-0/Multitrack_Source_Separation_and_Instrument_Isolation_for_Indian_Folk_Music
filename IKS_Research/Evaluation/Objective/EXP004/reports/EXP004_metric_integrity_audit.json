@@ -1,0 +1,100 @@
+{
+  "experiment": "EXP004",
+  "audit_type": "objective_metric_integrity_audit",
+  "generated_at": "2026-08-18T00:10:50.953563",
+  "configuration": {
+    "tracks": 50,
+    "sources_per_track": 4,
+    "source_evaluations": 200,
+    "sources": [
+      "vocals",
+      "drums",
+      "bass",
+      "other"
+    ],
+    "approved_metrics": [
+      "SDR",
+      "SIR",
+      "SAR",
+      "SI-SDR"
+    ],
+    "excluded_metrics": [
+      "ISR"
+    ]
+  },
+  "source_csv": {
+    "path": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\metrics\\EXP004_per_source_metrics.csv",
+    "rows": 200,
+    "columns": [
+      "experiment",
+      "track",
+      "source",
+      "sample_rate",
+      "num_samples",
+      "num_channels",
+      "SDR",
+      "SIR",
+      "SAR",
+      "SI-SDR"
+    ],
+    "metric_column_map": {
+      "SDR": "SDR",
+      "SIR": "SIR",
+      "SAR": "SAR",
+      "SI-SDR": "SI-SDR"
+    }
+  },
+  "track_jsonl": {
+    "path": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\metrics\\EXP004_per_track_metrics.jsonl",
+    "records": 50
+  },
+  "cell15_audit_artifact": {
+    "path": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\metrics\\EXP004_metric_integrity_audit.json",
+    "top_level_keys": [
+      "experiment",
+      "timestamp_utc",
+      "expected_musdb18_tracks",
+      "discovered_musdb18_tracks",
+      "sources",
+      "expected_sources_per_track",
+      "approved_metrics",
+      "excluded_metrics",
+      "bsseval",
+      "si_sdr",
+      "prediction_root",
+      "ground_truth_root",
+      "metrics_root",
+      "complete_prediction_track_count",
+      "incomplete_prediction_track_count",
+      "incomplete_prediction_tracks",
+      "evaluated_track_count",
+      "pending_complete_track_count",
+      "pending_complete_tracks",
+      "source_evaluation_count",
+      "expected_source_evaluation_count_if_all_50_complete",
+      "expected_source_evaluation_count_currently_complete",
+      "csv_source_rows",
+      "evaluation_failures_this_run",
+      "total_evaluation_seconds_this_run",
+      "status",
+      "resumable",
+      "ht_demucs_inference_performed"
+    ]
+  },
+  "validation": {
+    "source_row_count_valid": true,
+    "track_count_valid": true,
+    "source_coverage_valid": true,
+    "duplicate_track_source_pairs": false,
+    "jsonl_structure_valid": true,
+    "track_average_structure_valid": true,
+    "cell15_audit_artifact_readable": true
+  },
+  "policy": {
+    "wav_files_loaded": false,
+    "metrics_recomputed": false,
+    "existing_metric_outputs_only": true,
+    "excluded_metric": "ISR"
+  },
+  "status": "PASS"
+}

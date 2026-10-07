@@ -1,0 +1,46 @@
+{
+    "id": "pilot_012",
+    "mixture_composition": [
+        "vocals",
+        "flute",
+        "dhul",
+        "tabla",
+        "harmonium"
+    ],
+    "sources": {
+        "vocals": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000015.wav",
+            "original_filename": "saraga_0015_vocals.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "flute": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000120.wav",
+            "original_filename": "density_third_fragment_1-0.2.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "dhul": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "tabla": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000510.wav",
+            "original_filename": "RMA_8.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "harmonium": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001249.wav",
+            "original_filename": "94.wav",
+            "gain_applied_in_mix": 0.2
+        }
+    },
+    "target_present": true,
+    "query_instrument": "flute",
+    "query_file": {
+        "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000020.wav",
+        "original_filename": "80_Bm_DirtyStabbyFlute_01_565.wav"
+    },
+    "target_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_012\\stems\\flute.wav",
+    "mixture_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_012\\clean_mixture.wav",
+    "query_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_012\\query.wav"
+}

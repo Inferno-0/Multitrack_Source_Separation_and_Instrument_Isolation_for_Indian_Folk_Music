@@ -1,0 +1,3222 @@
+[
+    {
+        "id": "val_000",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001075.wav",
+                "gain": 0.8560690490075331
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000039.wav",
+                "gain": 0.779581238090266
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000084.wav",
+                "gain": 1.1298215294421858
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000152.wav"
+        }
+    },
+    {
+        "id": "val_001",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.7226685680982728
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000794.wav",
+                "gain": 0.8313775023441669
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000055.wav",
+                "gain": 0.7210423788962531
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000408.wav"
+        }
+    },
+    {
+        "id": "val_002",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000118.wav",
+                "gain": 1.1466788930115492
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.8577513346818977
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000018.wav",
+                "gain": 1.3713992943428506
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000762.wav",
+                "gain": 0.7597366596332524
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000616.wav",
+                "gain": 0.7568588840240394
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000138.wav",
+                "gain": 1.0742807888772874
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000112.wav"
+        }
+    },
+    {
+        "id": "val_003",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 0.7716988425356832
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000208.wav",
+                "gain": 0.9195181651155975
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000134.wav",
+                "gain": 0.8668690238460797
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000365.wav"
+        }
+    },
+    {
+        "id": "val_004",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000098.wav",
+                "gain": 1.1178383257275226
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 0.8646023051339986
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000466.wav",
+                "gain": 1.2781897080667892
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000749.wav",
+                "gain": 0.7591025124196599
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000114.wav",
+                "gain": 0.968329339342451
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000687.wav"
+        }
+    },
+    {
+        "id": "val_005",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000006.wav",
+                "gain": 1.1247410663450594
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.3520612817561686
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 0.743739337989222
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000230.wav",
+                "gain": 0.7967858161424107
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000059.wav",
+                "gain": 0.8383845715052273
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000046.wav"
+        }
+    },
+    {
+        "id": "val_006",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.203632963961996
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.829305263087004
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000016.wav",
+                "gain": 1.2345643737645657
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000110.wav",
+                "gain": 0.8517698489311831
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000794.wav",
+                "gain": 1.3302731861718982
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000064.wav",
+                "gain": 1.2969113407927977
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000128.wav"
+        }
+    },
+    {
+        "id": "val_007",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 0.9719760320106559
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000088.wav",
+                "gain": 0.7796309936767946
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000398.wav",
+                "gain": 1.0433029617043088
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000114.wav",
+                "gain": 1.1860531287320686
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000722.wav"
+        }
+    },
+    {
+        "id": "val_008",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000037.wav",
+                "gain": 1.1932588038231529
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001194.wav",
+                "gain": 0.7867783409337882
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 1.223555882442977
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 1.068864637952758
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000607.wav",
+                "gain": 0.9214797290805615
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000039.wav",
+                "gain": 1.0203150754582622
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000481.wav"
+        }
+    },
+    {
+        "id": "val_009",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000007.wav",
+                "gain": 1.3044773269074672
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000580.wav",
+                "gain": 0.8512312463308702
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000108.wav",
+                "gain": 0.895473301507261
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000602.wav"
+        }
+    },
+    {
+        "id": "val_010",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000084.wav",
+                "gain": 1.1983637400309743
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.3298061949711086
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000471.wav",
+                "gain": 0.8700284161829067
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 1.0053073657737135
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000408.wav",
+                "gain": 0.7867772263517258
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000146.wav",
+                "gain": 1.027575424279495
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000153.wav"
+        }
+    },
+    {
+        "id": "val_011",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000051.wav",
+                "gain": 0.7175348888570583
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000208.wav",
+                "gain": 0.9096916956334258
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000014.wav",
+                "gain": 0.8352869438212538
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000246.wav"
+        }
+    },
+    {
+        "id": "val_012",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000096.wav",
+                "gain": 0.9903692306849479
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000342.wav",
+                "gain": 1.3912185126674066
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000134.wav",
+                "gain": 1.2015734644113267
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000471.wav"
+        }
+    },
+    {
+        "id": "val_013",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000006.wav",
+                "gain": 1.158469733684123
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.4078124675939445
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 0.9162756614018813
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000838.wav",
+                "gain": 0.9670431264907238
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000393.wav",
+                "gain": 0.8268166261483999
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000060.wav",
+                "gain": 0.7183072965375087
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000481.wav"
+        }
+    },
+    {
+        "id": "val_014",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000021.wav",
+                "gain": 1.1543892769359647
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001040.wav",
+                "gain": 0.8292443766890456
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000152.wav",
+                "gain": 0.7234755979455297
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000060.wav",
+                "gain": 0.7434593111484796
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000246.wav"
+        }
+    },
+    {
+        "id": "val_015",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.3509966501540445
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000736.wav",
+                "gain": 1.0540555393042499
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000018.wav",
+                "gain": 1.217266940566481
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000018.wav",
+                "gain": 0.8074636383238347
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000785.wav"
+        }
+    },
+    {
+        "id": "val_016",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.1714472975954773
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000008.wav",
+                "gain": 0.7382165922428026
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 0.8949335336079787
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000081.wav",
+                "gain": 0.8406145448519758
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000090.wav",
+                "gain": 1.025382086874914
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000471.wav"
+        }
+    },
+    {
+        "id": "val_017",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000021.wav",
+                "gain": 0.9614777168673029
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 0.7574825254786082
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 1.41183758926441
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000086.wav",
+                "gain": 1.3826074006339757
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000009.wav",
+                "gain": 0.7941331641783075
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000743.wav"
+        }
+    },
+    {
+        "id": "val_018",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000110.wav",
+                "gain": 0.7090006176239447
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.8502779512844337
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001276.wav",
+                "gain": 0.862133992001972
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 1.371498358845547
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000134.wav",
+                "gain": 1.1183079018376942
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000743.wav"
+        }
+    },
+    {
+        "id": "val_019",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000006.wav",
+                "gain": 1.3823334251496755
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.1768501137042036
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000111.wav",
+                "gain": 1.1868413478735307
+            }
+        ],
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000305.wav"
+        }
+    },
+    {
+        "id": "val_020",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.3360297818825408
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000610.wav",
+                "gain": 0.7892776742308308
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000141.wav",
+                "gain": 0.748227109880508
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000524.wav"
+        }
+    },
+    {
+        "id": "val_021",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000460.wav",
+                "gain": 1.2839430494133162
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000149.wav",
+                "gain": 0.769070201034295
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000064.wav",
+                "gain": 0.8391983172347189
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000940.wav"
+        }
+    },
+    {
+        "id": "val_022",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000711.wav",
+                "gain": 1.1148384770271162
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000526.wav",
+                "gain": 1.0158622328246243
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000114.wav",
+                "gain": 0.8152255075459588
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_001202.wav"
+        }
+    },
+    {
+        "id": "val_023",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000013.wav",
+                "gain": 1.12591878982134
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.9708840619745971
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.351202021290773
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000250.wav",
+                "gain": 0.971595862663937
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000064.wav",
+                "gain": 1.4087337984590527
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_001291.wav"
+        }
+    },
+    {
+        "id": "val_024",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000044.wav",
+                "gain": 1.3009459460110737
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000779.wav",
+                "gain": 0.8380797070780127
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000154.wav",
+                "gain": 0.7894489468435906
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000134.wav",
+                "gain": 1.1509646296929108
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000805.wav"
+        }
+    },
+    {
+        "id": "val_025",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 0.7604592564517071
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000012.wav",
+                "gain": 0.8498451033789949
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000084.wav",
+                "gain": 1.1822926921806225
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_001218.wav"
+        }
+    },
+    {
+        "id": "val_026",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 0.8971479856139924
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.0971635920316003
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000753.wav",
+                "gain": 1.0037434341757754
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000217.wav",
+                "gain": 1.3231252192348664
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000111.wav",
+                "gain": 0.7545526354417077
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_001239.wav"
+        }
+    },
+    {
+        "id": "val_027",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000163.wav",
+                "gain": 0.7749004234394234
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.7915431463723663
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000014.wav",
+                "gain": 1.0363444509459452
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001239.wav",
+                "gain": 1.0429705832765037
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000084.wav",
+                "gain": 0.7457154791379009
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000735.wav"
+        }
+    },
+    {
+        "id": "val_028",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000654.wav",
+                "gain": 1.0369493149440656
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 0.7730964086240759
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001162.wav",
+                "gain": 0.9107421877506313
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000111.wav",
+                "gain": 1.3172778552330586
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000108.wav"
+        }
+    },
+    {
+        "id": "val_029",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000701.wav",
+                "gain": 1.0422335656921031
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 1.3872384154373016
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000761.wav",
+                "gain": 0.7877093517863593
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000009.wav",
+                "gain": 1.2864168170093389
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000613.wav"
+        }
+    },
+    {
+        "id": "val_030",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000747.wav",
+                "gain": 1.1245328297062682
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.239437965454444
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000088.wav",
+                "gain": 0.7902406260805216
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 0.7628316222996537
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001129.wav",
+                "gain": 1.2810850863063605
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000009.wav",
+                "gain": 0.812590702685886
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_001062.wav"
+        }
+    },
+    {
+        "id": "val_031",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000037.wav",
+                "gain": 1.1168888486242512
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000302.wav",
+                "gain": 0.8881341822023503
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 1.3805963828764931
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000450.wav",
+                "gain": 0.9022852102684805
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000141.wav",
+                "gain": 0.9330469881188788
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_001166.wav"
+        }
+    },
+    {
+        "id": "val_032",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000036.wav",
+                "gain": 1.0572481165066492
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.7269041682310408
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 0.8988891400159489
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001186.wav",
+                "gain": 0.9570137226001905
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000141.wav",
+                "gain": 0.7668205362322728
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000059.wav"
+        }
+    },
+    {
+        "id": "val_033",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 0.9567913814418486
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000049.wav",
+                "gain": 1.3417529217083486
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000442.wav",
+                "gain": 1.1377769836390828
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000059.wav",
+                "gain": 1.1779078281962096
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_001267.wav"
+        }
+    },
+    {
+        "id": "val_034",
+        "target_instrument": "harmonium",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 0.8793761718515735
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000422.wav",
+                "gain": 0.7715917842159137
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000003.wav",
+                "gain": 1.0049321748125382
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000147.wav",
+                "gain": 0.9386806655430943
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000004.wav",
+                "gain": 1.145941702318196
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000237.wav"
+        }
+    },
+    {
+        "id": "val_035",
+        "target_instrument": "harmonium",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000110.wav",
+                "gain": 1.1303043098839949
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 1.0830648834204
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000014.wav",
+                "gain": 0.9371790045790609
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000782.wav"
+        }
+    },
+    {
+        "id": "val_036",
+        "target_instrument": "harmonium",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.056806399184633
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000022.wav",
+                "gain": 0.8844530194551565
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000014.wav",
+                "gain": 0.9608330646248687
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000090.wav",
+                "gain": 1.007748589730078
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_001278.wav"
+        }
+    },
+    {
+        "id": "val_037",
+        "target_instrument": "harmonium",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000512.wav",
+                "gain": 1.119840450525878
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000052.wav",
+                "gain": 0.7551203250395666
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000009.wav",
+                "gain": 1.126778887940652
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000803.wav"
+        }
+    },
+    {
+        "id": "val_038",
+        "target_instrument": "harmonium",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000098.wav",
+                "gain": 0.8384028833496816
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000477.wav",
+                "gain": 1.0798966449996945
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000092.wav",
+                "gain": 0.9696719895036126
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000707.wav"
+        }
+    },
+    {
+        "id": "val_039",
+        "target_instrument": "harmonium",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.8379060609401792
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000068.wav",
+                "gain": 1.3115895501928838
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000084.wav",
+                "gain": 1.2120655901427524
+            }
+        ],
+        "query": {
+            "instrument": "harmonium",
+            "file": "harmonium_000131.wav"
+        }
+    },
+    {
+        "id": "val_040",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 0.8409292986248412
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000422.wav",
+                "gain": 0.769852598076563
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000013.wav",
+                "gain": 1.2314732442210834
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000051.wav",
+                "gain": 1.0217380470500024
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000117.wav"
+        }
+    },
+    {
+        "id": "val_041",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.2836554615550773
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000051.wav",
+                "gain": 0.8467544048496894
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000061.wav",
+                "gain": 1.2646165652551895
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000155.wav",
+                "gain": 1.2015562458125928
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000084.wav",
+                "gain": 0.9894164009488154
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000009.wav",
+                "gain": 0.8558136992462255
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000021.wav"
+        }
+    },
+    {
+        "id": "val_042",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000739.wav",
+                "gain": 1.311922105431045
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.7789547293826692
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000018.wav",
+                "gain": 0.9223815082893427
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000013.wav",
+                "gain": 1.1532560524063018
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000092.wav",
+                "gain": 0.9428885649161809
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000117.wav"
+        }
+    },
+    {
+        "id": "val_043",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.3226701225801858
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000654.wav",
+                "gain": 1.3608761724070355
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000037.wav",
+                "gain": 1.2794390733434928
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000759.wav",
+                "gain": 1.0536760387669004
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000036.wav",
+                "gain": 0.7108350354866144
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000138.wav",
+                "gain": 0.8701293054968897
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000110.wav"
+        }
+    },
+    {
+        "id": "val_044",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000702.wav",
+                "gain": 0.9901308634230405
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.8929741008278183
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000460.wav",
+                "gain": 1.228691057122386
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 0.7934387730381302
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000014.wav",
+                "gain": 1.336172367647865
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000055.wav",
+                "gain": 1.0238517781133274
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000110.wav"
+        }
+    },
+    {
+        "id": "val_045",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000038.wav",
+                "gain": 0.9518835703500051
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000014.wav",
+                "gain": 0.802636135008689
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000114.wav",
+                "gain": 0.9198799633820834
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000006.wav"
+        }
+    },
+    {
+        "id": "val_046",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.3657186369941838
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000819.wav",
+                "gain": 0.842716426738774
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.9796976151599872
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000398.wav",
+                "gain": 1.027603830267288
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000117.wav",
+                "gain": 0.8265452791116192
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000092.wav",
+                "gain": 1.2144228074332966
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000098.wav"
+        }
+    },
+    {
+        "id": "val_047",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001151.wav",
+                "gain": 1.264062809272864
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000013.wav",
+                "gain": 0.8347635600980148
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000073.wav",
+                "gain": 1.1241846561951416
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000041.wav"
+        }
+    },
+    {
+        "id": "val_048",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.2467815080137388
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001110.wav",
+                "gain": 0.7628332680861515
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000735.wav",
+                "gain": 1.344826166099338
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.1303272196255576
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000110.wav",
+                "gain": 0.9311000124491474
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000158.wav",
+                "gain": 0.8118932544649313
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000041.wav"
+        }
+    },
+    {
+        "id": "val_049",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.1357368360443765
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000008.wav",
+                "gain": 1.2270666845945708
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000064.wav",
+                "gain": 1.2155997550866826
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000110.wav"
+        }
+    },
+    {
+        "id": "val_050",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 0.9462755573602915
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000743.wav",
+                "gain": 0.7614855406082849
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001174.wav",
+                "gain": 1.0981850617040159
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.1539648839773533
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 0.799541643070468
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000141.wav",
+                "gain": 1.3792472266735492
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000088.wav"
+        }
+    },
+    {
+        "id": "val_051",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 1.2566643812629021
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000200.wav",
+                "gain": 0.8583777954519618
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000051.wav",
+                "gain": 0.8378360282375628
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000046.wav",
+                "gain": 1.049433426971608
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000110.wav",
+                "gain": 0.8931388605479519
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000073.wav",
+                "gain": 1.2743415715744546
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000118.wav"
+        }
+    },
+    {
+        "id": "val_052",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000450.wav",
+                "gain": 1.3004569917211144
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.3002659911002468
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000013.wav",
+                "gain": 0.7129274459981603
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000525.wav",
+                "gain": 0.7510760067435056
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 0.9921409016076427
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000009.wav",
+                "gain": 1.1407298388514164
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000084.wav"
+        }
+    },
+    {
+        "id": "val_053",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000302.wav",
+                "gain": 1.141658321567144
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.1199225940606088
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001126.wav",
+                "gain": 0.9816985434437411
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000013.wav",
+                "gain": 0.897691717571323
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000052.wav",
+                "gain": 0.9026994093290525
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000039.wav",
+                "gain": 0.853640336033779
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000088.wav"
+        }
+    },
+    {
+        "id": "val_054",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000525.wav",
+                "gain": 0.8803682735780741
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 1.0250833738465088
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000118.wav",
+                "gain": 0.8080947623484406
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000059.wav",
+                "gain": 0.9891441257012556
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000052.wav"
+        }
+    },
+    {
+        "id": "val_055",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000365.wav",
+                "gain": 0.8284092680702794
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000146.wav",
+                "gain": 0.8723289318795858
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000013.wav"
+        }
+    },
+    {
+        "id": "val_056",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000724.wav",
+                "gain": 1.3590232430747002
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.289847478998945
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000998.wav",
+                "gain": 0.7599347321926287
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000123.wav",
+                "gain": 1.05249312071024
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000036.wav"
+        }
+    },
+    {
+        "id": "val_057",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.3561854448332558
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000027.wav",
+                "gain": 0.7659953658312899
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000342.wav",
+                "gain": 0.9337104785046914
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000037.wav",
+                "gain": 1.0546451187634345
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000051.wav",
+                "gain": 0.7346537880897003
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000013.wav"
+        }
+    },
+    {
+        "id": "val_058",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000481.wav",
+                "gain": 1.200419477800826
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.0686563079855842
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000013.wav",
+                "gain": 0.8273821384898148
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000141.wav",
+                "gain": 0.9206899612496884
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000014.wav"
+        }
+    },
+    {
+        "id": "val_059",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.3741452254905757
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000485.wav",
+                "gain": 1.3623134992637183
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000538.wav",
+                "gain": 1.0905724167610666
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000114.wav",
+                "gain": 1.1171936052433387
+            }
+        ],
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000118.wav"
+        }
+    },
+    {
+        "id": "val_060",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001291.wav",
+                "gain": 0.7887870731021466
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 0.9663870718094256
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000013.wav",
+                "gain": 0.9794307698203869
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000111.wav",
+                "gain": 0.8306974367207184
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000005.wav"
+        }
+    },
+    {
+        "id": "val_061",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.2199679123548524
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000365.wav",
+                "gain": 1.0639883598649136
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000006.wav",
+                "gain": 0.9496021513006395
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000013.wav",
+                "gain": 0.826880661506681
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000145.wav",
+                "gain": 1.3259386605298287
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000018.wav"
+        }
+    },
+    {
+        "id": "val_062",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000020.wav",
+                "gain": 1.2240201572760172
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000013.wav",
+                "gain": 1.187646837468051
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000064.wav",
+                "gain": 1.3376970172333085
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000051.wav"
+        }
+    },
+    {
+        "id": "val_063",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 0.873428496589128
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000051.wav",
+                "gain": 1.3576970432908664
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000141.wav",
+                "gain": 1.0280032052852144
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000013.wav"
+        }
+    },
+    {
+        "id": "val_064",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000120.wav",
+                "gain": 0.9541323023923494
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000044.wav",
+                "gain": 1.074271594147801
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000123.wav",
+                "gain": 0.7540463915401787
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000005.wav"
+        }
+    },
+    {
+        "id": "val_065",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000098.wav",
+                "gain": 1.1993134418248643
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000018.wav",
+                "gain": 0.9798289049052856
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000108.wav",
+                "gain": 0.9608792640404525
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000051.wav"
+        }
+    },
+    {
+        "id": "val_066",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.382663730725804
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000036.wav",
+                "gain": 0.9003022113812971
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000044.wav",
+                "gain": 0.8837256831285233
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000084.wav",
+                "gain": 1.2803241232059264
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000051.wav"
+        }
+    },
+    {
+        "id": "val_067",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.7523465570055857
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000217.wav",
+                "gain": 0.885079202543947
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000110.wav",
+                "gain": 1.2866877765692517
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000227.wav",
+                "gain": 1.4009923518403502
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000001.wav",
+                "gain": 1.2906552291182132
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000039.wav",
+                "gain": 0.9418337981308329
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000018.wav"
+        }
+    },
+    {
+        "id": "val_068",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.8148308653999222
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000013.wav",
+                "gain": 1.3436984873181914
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000981.wav",
+                "gain": 1.3009301689079644
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000051.wav",
+                "gain": 0.7698884866815577
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000108.wav",
+                "gain": 1.0781060920786778
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000018.wav"
+        }
+    },
+    {
+        "id": "val_069",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000068.wav",
+                "gain": 1.0367532911972983
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.8268185237355374
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.3300836763384933
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000039.wav",
+                "gain": 1.3618153424508623
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000001.wav"
+        }
+    },
+    {
+        "id": "val_070",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.0061473890068324
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000088.wav",
+                "gain": 0.9432940669965307
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000051.wav",
+                "gain": 1.3933922471342133
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000009.wav",
+                "gain": 0.9705902890988506
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000018.wav"
+        }
+    },
+    {
+        "id": "val_071",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000501.wav",
+                "gain": 1.207264804534939
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 0.8952876072310181
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000153.wav",
+                "gain": 1.0053593070733204
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.8606997859998735
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000044.wav",
+                "gain": 1.2625331112945055
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000064.wav",
+                "gain": 1.4114669062103873
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000013.wav"
+        }
+    },
+    {
+        "id": "val_072",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.8985395185367526
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000110.wav",
+                "gain": 0.9696240636467394
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000044.wav",
+                "gain": 1.2908640467638137
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000158.wav",
+                "gain": 0.834913845820503
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000013.wav"
+        }
+    },
+    {
+        "id": "val_073",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.1841631590883117
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000195.wav",
+                "gain": 1.3305434162392744
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000051.wav",
+                "gain": 0.9243227147894275
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000051.wav",
+                "gain": 1.2238215553191796
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000005.wav"
+        }
+    },
+    {
+        "id": "val_074",
+        "target_instrument": "dholak",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 1.0015839235264443
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000226.wav",
+                "gain": 0.8904271860537668
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000037.wav",
+                "gain": 1.2949622616861678
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000039.wav",
+                "gain": 0.7584265177205557
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000013.wav"
+        }
+    },
+    {
+        "id": "val_075",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001274.wav",
+                "gain": 1.292051698784078
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000145.wav",
+                "gain": 0.7455014190684162
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000005.wav"
+        }
+    },
+    {
+        "id": "val_076",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000021.wav",
+                "gain": 1.2750569643320075
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.281748020060846
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000227.wav",
+                "gain": 1.3684907863787066
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000108.wav",
+                "gain": 1.163095103947936
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000005.wav"
+        }
+    },
+    {
+        "id": "val_077",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000365.wav",
+                "gain": 1.1358470968021877
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000003.wav",
+                "gain": 1.4100281299642625
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 0.7535529931746402
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000485.wav",
+                "gain": 1.1970461877956002
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000158.wav",
+                "gain": 1.293521851854555
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000051.wav"
+        }
+    },
+    {
+        "id": "val_078",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000098.wav",
+                "gain": 0.8857525270218797
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000305.wav",
+                "gain": 0.8669825028708366
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000138.wav",
+                "gain": 0.9532482932407257
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000018.wav"
+        }
+    },
+    {
+        "id": "val_079",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000934.wav",
+                "gain": 1.2919683646808044
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000563.wav",
+                "gain": 1.1348549962344472
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000036.wav",
+                "gain": 1.3299910082218684
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.8311062213502404
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000108.wav",
+                "gain": 0.8437100101962676
+            }
+        ],
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000044.wav"
+        }
+    },
+    {
+        "id": "val_080",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000044.wav",
+                "gain": 1.1305330569740977
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.7450039409210618
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000138.wav",
+                "gain": 1.4005399729089398
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    },
+    {
+        "id": "val_081",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000110.wav",
+                "gain": 1.2764406827828865
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000081.wav",
+                "gain": 0.8339916655825488
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000013.wav",
+                "gain": 0.907168052270649
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000602.wav",
+                "gain": 1.40542480096361
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.7187566558101942
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000051.wav",
+                "gain": 0.9305543042375743
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000014.wav"
+        }
+    },
+    {
+        "id": "val_082",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.3220460632358935
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.2098242737409055
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000009.wav",
+                "gain": 1.0767614520231585
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    },
+    {
+        "id": "val_083",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000217.wav",
+                "gain": 1.1306529952769762
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000013.wav",
+                "gain": 1.0926332969971666
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.106374564146302
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000014.wav",
+                "gain": 1.2206274861718573
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000014.wav"
+        }
+    },
+    {
+        "id": "val_084",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001159.wav",
+                "gain": 1.1864358455779926
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000036.wav",
+                "gain": 0.8132769027168989
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000005.wav",
+                "gain": 1.0275958169183073
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.0215407887535477
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000114.wav",
+                "gain": 1.2564400918048308
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    },
+    {
+        "id": "val_085",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000014.wav",
+                "gain": 1.376790903274057
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000018.wav",
+                "gain": 1.1919154462647705
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000803.wav",
+                "gain": 1.2824551298004327
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000392.wav",
+                "gain": 1.1280331667653591
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.3809594432976215
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000134.wav",
+                "gain": 0.9114492980919189
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    },
+    {
+        "id": "val_086",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000008.wav",
+                "gain": 0.96924999696682
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 1.187691042504693
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000114.wav",
+                "gain": 1.0601517327145238
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000015.wav"
+        }
+    },
+    {
+        "id": "val_087",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000731.wav",
+                "gain": 0.7202900157803749
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000016.wav",
+                "gain": 0.8879773425403223
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000055.wav",
+                "gain": 0.8249168220741205
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000014.wav"
+        }
+    },
+    {
+        "id": "val_088",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000013.wav",
+                "gain": 0.730472790228087
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000037.wav",
+                "gain": 0.8735934624165237
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001041.wav",
+                "gain": 0.7670720247110043
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000246.wav",
+                "gain": 1.3067057210970316
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.9259632473865868
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000138.wav",
+                "gain": 1.12498275632252
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    },
+    {
+        "id": "val_089",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000037.wav",
+                "gain": 1.259238301780977
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 1.3543032470254823
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.724127241850593
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000138.wav",
+                "gain": 0.8225852265492043
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    },
+    {
+        "id": "val_090",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000117.wav",
+                "gain": 1.0311925303194243
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000038.wav",
+                "gain": 0.906989276534016
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 0.8565731012980288
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000084.wav",
+                "gain": 1.3636510037012217
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    },
+    {
+        "id": "val_091",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000709.wav",
+                "gain": 1.1011535305047024
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.7331174437406375
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000060.wav",
+                "gain": 0.8376655774289791
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000015.wav"
+        }
+    },
+    {
+        "id": "val_092",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000538.wav",
+                "gain": 1.0614875996308692
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000041.wav",
+                "gain": 0.8883167803458258
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 1.220655539304895
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000055.wav",
+                "gain": 0.7093338176734599
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000015.wav"
+        }
+    },
+    {
+        "id": "val_093",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000008.wav",
+                "gain": 1.1176795190926987
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000735.wav",
+                "gain": 0.7754270892858139
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000015.wav",
+                "gain": 1.2217867170115737
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000009.wav",
+                "gain": 1.0633001536041053
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000014.wav"
+        }
+    },
+    {
+        "id": "val_094",
+        "target_instrument": "dhul",
+        "is_positive": true,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000013.wav",
+                "gain": 1.1817222619395338
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000192.wav",
+                "gain": 0.7657637294163162
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000014.wav",
+                "gain": 0.983725183720087
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000138.wav",
+                "gain": 1.0091863954409306
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000015.wav"
+        }
+    },
+    {
+        "id": "val_095",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000268.wav",
+                "gain": 1.1040842262095867
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000068.wav",
+                "gain": 0.738325081909009
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000158.wav",
+                "gain": 1.2711288125741484
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000051.wav",
+                "gain": 1.1371800938159866
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000073.wav",
+                "gain": 1.1580315574047158
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000015.wav"
+        }
+    },
+    {
+        "id": "val_096",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000128.wav",
+                "gain": 1.0776785209630564
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000092.wav",
+                "gain": 0.7724270541749414
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    },
+    {
+        "id": "val_097",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000051.wav",
+                "gain": 1.0038419076873748
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000065.wav",
+                "gain": 0.7581472054707362
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_000469.wav",
+                "gain": 0.7661683750185292
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000108.wav",
+                "gain": 1.1098773778893882
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    },
+    {
+        "id": "val_098",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000018.wav",
+                "gain": 0.9422021075607941
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001276.wav",
+                "gain": 0.9324360485773203
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000059.wav",
+                "gain": 0.7560068869454918
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000015.wav"
+        }
+    },
+    {
+        "id": "val_099",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000036.wav",
+                "gain": 0.7415492371031738
+            },
+            {
+                "instrument": "harmonium",
+                "file": "harmonium_001185.wav",
+                "gain": 0.7550383840464829
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000785.wav",
+                "gain": 1.184068126774062
+            },
+            {
+                "instrument": "vocals",
+                "file": "vocals_000138.wav",
+                "gain": 1.2403115432539322
+            }
+        ],
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000016.wav"
+        }
+    }
+]

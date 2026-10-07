@@ -1,0 +1,8 @@
+{
+  "status": "completed",
+  "metrics_plotted": [
+    "SAR",
+    "SDR",
+    "SIR"
+  ]
+}

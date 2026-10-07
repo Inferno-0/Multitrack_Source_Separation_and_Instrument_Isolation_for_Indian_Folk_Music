@@ -1,0 +1,3 @@
+model_checkpoint,checkpoint_step,dataset,split,n_tracks,n_evaluated,n_failed,source,metric_library,mean_SDR,median_SDR,mean_SI_SDR,median_SI_SDR,mean_SIR,median_SIR,mean_SAR,median_SAR,evaluation_status,evaluation_time
+D:\finetune_htdemucs_runs\run_002\best.pt,15000,D:\dataset_prepared_saraga\valid,valid,15,15,0,vocals,mir_eval 0.8.2 (joint 2-source),7.591395,7.709994,7.126617,7.16865,16.967206,16.51667,8.259214,8.207738,COMPLETE,2026-08-24T13:17:28.899562+00:00
+D:\finetune_htdemucs_runs\run_002\best.pt,15000,D:\dataset_prepared_saraga\valid,valid,15,15,0,accompaniment,mir_eval 0.8.2 (joint 2-source),13.388765,12.900773,13.059951,12.566882,19.590943,19.128379,14.683363,13.991295,COMPLETE,2026-08-24T13:17:28.899562+00:00

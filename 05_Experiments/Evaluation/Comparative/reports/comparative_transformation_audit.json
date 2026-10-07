@@ -1,0 +1,20 @@
+[
+  {
+    "experiment": "EXP002",
+    "source_file": "metrics\\per_track_metrics.jsonl",
+    "transformation": "jsonl parsed, fields safely matched to common schema",
+    "exclusions": "Unauthorised tracks/sources dropped"
+  },
+  {
+    "experiment": "EXP003",
+    "source_file": "metrics\\per_track_metrics.jsonl",
+    "transformation": "jsonl parsed, fields safely matched to common schema",
+    "exclusions": "Unauthorised tracks/sources dropped"
+  },
+  {
+    "experiment": "EXP004",
+    "source_file": "metrics\\EXP004_per_track_metrics.jsonl",
+    "transformation": "jsonl parsed, fields safely matched to common schema",
+    "exclusions": "Unauthorised tracks/sources dropped"
+  }
+]

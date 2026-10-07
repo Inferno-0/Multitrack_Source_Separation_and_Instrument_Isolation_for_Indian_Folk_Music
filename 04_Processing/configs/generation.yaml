@@ -1,0 +1,6 @@
+# Music Generation and Inference Configurations
+# Intended Future Purpose:
+# - Configure generation length, temperature, top-k, and top-p sampling values
+# - Set instrument replacement mapping rules and voice conversion target styles
+# - Define parameters for conditional generation using folk rhythm pattern constraints
+# - Specify paths for output formats, synthesis pipelines, and evaluation configurations

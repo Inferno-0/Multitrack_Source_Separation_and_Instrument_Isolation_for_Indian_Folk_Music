@@ -1,0 +1,52 @@
+{
+    "id": "pilot_019",
+    "mixture_composition": [
+        "vocals",
+        "dhul",
+        "harmonium",
+        "tabla",
+        "dholak",
+        "flute"
+    ],
+    "sources": {
+        "vocals": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000103.wav",
+            "original_filename": "saraga_0104_vocals.wav",
+            "gain_applied_in_mix": 0.16666666666666666
+        },
+        "dhul": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav",
+            "gain_applied_in_mix": 0.16666666666666666
+        },
+        "harmonium": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001131.wav",
+            "original_filename": "833.wav",
+            "gain_applied_in_mix": 0.16666666666666666
+        },
+        "tabla": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000439.wav",
+            "original_filename": "KB_18.wav",
+            "gain_applied_in_mix": 0.16666666666666666
+        },
+        "dholak": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000023.wav",
+            "original_filename": "Dholak Sample - 23.wav",
+            "gain_applied_in_mix": 0.16666666666666666
+        },
+        "flute": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000121.wav",
+            "original_filename": "sequenza_first_fragment_1-0.2.wav",
+            "gain_applied_in_mix": 0.16666666666666666
+        }
+    },
+    "target_present": true,
+    "query_instrument": "dhul",
+    "query_file": {
+        "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+        "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+    },
+    "target_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_019\\stems\\dhul.wav",
+    "mixture_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_019\\clean_mixture.wav",
+    "query_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_019\\query.wav"
+}

@@ -1,0 +1,7 @@
+graph TD
+    A[SARAGA Carnatic Multi-Tracks] --> B[Mix: Vocals + Accompaniment]
+    B --> C[Initialize Pretrained HT-Demucs]
+    C --> D[L1 Loss Optimization]
+    D --> E[15,000 Training Steps]
+    E --> F[Validation on 15 Held-out Tracks]
+    F --> G[Domain-Adapted HT-Demucs]

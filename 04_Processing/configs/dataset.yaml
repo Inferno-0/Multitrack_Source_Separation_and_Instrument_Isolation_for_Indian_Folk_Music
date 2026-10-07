@@ -1,0 +1,7 @@
+# Dataset Configurations
+# Intended Future Purpose:
+# - Specify the list of active folk traditions (Bihu, Baul Geet, etc.)
+# - Define training, validation, and test split ratios for experiments
+# - Store random seeds for reproducible data partitioning
+# - Map metadata column names and data types for ingestion verification
+# - Set rules for filtering low-quality recordings based on QC scores

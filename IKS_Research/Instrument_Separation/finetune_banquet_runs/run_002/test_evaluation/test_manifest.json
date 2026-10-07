@@ -1,0 +1,1453 @@
+[
+    {
+        "id": "test_tabla_pos_0",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000572.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000572.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000066.wav",
+                "gain": 0.6003561601267157
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8678623836635582
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_pos_1",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000510.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000510.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8528067447515333
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.6734535701400571
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_pos_2",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000472.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000472.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000038.wav",
+                "gain": 0.6882966371101542
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_pos_3",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000081.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000081.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.9690727701492422
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_pos_4",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000456.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000456.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8532994859693047
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000108.wav",
+                "gain": 0.773565202636187
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_pos_5",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000692.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000692.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000078.wav",
+                "gain": 0.6731388254050675
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.914562797108729
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_pos_6",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000497.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000497.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000038.wav",
+                "gain": 0.9619187918164469
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.6386447749988781
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_pos_7",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000511.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000511.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.7943293733212515
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.6777080052937916
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_pos_8",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000489.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000489.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.6580485604227357
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000020.wav",
+                "gain": 0.6946116179316875
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.9985748986788697
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_pos_9",
+        "target_instrument": "tabla",
+        "is_positive": true,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000506.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000506.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000010.wav",
+                "gain": 0.9125408126741021
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8655387380998009
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_0",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000473.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000120.wav",
+                "gain": 0.9633498846176757
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000023.wav",
+                "gain": 0.7967805150020216
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.7768904145768045
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_1",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000453.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.7037567843723654
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000010.wav",
+                "gain": 0.6447891397431385
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000054.wav",
+                "gain": 0.8027627124605866
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_2",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000489.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8723408737232685
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000038.wav",
+                "gain": 0.674124293824171
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_3",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000708.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000002.wav",
+                "gain": 0.628427425472719
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.878918231332511
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_4",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000510.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8299236590208414
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000120.wav",
+                "gain": 0.8397255281031192
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000038.wav",
+                "gain": 0.927336180527838
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_5",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000472.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000081.wav",
+                "gain": 0.9753965957213879
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.877236269406198
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.9155492147393126
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_6",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000081.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.8696081712091551
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_7",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000652.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8940923057332866
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.8118294057378149
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_8",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000646.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.7017639752589269
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000112.wav",
+                "gain": 0.6898983893567385
+            }
+        ]
+    },
+    {
+        "id": "test_tabla_neg_9",
+        "target_instrument": "tabla",
+        "is_positive": false,
+        "query": {
+            "instrument": "tabla",
+            "file": "tabla_000464.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.6828714864800831
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000083.wav",
+                "gain": 0.8769643253980872
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_0",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000033.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000033.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.9751070394747509
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000489.wav",
+                "gain": 0.8835062492889023
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_1",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000078.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000078.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000489.wav",
+                "gain": 0.8820475126246022
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.7265664928626776
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_2",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000083.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000083.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.6181131163552906
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000638.wav",
+                "gain": 0.8409746221940465
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_3",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000125.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000125.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8081793283228351
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000442.wav",
+                "gain": 0.9221909046633339
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000010.wav",
+                "gain": 0.6791192054380752
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_4",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000121.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000121.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000010.wav",
+                "gain": 0.9501642486160154
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000442.wav",
+                "gain": 0.8901833823616685
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_5",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000035.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000035.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000738.wav",
+                "gain": 0.8010025167033386
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000023.wav",
+                "gain": 0.8155033555797084
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_6",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000108.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000108.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000038.wav",
+                "gain": 0.8513490527391283
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.6169991501781423
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_7",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000120.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000120.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.9356819366879886
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_8",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000081.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000081.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.6967702160729241
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.6752351341555919
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_9",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000096.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000096.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.7979041877157488
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000010.wav",
+                "gain": 0.9022144186613612
+            }
+        ]
+    },
+    {
+        "id": "test_flute_pos_10",
+        "target_instrument": "flute",
+        "is_positive": true,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000066.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000066.wav",
+                "gain": 1.0
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8929227345241577
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000472.wav",
+                "gain": 0.9189395877373842
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_0",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000120.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.9282471091399903
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000023.wav",
+                "gain": 0.8652045822000913
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000730.wav",
+                "gain": 0.8309811224678522
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_1",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000120.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000010.wav",
+                "gain": 0.9826128729260358
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.9482543992773443
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_2",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000033.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000038.wav",
+                "gain": 0.6386165682515316
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_3",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000125.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8433022608827271
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000472.wav",
+                "gain": 0.8205203125192224
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_4",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000054.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000053.wav",
+                "gain": 0.7422112080351316
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8276272779129048
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000038.wav",
+                "gain": 0.6892416643490475
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_5",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000120.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.955551176406138
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000387.wav",
+                "gain": 0.9474687774132178
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.9295446680823841
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_6",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000066.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.7150112735462217
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000511.wav",
+                "gain": 0.867815500811808
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.6967289484683504
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_7",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000035.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8316109076254058
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000613.wav",
+                "gain": 0.6158649126040171
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.7718008245522977
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_8",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000129.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.7235085577121421
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.7978893307701764
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000761.wav",
+                "gain": 0.6630242364404856
+            }
+        ]
+    },
+    {
+        "id": "test_flute_neg_9",
+        "target_instrument": "flute",
+        "is_positive": false,
+        "query": {
+            "instrument": "flute",
+            "file": "flute_000120.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.679770903340254
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000326.wav",
+                "gain": 0.9279114247572965
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000023.wav",
+                "gain": 0.9507884064349851
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_0",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000010.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000120.wav",
+                "gain": 0.6832836368715114
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_1",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000010.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000037.wav",
+                "gain": 0.6701301466225059
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000054.wav",
+                "gain": 0.917829411139438
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8564638982460026
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_2",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000010.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000009.wav",
+                "gain": 0.8888796999242576
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.7592994844529197
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000066.wav",
+                "gain": 0.858788251354274
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_3",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000010.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8604093631500165
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000472.wav",
+                "gain": 0.7879185314172046
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000002.wav",
+                "gain": 0.7680403834542066
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_4",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000010.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000120.wav",
+                "gain": 0.9670826674215728
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.9118157399019557
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_5",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000010.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000081.wav",
+                "gain": 0.9254070097468086
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_6",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000023.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000511.wav",
+                "gain": 0.9513226322876533
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.7743144029738791
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_7",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000010.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000125.wav",
+                "gain": 0.9195073689108519
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_8",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000010.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000761.wav",
+                "gain": 0.8842906064364052
+            },
+            {
+                "instrument": "dhul",
+                "file": "dhul_000011.wav",
+                "gain": 0.8634166017624116
+            }
+        ]
+    },
+    {
+        "id": "test_dholak_neg_9",
+        "target_instrument": "dholak",
+        "is_positive": false,
+        "query": {
+            "instrument": "dholak",
+            "file": "dholak_000010.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000326.wav",
+                "gain": 0.7541909644036279
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000083.wav",
+                "gain": 0.9739869094333218
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_0",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000730.wav",
+                "gain": 0.7692337064434902
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000120.wav",
+                "gain": 0.6252173487839903
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_1",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000010.wav",
+                "gain": 0.6351977495719661
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000054.wav",
+                "gain": 0.7790615345088099
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_2",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000009.wav",
+                "gain": 0.9435830234457137
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000066.wav",
+                "gain": 0.9442571707920064
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_3",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000472.wav",
+                "gain": 0.8421957732529849
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000010.wav",
+                "gain": 0.6136931310345813
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000002.wav",
+                "gain": 0.8298667827485537
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_4",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000053.wav",
+                "gain": 0.7890058138299556
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000120.wav",
+                "gain": 0.8427023433638503
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000038.wav",
+                "gain": 0.6983568220394872
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_5",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.6772446606053371
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000081.wav",
+                "gain": 0.8485320418217466
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000387.wav",
+                "gain": 0.6938826462376849
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_6",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "tabla",
+                "file": "tabla_000511.wav",
+                "gain": 0.8521572313313197
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.935332329037185
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_7",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.6063107805393861
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000125.wav",
+                "gain": 0.8043982807997678
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000613.wav",
+                "gain": 0.7747295091107065
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_8",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "flute",
+                "file": "flute_000112.wav",
+                "gain": 0.9294730158779528
+            },
+            {
+                "instrument": "dholak",
+                "file": "dholak_000027.wav",
+                "gain": 0.753535407628219
+            },
+            {
+                "instrument": "tabla",
+                "file": "tabla_000761.wav",
+                "gain": 0.9565392757449405
+            }
+        ]
+    },
+    {
+        "id": "test_dhul_neg_9",
+        "target_instrument": "dhul",
+        "is_positive": false,
+        "query": {
+            "instrument": "dhul",
+            "file": "dhul_000011.wav"
+        },
+        "mixture_sources": [
+            {
+                "instrument": "dholak",
+                "file": "dholak_000023.wav",
+                "gain": 0.7498998392466691
+            },
+            {
+                "instrument": "flute",
+                "file": "flute_000083.wav",
+                "gain": 0.6247288410048543
+            }
+        ]
+    }
+]

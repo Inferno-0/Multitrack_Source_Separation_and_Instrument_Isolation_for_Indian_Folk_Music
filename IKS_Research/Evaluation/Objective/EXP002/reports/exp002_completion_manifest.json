@@ -1,0 +1,81 @@
+{
+  "experiment": "EXP002",
+  "experiment_name": "Objective Evaluation Analysis",
+  "generated_at": "2026-08-16T01:42:18.388318",
+  "status": "COMPLETE",
+  "dataset": {
+    "tracks": 50,
+    "sources_per_track": 4,
+    "source_evaluations": 200,
+    "sources": [
+      "vocals",
+      "drums",
+      "bass",
+      "other"
+    ]
+  },
+  "metrics": {
+    "approved": [
+      "SDR",
+      "SIR",
+      "SAR",
+      "SI-SDR"
+    ],
+    "excluded": [
+      "ISR"
+    ]
+  },
+  "analysis_stages_completed": [
+    "Metric integrity audit",
+    "Descriptive statistics",
+    "Distribution analysis",
+    "IQR-based outlier analysis",
+    "Source-level comparative analysis",
+    "Track-level aggregate analysis",
+    "Consolidated objective analysis",
+    "Final report consistency and QC audit"
+  ],
+  "objective_evaluation_policy": {
+    "metric_recomputation_in_analysis_cells": false,
+    "wav_files_loaded_in_analysis_cells": false,
+    "analysis_based_on_existing_metric_outputs": true,
+    "excluded_metric": "ISR"
+  },
+  "quality_control": {
+    "checks_passed": null,
+    "checks_failed": null,
+    "warnings": null,
+    "qc_status": "PASSED"
+  },
+  "files": {
+    "metric_files": [
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\metrics\\per_track_metrics.csv",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\metrics\\per_track_metrics.jsonl"
+    ],
+    "report_files": [
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\metrics_integrity_audit.json",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_metric_descriptive_statistics.json",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_distribution_outlier_analysis.json",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_source_level_comparative_analysis.json",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_track_level_aggregate_analysis.json",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_consolidated_objective_analysis.json",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_final_report_consistency_audit.json"
+    ],
+    "plot_files": [
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sdr_distribution.png",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sir_distribution.png",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sar_distribution.png",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_si_sdr_distribution.png",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sdr_by_source_boxplot.png",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sir_by_source_boxplot.png",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sar_by_source_boxplot.png",
+      "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_si_sdr_by_source_boxplot.png"
+    ]
+  },
+  "missing_files": {
+    "metrics": [],
+    "reports": [],
+    "plots": []
+  },
+  "completion_statement": "EXP002 objective evaluation analysis and quality-control processing completed successfully using the existing objective metric outputs."
+}

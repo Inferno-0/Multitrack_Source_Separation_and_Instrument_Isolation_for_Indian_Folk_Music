@@ -1,0 +1,1646 @@
+{
+  "experiment": "EXP004",
+  "analysis": "track_level_aggregate_analysis",
+  "data_source": {
+    "jsonl": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\metrics\\EXP004_per_track_metrics.jsonl",
+    "tracks": 50,
+    "sources_per_track": 4,
+    "source_evaluations": 200
+  },
+  "approved_metrics": [
+    "SDR",
+    "SIR",
+    "SAR",
+    "SI-SDR"
+  ],
+  "excluded_metrics": [
+    "ISR"
+  ],
+  "track_average_statistics": {
+    "SDR": {
+      "count": 50,
+      "mean_dB": 8.35095211290489,
+      "median_dB": 8.803800254001722,
+      "std_dB": 2.0317155065277177,
+      "min_dB": 3.302275817307283,
+      "q1_dB": 6.983766196451533,
+      "q3_dB": 9.656720754556652,
+      "max_dB": 11.909744922543545,
+      "iqr_dB": 2.6729545581051184,
+      "lower_fence_dB": 2.974334359293856,
+      "upper_fence_dB": 13.66615259171433,
+      "iqr_outlier_count": 0
+    },
+    "SIR": {
+      "count": 50,
+      "mean_dB": 17.238819096692875,
+      "median_dB": 17.367251019698916,
+      "std_dB": 3.097951232674928,
+      "min_dB": 9.158139363790816,
+      "q1_dB": 14.493738129113648,
+      "q3_dB": 19.616008195256335,
+      "max_dB": 23.11280560790555,
+      "iqr_dB": 5.122270066142686,
+      "lower_fence_dB": 6.810333029899619,
+      "upper_fence_dB": 27.299413294470362,
+      "iqr_outlier_count": 0
+    },
+    "SAR": {
+      "count": 50,
+      "mean_dB": 9.22932205427569,
+      "median_dB": 9.504320174181075,
+      "std_dB": 1.8893749044506716,
+      "min_dB": 4.701904923830426,
+      "q1_dB": 7.9354491602771144,
+      "q3_dB": 10.51668256022566,
+      "max_dB": 12.959516707155608,
+      "iqr_dB": 2.5812333999485464,
+      "lower_fence_dB": 4.063599060354295,
+      "upper_fence_dB": 14.388532660148481,
+      "iqr_outlier_count": 0
+    },
+    "SI-SDR": {
+      "count": 50,
+      "mean_dB": 7.441730734184384,
+      "median_dB": 7.850339651107788,
+      "std_dB": 2.3948989212498817,
+      "min_dB": 1.5770162343978882,
+      "q1_dB": 6.000760540366173,
+      "q3_dB": 8.906192153692245,
+      "max_dB": 11.446408033370972,
+      "iqr_dB": 2.9054316133260727,
+      "lower_fence_dB": 1.6426131203770638,
+      "upper_fence_dB": 13.264339573681355,
+      "iqr_outlier_count": 1
+    }
+  },
+  "track_rankings": {
+    "SDR": [
+      {
+        "track": "Speak Softly - Like Horses",
+        "value_dB": 11.909744922543545
+      },
+      {
+        "track": "Side Effects Project - Sing With Me",
+        "value_dB": 11.258182994693813
+      },
+      {
+        "track": "The Mountaineering Club - Mallory",
+        "value_dB": 11.242143540848987
+      },
+      {
+        "track": "Enda Reilly - Cur An Long Ag Seol",
+        "value_dB": 11.172525629525877
+      },
+      {
+        "track": "Speak Softly - Broken Man",
+        "value_dB": 11.10259976153871
+      },
+      {
+        "track": "Sambasevam Shanmugam - Kaathaadi",
+        "value_dB": 10.754760226762105
+      },
+      {
+        "track": "BKS - Too Much",
+        "value_dB": 10.631860366204949
+      },
+      {
+        "track": "Motor Tapes - Shore",
+        "value_dB": 10.41561251117189
+      },
+      {
+        "track": "M.E.R.C. Music - Knockout",
+        "value_dB": 10.287114844711935
+      },
+      {
+        "track": "Moosmusic - Big Dummy Shake",
+        "value_dB": 10.0169459760958
+      },
+      {
+        "track": "Louis Cressy Band - Good Time",
+        "value_dB": 9.896972474749555
+      },
+      {
+        "track": "PR - Happy Daze",
+        "value_dB": 9.741565753725629
+      },
+      {
+        "track": "Triviul feat. The Fiend - Widow",
+        "value_dB": 9.660558286910014
+      },
+      {
+        "track": "Secretariat - Over The Top",
+        "value_dB": 9.645208157496562
+      },
+      {
+        "track": "Lyndsey Ollard - Catching Up",
+        "value_dB": 9.39468143387099
+      },
+      {
+        "track": "Cristina Vane - So Easy",
+        "value_dB": 9.352606173912326
+      },
+      {
+        "track": "Nerve 9 - Pray For The Rain",
+        "value_dB": 9.302809316379205
+      },
+      {
+        "track": "Angels In Amplifiers - I'm Alright",
+        "value_dB": 9.295882079517774
+      },
+      {
+        "track": "BKS - Bulldozer",
+        "value_dB": 9.285448619649985
+      },
+      {
+        "track": "Buitraker - Revo X",
+        "value_dB": 9.271377598656704
+      },
+      {
+        "track": "Skelpolu - Resurrection",
+        "value_dB": 9.263708539639266
+      },
+      {
+        "track": "Mu - Too Bright",
+        "value_dB": 9.21093741048755
+      },
+      {
+        "track": "Ben Carrigan - We'll Talk About It All Tonight",
+        "value_dB": 9.003229812734018
+      },
+      {
+        "track": "Georgia Wonder - Siren",
+        "value_dB": 8.8583524110915
+      },
+      {
+        "track": "Forkupines - Semantics",
+        "value_dB": 8.816047531773345
+      },
+      {
+        "track": "Juliet's Rescue - Heartbeats",
+        "value_dB": 8.791552976230097
+      },
+      {
+        "track": "The Long Wait - Dark Horses",
+        "value_dB": 8.609636416147858
+      },
+      {
+        "track": "Tom McKenzie - Directions",
+        "value_dB": 8.574533647125746
+      },
+      {
+        "track": "James Elder & Mark M Thompson - The English Actor",
+        "value_dB": 8.410639629419874
+      },
+      {
+        "track": "The Sunshine Garcia Band - For I Am The Moon",
+        "value_dB": 8.40842339900902
+      },
+      {
+        "track": "Bobby Nobody - Stitch Up",
+        "value_dB": 8.221167182981167
+      },
+      {
+        "track": "We Fell From The Sky - Not You",
+        "value_dB": 8.091028557604488
+      },
+      {
+        "track": "Secretariat - Borderline",
+        "value_dB": 7.659398052584388
+      },
+      {
+        "track": "Zeno - Signs",
+        "value_dB": 7.555398240569534
+      },
+      {
+        "track": "Raft Monk - Tiring",
+        "value_dB": 7.242289951849672
+      },
+      {
+        "track": "The Easton Ellises (Baumi) - SDRNR",
+        "value_dB": 7.2063722903367164
+      },
+      {
+        "track": "Al James - Schoolboy Facination",
+        "value_dB": 7.066492755351126
+      },
+      {
+        "track": "Signe Jakobsen - What Have You Done To Me",
+        "value_dB": 6.956190676818336
+      },
+      {
+        "track": "The Doppler Shift - Atrophy",
+        "value_dB": 6.926427896769554
+      },
+      {
+        "track": "The Easton Ellises - Falcon 69",
+        "value_dB": 6.7187833696402315
+      },
+      {
+        "track": "Girls Under Glass - We Feel Alright",
+        "value_dB": 6.699268331170067
+      },
+      {
+        "track": "Carlos Gonzalez - A Place For Us",
+        "value_dB": 6.370276792909203
+      },
+      {
+        "track": "Hollow Ground - Ill Fate",
+        "value_dB": 5.852872031490295
+      },
+      {
+        "track": "Timboz - Pony",
+        "value_dB": 5.714378794446878
+      },
+      {
+        "track": "Punkdisco - Oral Hygiene",
+        "value_dB": 5.649569455733537
+      },
+      {
+        "track": "Little Chicago's Finest - My Own",
+        "value_dB": 5.430576489520367
+      },
+      {
+        "track": "AM Contra - Heart Peripheral",
+        "value_dB": 4.735752199356258
+      },
+      {
+        "track": "Detsky Sad - Walkie Talkie",
+        "value_dB": 4.327417939496936
+      },
+      {
+        "track": "Arise - Run Run Run",
+        "value_dB": 4.2360063766838705
+      },
+      {
+        "track": "PR - Oh No",
+        "value_dB": 3.302275817307283
+      }
+    ],
+    "SIR": [
+      {
+        "track": "Enda Reilly - Cur An Long Ag Seol",
+        "value_dB": 23.11280560790555
+      },
+      {
+        "track": "Sambasevam Shanmugam - Kaathaadi",
+        "value_dB": 22.351183115461907
+      },
+      {
+        "track": "Speak Softly - Like Horses",
+        "value_dB": 22.006771125187626
+      },
+      {
+        "track": "The Mountaineering Club - Mallory",
+        "value_dB": 21.89381842558658
+      },
+      {
+        "track": "Triviul feat. The Fiend - Widow",
+        "value_dB": 21.254295104924637
+      },
+      {
+        "track": "Speak Softly - Broken Man",
+        "value_dB": 21.23994256414613
+      },
+      {
+        "track": "Motor Tapes - Shore",
+        "value_dB": 21.16990361738396
+      },
+      {
+        "track": "Side Effects Project - Sing With Me",
+        "value_dB": 21.148863461244485
+      },
+      {
+        "track": "Secretariat - Over The Top",
+        "value_dB": 19.784457211983177
+      },
+      {
+        "track": "Nerve 9 - Pray For The Rain",
+        "value_dB": 19.727157727698614
+      },
+      {
+        "track": "Lyndsey Ollard - Catching Up",
+        "value_dB": 19.726255236982833
+      },
+      {
+        "track": "BKS - Too Much",
+        "value_dB": 19.7123705064213
+      },
+      {
+        "track": "M.E.R.C. Music - Knockout",
+        "value_dB": 19.68512135514933
+      },
+      {
+        "track": "PR - Happy Daze",
+        "value_dB": 19.40866871557735
+      },
+      {
+        "track": "Moosmusic - Big Dummy Shake",
+        "value_dB": 19.21592898540956
+      },
+      {
+        "track": "Louis Cressy Band - Good Time",
+        "value_dB": 19.03958045650198
+      },
+      {
+        "track": "Ben Carrigan - We'll Talk About It All Tonight",
+        "value_dB": 18.450621285100997
+      },
+      {
+        "track": "The Sunshine Garcia Band - For I Am The Moon",
+        "value_dB": 18.32314276596454
+      },
+      {
+        "track": "BKS - Bulldozer",
+        "value_dB": 18.29652808489821
+      },
+      {
+        "track": "Angels In Amplifiers - I'm Alright",
+        "value_dB": 18.28442096784901
+      },
+      {
+        "track": "The Long Wait - Dark Horses",
+        "value_dB": 18.22953102934816
+      },
+      {
+        "track": "Cristina Vane - So Easy",
+        "value_dB": 18.17171169034998
+      },
+      {
+        "track": "Little Chicago's Finest - My Own",
+        "value_dB": 17.748083260759813
+      },
+      {
+        "track": "James Elder & Mark M Thompson - The English Actor",
+        "value_dB": 17.745984149070225
+      },
+      {
+        "track": "Mu - Too Bright",
+        "value_dB": 17.60390613688441
+      },
+      {
+        "track": "Secretariat - Borderline",
+        "value_dB": 17.13059590251342
+      },
+      {
+        "track": "Juliet's Rescue - Heartbeats",
+        "value_dB": 17.02281973403692
+      },
+      {
+        "track": "Forkupines - Semantics",
+        "value_dB": 16.998909437337957
+      },
+      {
+        "track": "Tom McKenzie - Directions",
+        "value_dB": 16.97622447737747
+      },
+      {
+        "track": "Bobby Nobody - Stitch Up",
+        "value_dB": 16.873016370326987
+      },
+      {
+        "track": "Buitraker - Revo X",
+        "value_dB": 16.817825834262475
+      },
+      {
+        "track": "Georgia Wonder - Siren",
+        "value_dB": 16.55225147906514
+      },
+      {
+        "track": "We Fell From The Sky - Not You",
+        "value_dB": 16.349772249176276
+      },
+      {
+        "track": "Skelpolu - Resurrection",
+        "value_dB": 16.200629067355347
+      },
+      {
+        "track": "Carlos Gonzalez - A Place For Us",
+        "value_dB": 15.705483887805626
+      },
+      {
+        "track": "Zeno - Signs",
+        "value_dB": 14.97816637416739
+      },
+      {
+        "track": "PR - Oh No",
+        "value_dB": 14.810191866398778
+      },
+      {
+        "track": "Al James - Schoolboy Facination",
+        "value_dB": 14.388253550018606
+      },
+      {
+        "track": "Raft Monk - Tiring",
+        "value_dB": 14.246092735755646
+      },
+      {
+        "track": "Signe Jakobsen - What Have You Done To Me",
+        "value_dB": 14.245523139125993
+      },
+      {
+        "track": "Girls Under Glass - We Feel Alright",
+        "value_dB": 14.221546498679782
+      },
+      {
+        "track": "Punkdisco - Oral Hygiene",
+        "value_dB": 14.212904093262722
+      },
+      {
+        "track": "The Easton Ellises - Falcon 69",
+        "value_dB": 14.159508200257697
+      },
+      {
+        "track": "The Doppler Shift - Atrophy",
+        "value_dB": 13.849144913712228
+      },
+      {
+        "track": "The Easton Ellises (Baumi) - SDRNR",
+        "value_dB": 13.752124885460503
+      },
+      {
+        "track": "Arise - Run Run Run",
+        "value_dB": 13.553252645969176
+      },
+      {
+        "track": "Detsky Sad - Walkie Talkie",
+        "value_dB": 13.1364597818814
+      },
+      {
+        "track": "Timboz - Pony",
+        "value_dB": 11.77697645517694
+      },
+      {
+        "track": "Hollow Ground - Ill Fate",
+        "value_dB": 11.494089303938196
+      },
+      {
+        "track": "AM Contra - Heart Peripheral",
+        "value_dB": 9.158139363790816
+      }
+    ],
+    "SAR": [
+      {
+        "track": "Speak Softly - Like Horses",
+        "value_dB": 12.959516707155608
+      },
+      {
+        "track": "Speak Softly - Broken Man",
+        "value_dB": 12.751954958138695
+      },
+      {
+        "track": "Side Effects Project - Sing With Me",
+        "value_dB": 11.924861016518038
+      },
+      {
+        "track": "The Mountaineering Club - Mallory",
+        "value_dB": 11.892881195704152
+      },
+      {
+        "track": "Enda Reilly - Cur An Long Ag Seol",
+        "value_dB": 11.59623361269346
+      },
+      {
+        "track": "BKS - Too Much",
+        "value_dB": 11.35211196849814
+      },
+      {
+        "track": "Sambasevam Shanmugam - Kaathaadi",
+        "value_dB": 11.35054496733672
+      },
+      {
+        "track": "Motor Tapes - Shore",
+        "value_dB": 11.080903489281628
+      },
+      {
+        "track": "M.E.R.C. Music - Knockout",
+        "value_dB": 10.766588075943252
+      },
+      {
+        "track": "Moosmusic - Big Dummy Shake",
+        "value_dB": 10.751609159903936
+      },
+      {
+        "track": "Louis Cressy Band - Good Time",
+        "value_dB": 10.733240267100829
+      },
+      {
+        "track": "Lyndsey Ollard - Catching Up",
+        "value_dB": 10.566887222543658
+      },
+      {
+        "track": "Angels In Amplifiers - I'm Alright",
+        "value_dB": 10.52566676445992
+      },
+      {
+        "track": "Nerve 9 - Pray For The Rain",
+        "value_dB": 10.489729947522878
+      },
+      {
+        "track": "Triviul feat. The Fiend - Widow",
+        "value_dB": 10.48549462352756
+      },
+      {
+        "track": "Secretariat - Over The Top",
+        "value_dB": 10.46877638847447
+      },
+      {
+        "track": "Mu - Too Bright",
+        "value_dB": 10.366455807847881
+      },
+      {
+        "track": "Buitraker - Revo X",
+        "value_dB": 10.2214915290541
+      },
+      {
+        "track": "BKS - Bulldozer",
+        "value_dB": 10.116226735573626
+      },
+      {
+        "track": "Cristina Vane - So Easy",
+        "value_dB": 10.021215666787272
+      },
+      {
+        "track": "Georgia Wonder - Siren",
+        "value_dB": 9.881350672483862
+      },
+      {
+        "track": "Forkupines - Semantics",
+        "value_dB": 9.782701391012534
+      },
+      {
+        "track": "Skelpolu - Resurrection",
+        "value_dB": 9.73697058205927
+      },
+      {
+        "track": "PR - Happy Daze",
+        "value_dB": 9.6809169031743
+      },
+      {
+        "track": "Tom McKenzie - Directions",
+        "value_dB": 9.516504228344987
+      },
+      {
+        "track": "Ben Carrigan - We'll Talk About It All Tonight",
+        "value_dB": 9.492136120017161
+      },
+      {
+        "track": "Juliet's Rescue - Heartbeats",
+        "value_dB": 9.489571349490342
+      },
+      {
+        "track": "James Elder & Mark M Thompson - The English Actor",
+        "value_dB": 9.457878273224885
+      },
+      {
+        "track": "The Long Wait - Dark Horses",
+        "value_dB": 8.88069091656398
+      },
+      {
+        "track": "The Sunshine Garcia Band - For I Am The Moon",
+        "value_dB": 8.700289995845631
+      },
+      {
+        "track": "We Fell From The Sky - Not You",
+        "value_dB": 8.685538857522081
+      },
+      {
+        "track": "Bobby Nobody - Stitch Up",
+        "value_dB": 8.585560204569667
+      },
+      {
+        "track": "Secretariat - Borderline",
+        "value_dB": 8.509671634345844
+      },
+      {
+        "track": "The Easton Ellises (Baumi) - SDRNR",
+        "value_dB": 8.126654624292856
+      },
+      {
+        "track": "Zeno - Signs",
+        "value_dB": 8.008109944495827
+      },
+      {
+        "track": "Signe Jakobsen - What Have You Done To Me",
+        "value_dB": 7.999239591244778
+      },
+      {
+        "track": "Raft Monk - Tiring",
+        "value_dB": 7.9418897962545545
+      },
+      {
+        "track": "Arise - Run Run Run",
+        "value_dB": 7.9333022816179675
+      },
+      {
+        "track": "The Doppler Shift - Atrophy",
+        "value_dB": 7.862818410853946
+      },
+      {
+        "track": "Girls Under Glass - We Feel Alright",
+        "value_dB": 7.7724524824089105
+      },
+      {
+        "track": "The Easton Ellises - Falcon 69",
+        "value_dB": 7.721365756968205
+      },
+      {
+        "track": "Al James - Schoolboy Facination",
+        "value_dB": 7.656529316616509
+      },
+      {
+        "track": "AM Contra - Heart Peripheral",
+        "value_dB": 7.385637590883074
+      },
+      {
+        "track": "Hollow Ground - Ill Fate",
+        "value_dB": 6.766777403730927
+      },
+      {
+        "track": "Timboz - Pony",
+        "value_dB": 6.472292001035864
+      },
+      {
+        "track": "Little Chicago's Finest - My Own",
+        "value_dB": 6.442243647982308
+      },
+      {
+        "track": "Punkdisco - Oral Hygiene",
+        "value_dB": 6.287408964058691
+      },
+      {
+        "track": "Carlos Gonzalez - A Place For Us",
+        "value_dB": 6.142089243669064
+      },
+      {
+        "track": "PR - Oh No",
+        "value_dB": 5.423215501120164
+      },
+      {
+        "track": "Detsky Sad - Walkie Talkie",
+        "value_dB": 4.701904923830426
+      }
+    ],
+    "SI-SDR": [
+      {
+        "track": "Speak Softly - Like Horses",
+        "value_dB": 11.446408033370972
+      },
+      {
+        "track": "The Mountaineering Club - Mallory",
+        "value_dB": 10.846258044242859
+      },
+      {
+        "track": "Enda Reilly - Cur An Long Ag Seol",
+        "value_dB": 10.77702260017395
+      },
+      {
+        "track": "Speak Softly - Broken Man",
+        "value_dB": 10.62396776676178
+      },
+      {
+        "track": "Side Effects Project - Sing With Me",
+        "value_dB": 10.43747466802597
+      },
+      {
+        "track": "Sambasevam Shanmugam - Kaathaadi",
+        "value_dB": 10.276421785354614
+      },
+      {
+        "track": "BKS - Too Much",
+        "value_dB": 10.127783298492432
+      },
+      {
+        "track": "Motor Tapes - Shore",
+        "value_dB": 9.996389627456665
+      },
+      {
+        "track": "M.E.R.C. Music - Knockout",
+        "value_dB": 9.822829008102417
+      },
+      {
+        "track": "Moosmusic - Big Dummy Shake",
+        "value_dB": 9.50818419456482
+      },
+      {
+        "track": "Louis Cressy Band - Good Time",
+        "value_dB": 9.418494701385498
+      },
+      {
+        "track": "Secretariat - Over The Top",
+        "value_dB": 9.148986220359802
+      },
+      {
+        "track": "Triviul feat. The Fiend - Widow",
+        "value_dB": 8.93306314945221
+      },
+      {
+        "track": "Lyndsey Ollard - Catching Up",
+        "value_dB": 8.825579166412354
+      },
+      {
+        "track": "Mu - Too Bright",
+        "value_dB": 8.706455826759338
+      },
+      {
+        "track": "Nerve 9 - Pray For The Rain",
+        "value_dB": 8.696402907371521
+      },
+      {
+        "track": "Angels In Amplifiers - I'm Alright",
+        "value_dB": 8.689634680747986
+      },
+      {
+        "track": "BKS - Bulldozer",
+        "value_dB": 8.669206857681274
+      },
+      {
+        "track": "Cristina Vane - So Easy",
+        "value_dB": 8.652639031410217
+      },
+      {
+        "track": "Buitraker - Revo X",
+        "value_dB": 8.520829200744629
+      },
+      {
+        "track": "Ben Carrigan - We'll Talk About It All Tonight",
+        "value_dB": 8.241458058357239
+      },
+      {
+        "track": "Georgia Wonder - Siren",
+        "value_dB": 8.139106154441833
+      },
+      {
+        "track": "Forkupines - Semantics",
+        "value_dB": 8.10133409500122
+      },
+      {
+        "track": "The Long Wait - Dark Horses",
+        "value_dB": 7.976893186569214
+      },
+      {
+        "track": "Skelpolu - Resurrection",
+        "value_dB": 7.876753628253937
+      },
+      {
+        "track": "Juliet's Rescue - Heartbeats",
+        "value_dB": 7.823925673961639
+      },
+      {
+        "track": "James Elder & Mark M Thompson - The English Actor",
+        "value_dB": 7.701551675796509
+      },
+      {
+        "track": "The Sunshine Garcia Band - For I Am The Moon",
+        "value_dB": 7.667381227016449
+      },
+      {
+        "track": "PR - Happy Daze",
+        "value_dB": 7.6537768840789795
+      },
+      {
+        "track": "Tom McKenzie - Directions",
+        "value_dB": 7.5468127727508545
+      },
+      {
+        "track": "Bobby Nobody - Stitch Up",
+        "value_dB": 7.508164644241333
+      },
+      {
+        "track": "We Fell From The Sky - Not You",
+        "value_dB": 7.231556177139282
+      },
+      {
+        "track": "Secretariat - Borderline",
+        "value_dB": 6.82090437412262
+      },
+      {
+        "track": "Zeno - Signs",
+        "value_dB": 6.4987832903862
+      },
+      {
+        "track": "Raft Monk - Tiring",
+        "value_dB": 6.272351384162903
+      },
+      {
+        "track": "The Easton Ellises (Baumi) - SDRNR",
+        "value_dB": 6.08947491645813
+      },
+      {
+        "track": "Signe Jakobsen - What Have You Done To Me",
+        "value_dB": 6.02659285068512
+      },
+      {
+        "track": "Al James - Schoolboy Facination",
+        "value_dB": 5.992149770259857
+      },
+      {
+        "track": "The Doppler Shift - Atrophy",
+        "value_dB": 5.779137283563614
+      },
+      {
+        "track": "The Easton Ellises - Falcon 69",
+        "value_dB": 5.616474390029907
+      },
+      {
+        "track": "Girls Under Glass - We Feel Alright",
+        "value_dB": 5.615983426570892
+      },
+      {
+        "track": "Carlos Gonzalez - A Place For Us",
+        "value_dB": 5.034864917397499
+      },
+      {
+        "track": "Little Chicago's Finest - My Own",
+        "value_dB": 4.783179461956024
+      },
+      {
+        "track": "Hollow Ground - Ill Fate",
+        "value_dB": 4.425686631351709
+      },
+      {
+        "track": "Punkdisco - Oral Hygiene",
+        "value_dB": 4.398623526096344
+      },
+      {
+        "track": "Timboz - Pony",
+        "value_dB": 4.246102198958397
+      },
+      {
+        "track": "Detsky Sad - Walkie Talkie",
+        "value_dB": 2.899691015481949
+      },
+      {
+        "track": "PR - Oh No",
+        "value_dB": 2.236055165529251
+      },
+      {
+        "track": "Arise - Run Run Run",
+        "value_dB": 2.1807209253311157
+      },
+      {
+        "track": "AM Contra - Heart Peripheral",
+        "value_dB": 1.5770162343978882
+      }
+    ]
+  },
+  "track_summary": {
+    "Al James - Schoolboy Facination": {
+      "metrics": {
+        "SDR": 7.066492755351126,
+        "SIR": 14.388253550018606,
+        "SAR": 7.656529316616509,
+        "SI-SDR": 5.992149770259857
+      },
+      "mean_across_approved_metrics_dB": 8.775856348061524,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "AM Contra - Heart Peripheral": {
+      "metrics": {
+        "SDR": 4.735752199356258,
+        "SIR": 9.158139363790816,
+        "SAR": 7.385637590883074,
+        "SI-SDR": 1.5770162343978882
+      },
+      "mean_across_approved_metrics_dB": 5.71413634710701,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Angels In Amplifiers - I'm Alright": {
+      "metrics": {
+        "SDR": 9.295882079517774,
+        "SIR": 18.28442096784901,
+        "SAR": 10.52566676445992,
+        "SI-SDR": 8.689634680747986
+      },
+      "mean_across_approved_metrics_dB": 11.698901123143672,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Arise - Run Run Run": {
+      "metrics": {
+        "SDR": 4.2360063766838705,
+        "SIR": 13.553252645969176,
+        "SAR": 7.9333022816179675,
+        "SI-SDR": 2.1807209253311157
+      },
+      "mean_across_approved_metrics_dB": 6.9758205574005325,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Ben Carrigan - We'll Talk About It All Tonight": {
+      "metrics": {
+        "SDR": 9.003229812734018,
+        "SIR": 18.450621285100997,
+        "SAR": 9.492136120017161,
+        "SI-SDR": 8.241458058357239
+      },
+      "mean_across_approved_metrics_dB": 11.296861319052354,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "BKS - Bulldozer": {
+      "metrics": {
+        "SDR": 9.285448619649985,
+        "SIR": 18.29652808489821,
+        "SAR": 10.116226735573626,
+        "SI-SDR": 8.669206857681274
+      },
+      "mean_across_approved_metrics_dB": 11.591852574450774,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "BKS - Too Much": {
+      "metrics": {
+        "SDR": 10.631860366204949,
+        "SIR": 19.7123705064213,
+        "SAR": 11.35211196849814,
+        "SI-SDR": 10.127783298492432
+      },
+      "mean_across_approved_metrics_dB": 12.956031534904206,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Bobby Nobody - Stitch Up": {
+      "metrics": {
+        "SDR": 8.221167182981167,
+        "SIR": 16.873016370326987,
+        "SAR": 8.585560204569667,
+        "SI-SDR": 7.508164644241333
+      },
+      "mean_across_approved_metrics_dB": 10.296977100529789,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Buitraker - Revo X": {
+      "metrics": {
+        "SDR": 9.271377598656704,
+        "SIR": 16.817825834262475,
+        "SAR": 10.2214915290541,
+        "SI-SDR": 8.520829200744629
+      },
+      "mean_across_approved_metrics_dB": 11.207881040679478,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Carlos Gonzalez - A Place For Us": {
+      "metrics": {
+        "SDR": 6.370276792909203,
+        "SIR": 15.705483887805626,
+        "SAR": 6.142089243669064,
+        "SI-SDR": 5.034864917397499
+      },
+      "mean_across_approved_metrics_dB": 8.313178710445348,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Cristina Vane - So Easy": {
+      "metrics": {
+        "SDR": 9.352606173912326,
+        "SIR": 18.17171169034998,
+        "SAR": 10.021215666787272,
+        "SI-SDR": 8.652639031410217
+      },
+      "mean_across_approved_metrics_dB": 11.549543140614949,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Detsky Sad - Walkie Talkie": {
+      "metrics": {
+        "SDR": 4.327417939496936,
+        "SIR": 13.1364597818814,
+        "SAR": 4.701904923830426,
+        "SI-SDR": 2.899691015481949
+      },
+      "mean_across_approved_metrics_dB": 6.266368415172678,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Enda Reilly - Cur An Long Ag Seol": {
+      "metrics": {
+        "SDR": 11.172525629525877,
+        "SIR": 23.11280560790555,
+        "SAR": 11.59623361269346,
+        "SI-SDR": 10.77702260017395
+      },
+      "mean_across_approved_metrics_dB": 14.16464686257471,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Forkupines - Semantics": {
+      "metrics": {
+        "SDR": 8.816047531773345,
+        "SIR": 16.998909437337957,
+        "SAR": 9.782701391012534,
+        "SI-SDR": 8.10133409500122
+      },
+      "mean_across_approved_metrics_dB": 10.924748113781265,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Georgia Wonder - Siren": {
+      "metrics": {
+        "SDR": 8.8583524110915,
+        "SIR": 16.55225147906514,
+        "SAR": 9.881350672483862,
+        "SI-SDR": 8.139106154441833
+      },
+      "mean_across_approved_metrics_dB": 10.857765179270585,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Girls Under Glass - We Feel Alright": {
+      "metrics": {
+        "SDR": 6.699268331170067,
+        "SIR": 14.221546498679782,
+        "SAR": 7.7724524824089105,
+        "SI-SDR": 5.615983426570892
+      },
+      "mean_across_approved_metrics_dB": 8.577312684707413,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Hollow Ground - Ill Fate": {
+      "metrics": {
+        "SDR": 5.852872031490295,
+        "SIR": 11.494089303938196,
+        "SAR": 6.766777403730927,
+        "SI-SDR": 4.425686631351709
+      },
+      "mean_across_approved_metrics_dB": 7.134856342627782,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "James Elder & Mark M Thompson - The English Actor": {
+      "metrics": {
+        "SDR": 8.410639629419874,
+        "SIR": 17.745984149070225,
+        "SAR": 9.457878273224885,
+        "SI-SDR": 7.701551675796509
+      },
+      "mean_across_approved_metrics_dB": 10.829013431877874,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Juliet's Rescue - Heartbeats": {
+      "metrics": {
+        "SDR": 8.791552976230097,
+        "SIR": 17.02281973403692,
+        "SAR": 9.489571349490342,
+        "SI-SDR": 7.823925673961639
+      },
+      "mean_across_approved_metrics_dB": 10.781967433429749,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Little Chicago's Finest - My Own": {
+      "metrics": {
+        "SDR": 5.430576489520367,
+        "SIR": 17.748083260759813,
+        "SAR": 6.442243647982308,
+        "SI-SDR": 4.783179461956024
+      },
+      "mean_across_approved_metrics_dB": 8.601020715054627,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Louis Cressy Band - Good Time": {
+      "metrics": {
+        "SDR": 9.896972474749555,
+        "SIR": 19.03958045650198,
+        "SAR": 10.733240267100829,
+        "SI-SDR": 9.418494701385498
+      },
+      "mean_across_approved_metrics_dB": 12.272071974934466,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Lyndsey Ollard - Catching Up": {
+      "metrics": {
+        "SDR": 9.39468143387099,
+        "SIR": 19.726255236982833,
+        "SAR": 10.566887222543658,
+        "SI-SDR": 8.825579166412354
+      },
+      "mean_across_approved_metrics_dB": 12.128350764952458,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "M.E.R.C. Music - Knockout": {
+      "metrics": {
+        "SDR": 10.287114844711935,
+        "SIR": 19.68512135514933,
+        "SAR": 10.766588075943252,
+        "SI-SDR": 9.822829008102417
+      },
+      "mean_across_approved_metrics_dB": 12.640413320976734,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Moosmusic - Big Dummy Shake": {
+      "metrics": {
+        "SDR": 10.0169459760958,
+        "SIR": 19.21592898540956,
+        "SAR": 10.751609159903936,
+        "SI-SDR": 9.50818419456482
+      },
+      "mean_across_approved_metrics_dB": 12.373167078993529,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Motor Tapes - Shore": {
+      "metrics": {
+        "SDR": 10.41561251117189,
+        "SIR": 21.16990361738396,
+        "SAR": 11.080903489281628,
+        "SI-SDR": 9.996389627456665
+      },
+      "mean_across_approved_metrics_dB": 13.165702311323535,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Mu - Too Bright": {
+      "metrics": {
+        "SDR": 9.21093741048755,
+        "SIR": 17.60390613688441,
+        "SAR": 10.366455807847881,
+        "SI-SDR": 8.706455826759338
+      },
+      "mean_across_approved_metrics_dB": 11.471938795494795,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Nerve 9 - Pray For The Rain": {
+      "metrics": {
+        "SDR": 9.302809316379205,
+        "SIR": 19.727157727698614,
+        "SAR": 10.489729947522878,
+        "SI-SDR": 8.696402907371521
+      },
+      "mean_across_approved_metrics_dB": 12.054024974743054,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "PR - Happy Daze": {
+      "metrics": {
+        "SDR": 9.741565753725629,
+        "SIR": 19.40866871557735,
+        "SAR": 9.6809169031743,
+        "SI-SDR": 7.6537768840789795
+      },
+      "mean_across_approved_metrics_dB": 11.621232064139065,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "PR - Oh No": {
+      "metrics": {
+        "SDR": 3.302275817307283,
+        "SIR": 14.810191866398778,
+        "SAR": 5.423215501120164,
+        "SI-SDR": 2.236055165529251
+      },
+      "mean_across_approved_metrics_dB": 6.442934587588869,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Punkdisco - Oral Hygiene": {
+      "metrics": {
+        "SDR": 5.649569455733537,
+        "SIR": 14.212904093262722,
+        "SAR": 6.287408964058691,
+        "SI-SDR": 4.398623526096344
+      },
+      "mean_across_approved_metrics_dB": 7.637126509787823,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Raft Monk - Tiring": {
+      "metrics": {
+        "SDR": 7.242289951849672,
+        "SIR": 14.246092735755646,
+        "SAR": 7.9418897962545545,
+        "SI-SDR": 6.272351384162903
+      },
+      "mean_across_approved_metrics_dB": 8.925655967005694,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Sambasevam Shanmugam - Kaathaadi": {
+      "metrics": {
+        "SDR": 10.754760226762105,
+        "SIR": 22.351183115461907,
+        "SAR": 11.35054496733672,
+        "SI-SDR": 10.276421785354614
+      },
+      "mean_across_approved_metrics_dB": 13.683227523728837,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Secretariat - Borderline": {
+      "metrics": {
+        "SDR": 7.659398052584388,
+        "SIR": 17.13059590251342,
+        "SAR": 8.509671634345844,
+        "SI-SDR": 6.82090437412262
+      },
+      "mean_across_approved_metrics_dB": 10.030142490891567,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Secretariat - Over The Top": {
+      "metrics": {
+        "SDR": 9.645208157496562,
+        "SIR": 19.784457211983177,
+        "SAR": 10.46877638847447,
+        "SI-SDR": 9.148986220359802
+      },
+      "mean_across_approved_metrics_dB": 12.261856994578503,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Side Effects Project - Sing With Me": {
+      "metrics": {
+        "SDR": 11.258182994693813,
+        "SIR": 21.148863461244485,
+        "SAR": 11.924861016518038,
+        "SI-SDR": 10.43747466802597
+      },
+      "mean_across_approved_metrics_dB": 13.692345535120577,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Signe Jakobsen - What Have You Done To Me": {
+      "metrics": {
+        "SDR": 6.956190676818336,
+        "SIR": 14.245523139125993,
+        "SAR": 7.999239591244778,
+        "SI-SDR": 6.02659285068512
+      },
+      "mean_across_approved_metrics_dB": 8.806886564468556,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Skelpolu - Resurrection": {
+      "metrics": {
+        "SDR": 9.263708539639266,
+        "SIR": 16.200629067355347,
+        "SAR": 9.73697058205927,
+        "SI-SDR": 7.876753628253937
+      },
+      "mean_across_approved_metrics_dB": 10.769515454326955,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Speak Softly - Broken Man": {
+      "metrics": {
+        "SDR": 11.10259976153871,
+        "SIR": 21.23994256414613,
+        "SAR": 12.751954958138695,
+        "SI-SDR": 10.62396776676178
+      },
+      "mean_across_approved_metrics_dB": 13.929616262646329,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Speak Softly - Like Horses": {
+      "metrics": {
+        "SDR": 11.909744922543545,
+        "SIR": 22.006771125187626,
+        "SAR": 12.959516707155608,
+        "SI-SDR": 11.446408033370972
+      },
+      "mean_across_approved_metrics_dB": 14.580610197064438,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "The Doppler Shift - Atrophy": {
+      "metrics": {
+        "SDR": 6.926427896769554,
+        "SIR": 13.849144913712228,
+        "SAR": 7.862818410853946,
+        "SI-SDR": 5.779137283563614
+      },
+      "mean_across_approved_metrics_dB": 8.604382126224836,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "The Easton Ellises (Baumi) - SDRNR": {
+      "metrics": {
+        "SDR": 7.2063722903367164,
+        "SIR": 13.752124885460503,
+        "SAR": 8.126654624292856,
+        "SI-SDR": 6.08947491645813
+      },
+      "mean_across_approved_metrics_dB": 8.793656679137051,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "The Easton Ellises - Falcon 69": {
+      "metrics": {
+        "SDR": 6.7187833696402315,
+        "SIR": 14.159508200257697,
+        "SAR": 7.721365756968205,
+        "SI-SDR": 5.616474390029907
+      },
+      "mean_across_approved_metrics_dB": 8.554032929224011,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "The Long Wait - Dark Horses": {
+      "metrics": {
+        "SDR": 8.609636416147858,
+        "SIR": 18.22953102934816,
+        "SAR": 8.88069091656398,
+        "SI-SDR": 7.976893186569214
+      },
+      "mean_across_approved_metrics_dB": 10.924187887157302,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "The Mountaineering Club - Mallory": {
+      "metrics": {
+        "SDR": 11.242143540848987,
+        "SIR": 21.89381842558658,
+        "SAR": 11.892881195704152,
+        "SI-SDR": 10.846258044242859
+      },
+      "mean_across_approved_metrics_dB": 13.968775301595645,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "The Sunshine Garcia Band - For I Am The Moon": {
+      "metrics": {
+        "SDR": 8.40842339900902,
+        "SIR": 18.32314276596454,
+        "SAR": 8.700289995845631,
+        "SI-SDR": 7.667381227016449
+      },
+      "mean_across_approved_metrics_dB": 10.77480934695891,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Timboz - Pony": {
+      "metrics": {
+        "SDR": 5.714378794446878,
+        "SIR": 11.77697645517694,
+        "SAR": 6.472292001035864,
+        "SI-SDR": 4.246102198958397
+      },
+      "mean_across_approved_metrics_dB": 7.05243736240452,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Tom McKenzie - Directions": {
+      "metrics": {
+        "SDR": 8.574533647125746,
+        "SIR": 16.97622447737747,
+        "SAR": 9.516504228344987,
+        "SI-SDR": 7.5468127727508545
+      },
+      "mean_across_approved_metrics_dB": 10.653518781399764,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Triviul feat. The Fiend - Widow": {
+      "metrics": {
+        "SDR": 9.660558286910014,
+        "SIR": 21.254295104924637,
+        "SAR": 10.48549462352756,
+        "SI-SDR": 8.93306314945221
+      },
+      "mean_across_approved_metrics_dB": 12.583352791203605,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "We Fell From The Sky - Not You": {
+      "metrics": {
+        "SDR": 8.091028557604488,
+        "SIR": 16.349772249176276,
+        "SAR": 8.685538857522081,
+        "SI-SDR": 7.231556177139282
+      },
+      "mean_across_approved_metrics_dB": 10.089473960360532,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    },
+    "Zeno - Signs": {
+      "metrics": {
+        "SDR": 7.555398240569534,
+        "SIR": 14.97816637416739,
+        "SAR": 8.008109944495827,
+        "SI-SDR": 6.4987832903862
+      },
+      "mean_across_approved_metrics_dB": 9.260114462404738,
+      "best_metric": "SIR",
+      "worst_metric": "SI-SDR"
+    }
+  },
+  "overall_track_ranking": [
+    {
+      "track": "Speak Softly - Like Horses",
+      "mean_across_approved_metrics_dB": 14.580610197064438
+    },
+    {
+      "track": "Enda Reilly - Cur An Long Ag Seol",
+      "mean_across_approved_metrics_dB": 14.16464686257471
+    },
+    {
+      "track": "The Mountaineering Club - Mallory",
+      "mean_across_approved_metrics_dB": 13.968775301595645
+    },
+    {
+      "track": "Speak Softly - Broken Man",
+      "mean_across_approved_metrics_dB": 13.929616262646329
+    },
+    {
+      "track": "Side Effects Project - Sing With Me",
+      "mean_across_approved_metrics_dB": 13.692345535120577
+    },
+    {
+      "track": "Sambasevam Shanmugam - Kaathaadi",
+      "mean_across_approved_metrics_dB": 13.683227523728837
+    },
+    {
+      "track": "Motor Tapes - Shore",
+      "mean_across_approved_metrics_dB": 13.165702311323535
+    },
+    {
+      "track": "BKS - Too Much",
+      "mean_across_approved_metrics_dB": 12.956031534904206
+    },
+    {
+      "track": "M.E.R.C. Music - Knockout",
+      "mean_across_approved_metrics_dB": 12.640413320976734
+    },
+    {
+      "track": "Triviul feat. The Fiend - Widow",
+      "mean_across_approved_metrics_dB": 12.583352791203605
+    },
+    {
+      "track": "Moosmusic - Big Dummy Shake",
+      "mean_across_approved_metrics_dB": 12.373167078993529
+    },
+    {
+      "track": "Louis Cressy Band - Good Time",
+      "mean_across_approved_metrics_dB": 12.272071974934466
+    },
+    {
+      "track": "Secretariat - Over The Top",
+      "mean_across_approved_metrics_dB": 12.261856994578503
+    },
+    {
+      "track": "Lyndsey Ollard - Catching Up",
+      "mean_across_approved_metrics_dB": 12.128350764952458
+    },
+    {
+      "track": "Nerve 9 - Pray For The Rain",
+      "mean_across_approved_metrics_dB": 12.054024974743054
+    },
+    {
+      "track": "Angels In Amplifiers - I'm Alright",
+      "mean_across_approved_metrics_dB": 11.698901123143672
+    },
+    {
+      "track": "PR - Happy Daze",
+      "mean_across_approved_metrics_dB": 11.621232064139065
+    },
+    {
+      "track": "BKS - Bulldozer",
+      "mean_across_approved_metrics_dB": 11.591852574450774
+    },
+    {
+      "track": "Cristina Vane - So Easy",
+      "mean_across_approved_metrics_dB": 11.549543140614949
+    },
+    {
+      "track": "Mu - Too Bright",
+      "mean_across_approved_metrics_dB": 11.471938795494795
+    },
+    {
+      "track": "Ben Carrigan - We'll Talk About It All Tonight",
+      "mean_across_approved_metrics_dB": 11.296861319052354
+    },
+    {
+      "track": "Buitraker - Revo X",
+      "mean_across_approved_metrics_dB": 11.207881040679478
+    },
+    {
+      "track": "Forkupines - Semantics",
+      "mean_across_approved_metrics_dB": 10.924748113781265
+    },
+    {
+      "track": "The Long Wait - Dark Horses",
+      "mean_across_approved_metrics_dB": 10.924187887157302
+    },
+    {
+      "track": "Georgia Wonder - Siren",
+      "mean_across_approved_metrics_dB": 10.857765179270585
+    },
+    {
+      "track": "James Elder & Mark M Thompson - The English Actor",
+      "mean_across_approved_metrics_dB": 10.829013431877874
+    },
+    {
+      "track": "Juliet's Rescue - Heartbeats",
+      "mean_across_approved_metrics_dB": 10.781967433429749
+    },
+    {
+      "track": "The Sunshine Garcia Band - For I Am The Moon",
+      "mean_across_approved_metrics_dB": 10.77480934695891
+    },
+    {
+      "track": "Skelpolu - Resurrection",
+      "mean_across_approved_metrics_dB": 10.769515454326955
+    },
+    {
+      "track": "Tom McKenzie - Directions",
+      "mean_across_approved_metrics_dB": 10.653518781399764
+    },
+    {
+      "track": "Bobby Nobody - Stitch Up",
+      "mean_across_approved_metrics_dB": 10.296977100529789
+    },
+    {
+      "track": "We Fell From The Sky - Not You",
+      "mean_across_approved_metrics_dB": 10.089473960360532
+    },
+    {
+      "track": "Secretariat - Borderline",
+      "mean_across_approved_metrics_dB": 10.030142490891567
+    },
+    {
+      "track": "Zeno - Signs",
+      "mean_across_approved_metrics_dB": 9.260114462404738
+    },
+    {
+      "track": "Raft Monk - Tiring",
+      "mean_across_approved_metrics_dB": 8.925655967005694
+    },
+    {
+      "track": "Signe Jakobsen - What Have You Done To Me",
+      "mean_across_approved_metrics_dB": 8.806886564468556
+    },
+    {
+      "track": "The Easton Ellises (Baumi) - SDRNR",
+      "mean_across_approved_metrics_dB": 8.793656679137051
+    },
+    {
+      "track": "Al James - Schoolboy Facination",
+      "mean_across_approved_metrics_dB": 8.775856348061524
+    },
+    {
+      "track": "The Doppler Shift - Atrophy",
+      "mean_across_approved_metrics_dB": 8.604382126224836
+    },
+    {
+      "track": "Little Chicago's Finest - My Own",
+      "mean_across_approved_metrics_dB": 8.601020715054627
+    },
+    {
+      "track": "Girls Under Glass - We Feel Alright",
+      "mean_across_approved_metrics_dB": 8.577312684707413
+    },
+    {
+      "track": "The Easton Ellises - Falcon 69",
+      "mean_across_approved_metrics_dB": 8.554032929224011
+    },
+    {
+      "track": "Carlos Gonzalez - A Place For Us",
+      "mean_across_approved_metrics_dB": 8.313178710445348
+    },
+    {
+      "track": "Punkdisco - Oral Hygiene",
+      "mean_across_approved_metrics_dB": 7.637126509787823
+    },
+    {
+      "track": "Hollow Ground - Ill Fate",
+      "mean_across_approved_metrics_dB": 7.134856342627782
+    },
+    {
+      "track": "Timboz - Pony",
+      "mean_across_approved_metrics_dB": 7.05243736240452
+    },
+    {
+      "track": "Arise - Run Run Run",
+      "mean_across_approved_metrics_dB": 6.9758205574005325
+    },
+    {
+      "track": "PR - Oh No",
+      "mean_across_approved_metrics_dB": 6.442934587588869
+    },
+    {
+      "track": "Detsky Sad - Walkie Talkie",
+      "mean_across_approved_metrics_dB": 6.266368415172678
+    },
+    {
+      "track": "AM Contra - Heart Peripheral",
+      "mean_across_approved_metrics_dB": 5.71413634710701
+    }
+  ],
+  "track_average_consistency": {
+    "checks_performed": 200,
+    "all_consistent": true,
+    "tolerance_dB": 1e-09
+  }
+}

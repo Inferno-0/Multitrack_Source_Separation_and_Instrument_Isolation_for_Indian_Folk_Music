@@ -1,0 +1,65 @@
+experiment:
+  id: EXP004
+  type: baseline
+  status: success
+
+dataset:
+  name: PANDAVANI
+  tradition: Pandavani
+  input_format: WAV
+  recordings:
+    - PNDV_009.wav
+    - PNDV_012.wav
+    - PNDV_018.wav
+    - PNDV_021.wav
+    - PNDV_024.wav
+
+model:
+  name: HT-Demucs
+  demucs_model: htdemucs
+
+separation:
+  type: two_stem
+  stems:
+    - vocals
+    - no_vocals
+
+processing:
+  pipeline: physical_chunking_and_reconstruction
+  chunk_duration: 60
+  overlap: 5
+  step: 55
+
+environment:
+  device: cuda
+  demucs_segment: 7
+  jobs: 1
+
+execution:
+  total_recordings: 5
+  total_output_files: 10
+
+validation:
+  output_structure: passed
+  audio_integrity: passed
+  all_outputs_readable: true
+  original_duration_preserved: true
+
+evaluation:
+  subjective:
+    status: completed
+    method: manual_listening
+  objective:
+    status: pending
+    metrics:
+      - SDR
+      - SI-SDR
+      - SIR
+      - SAR
+
+paths:
+  input_audio: "03_Datasets/PANDAVANI/Audio/WAV"
+  experiment: "05_Experiments/Baseline_HT_Demucs/EXP004"
+  outputs: "05_Experiments/Baseline_HT_Demucs/EXP004/outputs"
+  logs: "05_Experiments/Baseline_HT_Demucs/EXP004/logs"
+  chunked_processing: "05_Experiments/Baseline_HT_Demucs/EXP004/chunked_processing"

@@ -1,0 +1,45 @@
+{
+  "experiment": "EXP003",
+  "audit_type": "final_report_consistency_and_quality_control",
+  "timestamp": "2026-08-16T20:39:52.547353",
+  "configuration": {
+    "tracks": 50,
+    "sources_per_track": 4,
+    "source_evaluations": 200,
+    "sources": [
+      "vocals",
+      "drums",
+      "bass",
+      "other"
+    ],
+    "approved_metrics": [
+      "SDR",
+      "SIR",
+      "SAR",
+      "SI-SDR"
+    ],
+    "excluded_metrics": [
+      "ISR"
+    ]
+  },
+  "checks": {
+    "passed": 59,
+    "failed": 0,
+    "warnings": 1
+  },
+  "status": "PASS",
+  "reports_audited": {
+    "integrity": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP003\\reports\\metrics_integrity_audit.json",
+    "descriptive": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP003\\reports\\exp003_metric_descriptive_statistics.json",
+    "distribution": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP003\\reports\\exp003_distribution_outlier_analysis.json",
+    "source_comparison": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP003\\reports\\exp003_source_level_comparative_analysis.json",
+    "track_aggregate": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP003\\reports\\exp003_track_level_aggregate_analysis.json",
+    "consolidated": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP003\\reports\\exp003_consolidated_objective_analysis.json"
+  },
+  "notes": [
+    "Audit performed using existing EXP003 JSON reports only.",
+    "No WAV files were loaded.",
+    "No objective metrics were recomputed.",
+    "ISR remains excluded from approved analysis."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "evaluation": {
+    "status": "complete",
+    "timestamp": "2026-08-16T00:06:49.575235",
+    "elapsed_seconds": 0.028,
+    "expected_tracks": 50,
+    "successful_tracks": 50,
+    "failed_tracks_this_run": 0,
+    "metrics": [
+      "SDR",
+      "ISR",
+      "SIR",
+      "SAR",
+      "SI-SDR"
+    ]
+  },
+  "bsseval": {
+    "implementation": "museval.metrics.bss_eval",
+    "version": "BSSEval v4",
+    "window": "whole_track",
+    "framewise_filters": false,
+    "compute_permutation": false,
+    "filters_len": 512,
+    "bsseval_sources_version": false
+  },
+  "si_sdr": {
+    "implementation": "standard scale-invariant projection",
+    "zero_mean": false
+  },
+  "paths": {
+    "musdb18_test": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\03_Datasets\\Benchmarks\\MUSDB18\\test",
+    "predictions": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\predictions",
+    "metrics": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\metrics",
+    "plots": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots",
+    "reports": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports",
+    "logs": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\logs"
+  }
+}

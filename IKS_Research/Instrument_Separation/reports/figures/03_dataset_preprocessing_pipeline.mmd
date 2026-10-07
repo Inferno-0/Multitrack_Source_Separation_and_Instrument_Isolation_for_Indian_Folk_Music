@@ -1,0 +1,8 @@
+graph LR
+    A[Raw Audio] --> B[Resampling 44.1kHz]
+    B --> C[Channel Duplication to Stereo]
+    C --> D[Peak Normalization]
+    D --> E[Source-Level Partitioning]
+    E --> F[TRAIN]
+    E --> G[VALIDATION]
+    E --> H[TEST]

@@ -1,0 +1,28 @@
+{
+    "id": "pilot_010",
+    "mixture_composition": [
+        "vocals",
+        "tabla"
+    ],
+    "sources": {
+        "vocals": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000038.wav",
+            "original_filename": "saraga_0038_vocals.wav",
+            "gain_applied_in_mix": 0.5
+        },
+        "tabla": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000719.wav",
+            "original_filename": "trital20.wav",
+            "gain_applied_in_mix": 0.5
+        }
+    },
+    "target_present": true,
+    "query_instrument": "tabla",
+    "query_file": {
+        "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000348.wav",
+        "original_filename": "ektal41.wav"
+    },
+    "target_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_010\\stems\\tabla.wav",
+    "mixture_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_010\\clean_mixture.wav",
+    "query_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_010\\query.wav"
+}

@@ -1,0 +1,6 @@
+metric,SAR,SAR,SDR,SDR,SI-SDR,SI-SDR,SIR,SIR
+stem,accompaniment,vocals,accompaniment,vocals,accompaniment,vocals,accompaniment,vocals
+experiment,,,,,,,,
+EXP002,15.83 ± 4.30,8.93 ± 3.45,14.24 ± 4.42,8.59 ± 2.89,14.24 ± 4.22,7.83 ± 3.84,22.61 ± 4.49,19.40 ± 4.08
+EXP003,15.59 ± 4.35,8.56 ± 3.74,14.18 ± 4.31,8.25 ± 3.41,14.03 ± 4.19,7.41 ± 4.45,22.20 ± 4.63,19.20 ± 4.91
+EXP004,15.87 ± 4.41,8.91 ± 3.47,14.37 ± 4.25,8.67 ± 2.85,14.29 ± 4.25,7.81 ± 3.84,22.53 ± 4.50,19.45 ± 4.10

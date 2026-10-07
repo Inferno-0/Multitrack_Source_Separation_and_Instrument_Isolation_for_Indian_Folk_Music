@@ -1,0 +1,11 @@
+experiment: EXP002
+title: Baseline Source Separation Consistency on Multiple BIHU Recordings
+id: EXP002
+dataset: BIHU
+model: HT-Demucs
+hardware: GPU
+software: PyTorch, Demucs
+input: 03_Datasets/BIHU/Audio/WAV
+output: 05_Experiments/Baseline_HT_Demucs/EXP002/outputs
+execution: batch processing via notebook
+notes: Qualitative evaluation performed on 10 recordings.

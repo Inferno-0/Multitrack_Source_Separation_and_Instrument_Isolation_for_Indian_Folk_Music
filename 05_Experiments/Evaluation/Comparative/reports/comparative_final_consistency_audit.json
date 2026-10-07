@@ -1,0 +1,10 @@
+{
+  "qc_failures": [],
+  "qc_warnings": [],
+  "total_unified_rows": 600,
+  "auth_overall": true,
+  "auth_source": true,
+  "auth_track": true,
+  "tables_generated": 8,
+  "figures_generated": 8
+}

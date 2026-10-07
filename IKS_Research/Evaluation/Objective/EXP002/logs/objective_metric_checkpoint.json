@@ -1,0 +1,79 @@
+{
+  "experiment_id": "EXP002",
+  "model": "htdemucs",
+  "updated_at": "2026-08-14T20:47:49.826776",
+  "total_tracks": 50,
+  "completed_tracks": [],
+  "failed_tracks": [
+    {
+      "track": "AM Contra - Heart Peripheral",
+      "error": "Unexpected SDR result size: 556"
+    },
+    {
+      "track": "Al James - Schoolboy Facination",
+      "error": "Unexpected SDR result size: 532"
+    },
+    {
+      "track": "Angels In Amplifiers - I'm Alright",
+      "error": "Unexpected SDR result size: 476"
+    },
+    {
+      "track": "Arise - Run Run Run",
+      "error": "Unexpected SDR result size: 580"
+    },
+    {
+      "track": "BKS - Bulldozer",
+      "error": "Unexpected SDR result size: 896"
+    },
+    {
+      "track": "BKS - Too Much",
+      "error": "Unexpected SDR result size: 584"
+    },
+    {
+      "track": "Ben Carrigan - We'll Talk About It All Tonight",
+      "error": "Unexpected SDR result size: 676"
+    },
+    {
+      "track": "Bobby Nobody - Stitch Up",
+      "error": "Unexpected SDR result size: 588"
+    },
+    {
+      "track": "Buitraker - Revo X",
+      "error": "Unexpected SDR result size: 732"
+    },
+    {
+      "track": "Carlos Gonzalez - A Place For Us",
+      "error": "Unexpected SDR result size: 664"
+    },
+    {
+      "track": "Cristina Vane - So Easy",
+      "error": "Unexpected SDR result size: 676"
+    },
+    {
+      "track": "Detsky Sad - Walkie Talkie",
+      "error": "Unexpected SDR result size: 504"
+    },
+    {
+      "track": "Enda Reilly - Cur An Long Ag Seol",
+      "error": "Unexpected SDR result size: 496"
+    },
+    {
+      "track": "Forkupines - Semantics",
+      "error": "Unexpected SDR result size: 728"
+    }
+  ],
+  "metrics": [
+    "SDR",
+    "SI-SDR",
+    "SIR",
+    "SAR"
+  ],
+  "stems": [
+    "vocals",
+    "drums",
+    "bass",
+    "other"
+  ],
+  "result_csv": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Evaluation/Objective/EXP002/metrics/EXP002_per_track_metrics.csv",
+  "result_json": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Evaluation/Objective/EXP002/metrics/EXP002_per_track_metrics.json"
+}

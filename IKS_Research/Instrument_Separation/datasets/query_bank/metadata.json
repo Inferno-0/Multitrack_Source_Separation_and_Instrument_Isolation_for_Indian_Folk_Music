@@ -1,0 +1,137 @@
+{
+    "tabla": [
+        {
+            "query_file": "query_000_tabla_000307.wav",
+            "source_file": "tabla_000307.wav",
+            "original_name": "deepchandi60.wav"
+        },
+        {
+            "query_file": "query_001_tabla_000060.wav",
+            "source_file": "tabla_000060.wav",
+            "original_name": "addhatrital60.wav"
+        },
+        {
+            "query_file": "query_002_tabla_000240.wav",
+            "source_file": "tabla_000240.wav",
+            "original_name": "dadra65.wav"
+        },
+        {
+            "query_file": "query_003_tabla_000421.wav",
+            "source_file": "tabla_000421.wav",
+            "original_name": "jhaptal53.wav"
+        },
+        {
+            "query_file": "query_004_tabla_000480.wav",
+            "source_file": "tabla_000480.wav",
+            "original_name": "PP_comp9_t.wav"
+        }
+    ],
+    "harmonium": [
+        {
+            "query_file": "query_000_harmonium_000543.wav",
+            "source_file": "harmonium_000543.wav",
+            "original_name": "303.wav"
+        },
+        {
+            "query_file": "query_001_harmonium_001120.wav",
+            "source_file": "harmonium_001120.wav",
+            "original_name": "823.wav"
+        },
+        {
+            "query_file": "query_002_harmonium_000260.wav",
+            "source_file": "harmonium_000260.wav",
+            "original_name": "1231.wav"
+        },
+        {
+            "query_file": "query_003_harmonium_000046.wav",
+            "source_file": "harmonium_000046.wav",
+            "original_name": "1039.wav"
+        },
+        {
+            "query_file": "query_004_harmonium_000395.wav",
+            "source_file": "harmonium_000395.wav",
+            "original_name": "170.wav"
+        }
+    ],
+    "flute": [
+        {
+            "query_file": "query_000_flute_000127.wav",
+            "source_file": "flute_000127.wav",
+            "original_name": "syrinx_fourth_fragment_1-0.2.wav"
+        },
+        {
+            "query_file": "query_001_flute_000063.wav",
+            "source_file": "flute_000063.wav",
+            "original_name": "Gully-Loops-Sudden-Flute-Loop-BPM-130-A.wav"
+        },
+        {
+            "query_file": "query_002_flute_000077.wav",
+            "source_file": "flute_000077.wav",
+            "original_name": "syrinx_second_fragment_dwyer.wav"
+        },
+        {
+            "query_file": "query_003_flute_000015.wav",
+            "source_file": "flute_000015.wav",
+            "original_name": "80_Bm_DirtyFlute_02_565.wav"
+        },
+        {
+            "query_file": "query_004_flute_000056.wav",
+            "source_file": "flute_000056.wav",
+            "original_name": "Gully-Loops-Genesis-Flute-Loop-BPM-100-A.wav"
+        }
+    ],
+    "dholak": [
+        {
+            "query_file": "query_000_dholak_000022.wav",
+            "source_file": "dholak_000022.wav",
+            "original_name": "Dholak Sample - 22.wav"
+        },
+        {
+            "query_file": "query_001_dholak_000007.wav",
+            "source_file": "dholak_000007.wav",
+            "original_name": "Dholak Sample - 07.wav"
+        },
+        {
+            "query_file": "query_002_dholak_000033.wav",
+            "source_file": "dholak_000033.wav",
+            "original_name": "Dholak Sample - 33.wav"
+        },
+        {
+            "query_file": "query_003_dholak_000046.wav",
+            "source_file": "dholak_000046.wav",
+            "original_name": "Dholak Sample - 46.wav"
+        },
+        {
+            "query_file": "query_004_dholak_000043.wav",
+            "source_file": "dholak_000043.wav",
+            "original_name": "Dholak Sample - 43.wav"
+        }
+    ],
+    "dhul": [
+        {
+            "query_file": "query_000_dhul_000008.wav",
+            "source_file": "dhul_000008.wav",
+            "original_name": "Gully-Loops-Dhumuha-Dhul-Loop-BPM-100.wav"
+        },
+        {
+            "query_file": "query_001_dhul_000013.wav",
+            "source_file": "dhul_000013.wav",
+            "original_name": "Gully-Loops-Rohedoi-Dhul-Loop-BPM-100.wav"
+        },
+        {
+            "query_file": "query_002_dhul_000006.wav",
+            "source_file": "dhul_000006.wav",
+            "original_name": "Gully-Loops-Bordoisila-Dhul-Loop-BPM-120.wav"
+        },
+        {
+            "query_file": "query_003_dhul_000003.wav",
+            "source_file": "dhul_000003.wav",
+            "original_name": "Bihu Rhythm Loop _ Indian Pattern.wav"
+        },
+        {
+            "query_file": "query_004_dhul_000012.wav",
+            "source_file": "dhul_000012.wav",
+            "original_name": "Gully-Loops-Nahor-Dhul-Loop.wav"
+        }
+    ]
+}

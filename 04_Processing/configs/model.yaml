@@ -1,0 +1,7 @@
+# Model Architectures and Hyperparameters Configurations
+# Intended Future Purpose:
+# - Set batch size, learning rates, weight decay, and optimizer choices
+# - Define network hyperparameters for source separation architectures (e.g., Demucs, Wave-U-Net)
+# - Define configurations for voice conversion systems (e.g., model layers, hidden dimensions)
+# - Specify checkpoint frequency and paths for storing trained weights
+# - Configure early stopping thresholds and evaluation metrics (e.g., SDR, SIR)

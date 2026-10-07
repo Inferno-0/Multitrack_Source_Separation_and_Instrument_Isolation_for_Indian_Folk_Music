@@ -1,0 +1,21 @@
+experiment_id: EXP001
+experiment_name: Baseline Source Separation using Pretrained HT-Demucs
+
+model: HT-Demucs
+model_version: 
+
+dataset: Bihu
+input_audio: BIHU_001.wav
+
+output_directory: 05_Experiments/Baseline_HT_Demucs/EXP001/outputs
+log_directory: 05_Experiments/Baseline_HT_Demucs/EXP001/logs
+
+parameters:
+  segment: 
+  shifts: 
+  overlap: 
+  device: 
+
+date: 
+
+researcher: 

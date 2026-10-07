@@ -1,0 +1,46 @@
+{
+    "id": "pilot_011",
+    "mixture_composition": [
+        "vocals",
+        "dhul",
+        "harmonium",
+        "flute",
+        "tabla"
+    ],
+    "sources": {
+        "vocals": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000015.wav",
+            "original_filename": "saraga_0015_vocals.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "dhul": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "harmonium": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001157.wav",
+            "original_filename": "857.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "flute": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000025.wav",
+            "original_filename": "80_Bm_LongFlute_04_565.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "tabla": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000349.wav",
+            "original_filename": "ektal42.wav",
+            "gain_applied_in_mix": 0.2
+        }
+    },
+    "target_present": true,
+    "query_instrument": "harmonium",
+    "query_file": {
+        "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000725.wav",
+        "original_filename": "468.wav"
+    },
+    "target_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_011\\stems\\harmonium.wav",
+    "mixture_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_011\\clean_mixture.wav",
+    "query_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_011\\query.wav"
+}

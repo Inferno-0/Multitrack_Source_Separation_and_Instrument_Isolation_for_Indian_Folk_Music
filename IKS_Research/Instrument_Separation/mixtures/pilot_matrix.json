@@ -1,0 +1,1022 @@
+[
+    {
+        "id": "pilot_000",
+        "mixture_composition": [
+            "vocals",
+            "tabla",
+            "harmonium",
+            "dholak",
+            "dhul"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000130.wav",
+                "original_filename": "saraga_0131_vocals.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000672.wav",
+                "original_filename": "T7_Fur_03.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000937.wav",
+                "original_filename": "659.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000039.wav",
+                "original_filename": "Dholak Sample - 39.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "tabla",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000642.wav",
+            "original_filename": "T4_Tukuda_Japh_03.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000672.wav"
+    },
+    {
+        "id": "pilot_001",
+        "mixture_composition": [
+            "vocals",
+            "harmonium",
+            "tabla",
+            "dhul",
+            "flute",
+            "dholak"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000093.wav",
+                "original_filename": "saraga_0094_vocals.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000342.wav",
+                "original_filename": "1305.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000374.wav",
+                "original_filename": "jhaptal06.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000002.wav",
+                "original_filename": "120_C_LongFlute_01_565.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000010.wav",
+                "original_filename": "Dholak Sample - 10.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "harmonium",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000047.wav",
+            "original_filename": "104.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000342.wav"
+    },
+    {
+        "id": "pilot_002",
+        "mixture_composition": [
+            "vocals",
+            "tabla",
+            "dhul"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000160.wav",
+                "original_filename": "saraga_0162_vocals.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000283.wav",
+                "original_filename": "deepchandi36.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "dhul",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav"
+    },
+    {
+        "id": "pilot_003",
+        "mixture_composition": [
+            "vocals",
+            "tabla",
+            "harmonium"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000053.wav",
+                "original_filename": "saraga_0053_vocals.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000511.wav",
+                "original_filename": "RMA_9.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000013.wav",
+                "original_filename": "1009.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "harmonium",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000666.wav",
+            "original_filename": "414.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000013.wav"
+    },
+    {
+        "id": "pilot_004",
+        "mixture_composition": [
+            "vocals",
+            "harmonium",
+            "flute",
+            "dholak",
+            "tabla",
+            "dhul"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000100.wav",
+                "original_filename": "saraga_0101_vocals.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001073.wav",
+                "original_filename": "781.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000010.wav",
+                "original_filename": "160_G_SustainedFlute_01_565.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000023.wav",
+                "original_filename": "Dholak Sample - 23.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000566.wav",
+                "original_filename": "rupak55.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "harmonium",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001119.wav",
+            "original_filename": "822.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001073.wav"
+    },
+    {
+        "id": "pilot_005",
+        "mixture_composition": [
+            "vocals",
+            "flute",
+            "tabla",
+            "dholak"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000155.wav",
+                "original_filename": "saraga_0157_vocals.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000002.wav",
+                "original_filename": "120_C_LongFlute_01_565.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000640.wav",
+                "original_filename": "T4_Tukuda_Japh_01.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000023.wav",
+                "original_filename": "Dholak Sample - 23.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "tabla",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000233.wav",
+            "original_filename": "dadra58.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000640.wav"
+    },
+    {
+        "id": "pilot_006",
+        "mixture_composition": [
+            "vocals",
+            "harmonium"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000093.wav",
+                "original_filename": "saraga_0094_vocals.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000047.wav",
+                "original_filename": "104.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "harmonium",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000821.wav",
+            "original_filename": "554.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000047.wav"
+    },
+    {
+        "id": "pilot_007",
+        "mixture_composition": [
+            "vocals",
+            "dhul",
+            "tabla",
+            "harmonium",
+            "dholak"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000002.wav",
+                "original_filename": "saraga_0002_vocals.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000790.wav",
+                "original_filename": "trital92.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001284.wav",
+                "original_filename": "971.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000015.wav",
+                "original_filename": "Dholak Sample - 15.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "tabla",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000624.wav",
+            "original_filename": "T4_Luc_06.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000790.wav"
+    },
+    {
+        "id": "pilot_008",
+        "mixture_composition": [
+            "vocals",
+            "harmonium",
+            "tabla"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000038.wav",
+                "original_filename": "saraga_0038_vocals.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001255.wav",
+                "original_filename": "945.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000456.wav",
+                "original_filename": "koyaliya_SRC.wav"
+            }
+        },
+        "target_present": false,
+        "query_instrument": "dholak",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000015.wav",
+            "original_filename": "Dholak Sample - 15.wav"
+        },
+        "target_path": null
+    },
+    {
+        "id": "pilot_009",
+        "mixture_composition": [
+            "vocals",
+            "tabla"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000022.wav",
+                "original_filename": "saraga_0022_vocals.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000572.wav",
+                "original_filename": "shyaam_SRC.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "tabla",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000416.wav",
+            "original_filename": "jhaptal48.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000572.wav"
+    },
+    {
+        "id": "pilot_010",
+        "mixture_composition": [
+            "vocals",
+            "tabla"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000038.wav",
+                "original_filename": "saraga_0038_vocals.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000719.wav",
+                "original_filename": "trital20.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "tabla",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000348.wav",
+            "original_filename": "ektal41.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000719.wav"
+    },
+    {
+        "id": "pilot_011",
+        "mixture_composition": [
+            "vocals",
+            "dhul",
+            "harmonium",
+            "flute",
+            "tabla"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000015.wav",
+                "original_filename": "saraga_0015_vocals.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001157.wav",
+                "original_filename": "857.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000025.wav",
+                "original_filename": "80_Bm_LongFlute_04_565.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000349.wav",
+                "original_filename": "ektal42.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "harmonium",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000725.wav",
+            "original_filename": "468.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001157.wav"
+    },
+    {
+        "id": "pilot_012",
+        "mixture_composition": [
+            "vocals",
+            "flute",
+            "dhul",
+            "tabla",
+            "harmonium"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000015.wav",
+                "original_filename": "saraga_0015_vocals.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000120.wav",
+                "original_filename": "density_third_fragment_1-0.2.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000510.wav",
+                "original_filename": "RMA_8.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001249.wav",
+                "original_filename": "94.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "flute",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000020.wav",
+            "original_filename": "80_Bm_DirtyStabbyFlute_01_565.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000120.wav"
+    },
+    {
+        "id": "pilot_013",
+        "mixture_composition": [
+            "vocals",
+            "flute"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000130.wav",
+                "original_filename": "saraga_0131_vocals.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000125.wav",
+                "original_filename": "syrinx_fifth_fragment_1-0.2.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "flute",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000025.wav",
+            "original_filename": "80_Bm_LongFlute_04_565.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000125.wav"
+    },
+    {
+        "id": "pilot_014",
+        "mixture_composition": [
+            "vocals",
+            "harmonium"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000130.wav",
+                "original_filename": "saraga_0131_vocals.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000032.wav",
+                "original_filename": "1026.wav"
+            }
+        },
+        "target_present": false,
+        "query_instrument": "flute",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000125.wav",
+            "original_filename": "syrinx_fifth_fragment_1-0.2.wav"
+        },
+        "target_path": null
+    },
+    {
+        "id": "pilot_015",
+        "mixture_composition": [
+            "vocals",
+            "dhul",
+            "harmonium"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000151.wav",
+                "original_filename": "saraga_0153_vocals.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001009.wav",
+                "original_filename": "723.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "dhul",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav"
+    },
+    {
+        "id": "pilot_016",
+        "mixture_composition": [
+            "vocals",
+            "flute",
+            "harmonium",
+            "dhul",
+            "dholak",
+            "tabla"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000107.wav",
+                "original_filename": "saraga_0108_vocals.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000121.wav",
+                "original_filename": "sequenza_first_fragment_1-0.2.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000202.wav",
+                "original_filename": "118.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000015.wav",
+                "original_filename": "Dholak Sample - 15.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000611.wav",
+                "original_filename": "T4_Gat_01.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "flute",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000010.wav",
+            "original_filename": "160_G_SustainedFlute_01_565.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000121.wav"
+    },
+    {
+        "id": "pilot_017",
+        "mixture_composition": [
+            "vocals",
+            "dholak",
+            "flute",
+            "tabla"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000072.wav",
+                "original_filename": "saraga_0073_vocals.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000023.wav",
+                "original_filename": "Dholak Sample - 23.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000120.wav",
+                "original_filename": "density_third_fragment_1-0.2.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000613.wav",
+                "original_filename": "T4_Gat_03.wav"
+            }
+        },
+        "target_present": false,
+        "query_instrument": "harmonium",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001170.wav",
+            "original_filename": "869.wav"
+        },
+        "target_path": null
+    },
+    {
+        "id": "pilot_018",
+        "mixture_composition": [
+            "vocals",
+            "harmonium",
+            "tabla",
+            "dhul",
+            "flute"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000130.wav",
+                "original_filename": "saraga_0131_vocals.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001203.wav",
+                "original_filename": "899.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000609.wav",
+                "original_filename": "T4_Drut_02.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000120.wav",
+                "original_filename": "density_third_fragment_1-0.2.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "harmonium",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000640.wav",
+            "original_filename": "391.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001203.wav"
+    },
+    {
+        "id": "pilot_019",
+        "mixture_composition": [
+            "vocals",
+            "dhul",
+            "harmonium",
+            "tabla",
+            "dholak",
+            "flute"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000103.wav",
+                "original_filename": "saraga_0104_vocals.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001131.wav",
+                "original_filename": "833.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000439.wav",
+                "original_filename": "KB_18.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000023.wav",
+                "original_filename": "Dholak Sample - 23.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000121.wav",
+                "original_filename": "sequenza_first_fragment_1-0.2.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "dhul",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav"
+    },
+    {
+        "id": "pilot_020",
+        "mixture_composition": [
+            "vocals",
+            "dholak",
+            "tabla",
+            "harmonium"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000151.wav",
+                "original_filename": "saraga_0153_vocals.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000015.wav",
+                "original_filename": "Dholak Sample - 15.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000002.wav",
+                "original_filename": "addhatrital02.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000435.wav",
+                "original_filename": "206.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "tabla",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000745.wav",
+            "original_filename": "trital46.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000002.wav"
+    },
+    {
+        "id": "pilot_021",
+        "mixture_composition": [
+            "vocals",
+            "dhul",
+            "dholak"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000075.wav",
+                "original_filename": "saraga_0076_vocals.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000054.wav",
+                "original_filename": "Dholak Sample - 54.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "dholak",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000027.wav",
+            "original_filename": "Dholak Sample - 27.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000054.wav"
+    },
+    {
+        "id": "pilot_022",
+        "mixture_composition": [
+            "vocals",
+            "dholak",
+            "flute",
+            "tabla",
+            "harmonium",
+            "dhul"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000117.wav",
+                "original_filename": "saraga_0118_vocals.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000021.wav",
+                "original_filename": "Dholak Sample - 21.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000078.wav",
+                "original_filename": "syrinx_third_fragment_douglas.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000641.wav",
+                "original_filename": "T4_Tukuda_Japh_02.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001073.wav",
+                "original_filename": "781.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "dholak",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000054.wav",
+            "original_filename": "Dholak Sample - 54.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000021.wav"
+    },
+    {
+        "id": "pilot_023",
+        "mixture_composition": [
+            "vocals",
+            "tabla",
+            "dhul"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000151.wav",
+                "original_filename": "saraga_0153_vocals.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000148.wav",
+                "original_filename": "bhajani46.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "tabla",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000611.wav",
+            "original_filename": "T4_Gat_01.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000148.wav"
+    },
+    {
+        "id": "pilot_024",
+        "mixture_composition": [
+            "vocals",
+            "harmonium"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000049.wav",
+                "original_filename": "saraga_0049_vocals.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000371.wav",
+                "original_filename": "149.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "harmonium",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000911.wav",
+            "original_filename": "635.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000371.wav"
+    },
+    {
+        "id": "pilot_025",
+        "mixture_composition": [
+            "vocals",
+            "harmonium",
+            "dholak",
+            "dhul"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000103.wav",
+                "original_filename": "saraga_0104_vocals.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001183.wav",
+                "original_filename": "880.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000054.wav",
+                "original_filename": "Dholak Sample - 54.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "dholak",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000038.wav",
+            "original_filename": "Dholak Sample - 38.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000054.wav"
+    },
+    {
+        "id": "pilot_026",
+        "mixture_composition": [
+            "vocals",
+            "tabla",
+            "harmonium",
+            "flute",
+            "dholak",
+            "dhul"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000049.wav",
+                "original_filename": "saraga_0049_vocals.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000738.wav",
+                "original_filename": "trital39.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000055.wav",
+                "original_filename": "1047.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000066.wav",
+                "original_filename": "sequenza_first_fragment_robison.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000038.wav",
+                "original_filename": "Dholak Sample - 38.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "harmonium",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000141.wav",
+            "original_filename": "1124.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000055.wav"
+    },
+    {
+        "id": "pilot_027",
+        "mixture_composition": [
+            "vocals",
+            "dhul",
+            "dholak",
+            "tabla"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000088.wav",
+                "original_filename": "saraga_0089_vocals.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000021.wav",
+                "original_filename": "Dholak Sample - 21.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000787.wav",
+                "original_filename": "trital89.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "dhul",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav"
+    },
+    {
+        "id": "pilot_028",
+        "mixture_composition": [
+            "vocals",
+            "flute",
+            "harmonium",
+            "tabla"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000100.wav",
+                "original_filename": "saraga_0101_vocals.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000120.wav",
+                "original_filename": "density_third_fragment_1-0.2.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000172.wav",
+                "original_filename": "1152.wav"
+            },
+            "tabla": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000640.wav",
+                "original_filename": "T4_Tukuda_Japh_01.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "flute",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000121.wav",
+            "original_filename": "sequenza_first_fragment_1-0.2.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000120.wav"
+    },
+    {
+        "id": "pilot_029",
+        "mixture_composition": [
+            "vocals",
+            "dhul",
+            "flute",
+            "dholak",
+            "harmonium"
+        ],
+        "sources": {
+            "vocals": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000021.wav",
+                "original_filename": "saraga_0021_vocals.wav"
+            },
+            "dhul": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+                "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+            },
+            "flute": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000083.wav",
+                "original_filename": "allemande_first_fragment_nicolet.wav"
+            },
+            "dholak": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000027.wav",
+                "original_filename": "Dholak Sample - 27.wav"
+            },
+            "harmonium": {
+                "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001244.wav",
+                "original_filename": "935.wav"
+            }
+        },
+        "target_present": true,
+        "query_instrument": "dhul",
+        "query_file": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+        },
+        "target_path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav"
+    }
+]

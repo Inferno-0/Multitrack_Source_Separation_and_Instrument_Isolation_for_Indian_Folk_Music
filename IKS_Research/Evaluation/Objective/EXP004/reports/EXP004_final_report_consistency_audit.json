@@ -1,0 +1,55 @@
+{
+  "experiment": "EXP004",
+  "audit_type": "final_report_consistency_and_quality_control",
+  "timestamp": "2026-08-18T00:16:35.938643",
+  "configuration": {
+    "tracks": 50,
+    "sources_per_track": 4,
+    "source_evaluations": 200,
+    "sources": [
+      "vocals",
+      "drums",
+      "bass",
+      "other"
+    ],
+    "approved_metrics": [
+      "SDR",
+      "SIR",
+      "SAR",
+      "SI-SDR"
+    ],
+    "excluded_metrics": [
+      "ISR"
+    ]
+  },
+  "checks": {
+    "passed": 105,
+    "failed": 0,
+    "warnings": 0
+  },
+  "status": "PASS",
+  "reports_audited": {
+    "integrity": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\reports\\EXP004_metric_integrity_audit.json",
+    "descriptive": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\reports\\EXP004_metric_descriptive_statistics.json",
+    "distribution": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\reports\\EXP004_distribution_outlier_analysis.json",
+    "source_comparison": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\reports\\EXP004_source_level_comparative_analysis.json",
+    "track_aggregate": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\reports\\EXP004_track_level_aggregate_analysis.json",
+    "consolidated": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\reports\\EXP004_consolidated_objective_analysis.json"
+  },
+  "plots_audited": [
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\plots\\EXP004_sdr_distribution.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\plots\\EXP004_sir_distribution.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\plots\\EXP004_sar_distribution.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\plots\\EXP004_si_sdr_distribution.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\plots\\EXP004_sdr_by_source_boxplot.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\plots\\EXP004_sir_by_source_boxplot.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\plots\\EXP004_sar_by_source_boxplot.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\plots\\EXP004_si_sdr_by_source_boxplot.png"
+  ],
+  "notes": [
+    "Audit performed using existing EXP004 objective reports.",
+    "No WAV files were loaded.",
+    "No objective metrics were recomputed.",
+    "ISR remains excluded from approved analysis."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "experiment": "EXP003",
+  "evaluation": {
+    "tracks_expected": 50,
+    "tracks_successful": 50,
+    "tracks_failed": 0,
+    "source_evaluations_expected": 200,
+    "source_evaluations_completed": 200,
+    "sources": [
+      "vocals",
+      "drums",
+      "bass",
+      "other"
+    ],
+    "bsseval_version": "BSSEval v4",
+    "bsseval_window": "whole_track",
+    "bsseval_filters_len": 512,
+    "bsseval_framewise_filters": false,
+    "bsseval_compute_permutation": false,
+    "approved_metrics": [
+      "SDR",
+      "SIR",
+      "SAR",
+      "SI-SDR"
+    ],
+    "total_elapsed_seconds": 10569.899
+  },
+  "metric_summary": {
+    "SDR": {
+      "mean": 8.076154899614934,
+      "median": 8.18724829659607,
+      "std": 3.851092162706692,
+      "minimum": -5.228179187805562,
+      "maximum": 22.006221263304923,
+      "count": 200
+    },
+    "SIR": {
+      "mean": 16.920000086756556,
+      "median": 17.44590903206446,
+      "std": 6.5299394993097115,
+      "minimum": -5.608421476945904,
+      "maximum": 37.59651784606476,
+      "count": 200
+    },
+    "SAR": {
+      "mean": 8.928329978973427,
+      "median": 8.918574360802463,
+      "std": 3.977143929274888,
+      "minimum": -3.958913796000027,
+      "maximum": 23.26750637464709,
+      "count": 200
+    },
+    "SI-SDR": {
+      "mean": 7.102014535665512,
+      "median": 7.40540075302124,
+      "std": 4.741043256751408,
+      "minimum": -13.845990180969238,
+      "maximum": 22.0152530670166,
+      "count": 200
+    }
+  }
+}

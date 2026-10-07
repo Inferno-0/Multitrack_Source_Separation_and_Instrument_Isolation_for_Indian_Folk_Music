@@ -1,0 +1,601 @@
+Experiment,Track,Source,Provenance_File,Provenance_Line,SAR,SDR,SIR
+EXP002,Al James - Schoolboy Facination,vocals,metrics\per_track_metrics.jsonl,1,7.982501730292684,7.455249929120833,15.65174721898622
+EXP002,Al James - Schoolboy Facination,drums,metrics\per_track_metrics.jsonl,1,7.369748603925711,6.875228820272666,14.577832676119776
+EXP002,Al James - Schoolboy Facination,bass,metrics\per_track_metrics.jsonl,1,11.06943541125924,10.280797839033227,19.981518503496574
+EXP002,Al James - Schoolboy Facination,other,metrics\per_track_metrics.jsonl,1,4.046406924207633,3.420679466997715,6.907649767415002
+EXP002,AM Contra - Heart Peripheral,vocals,metrics\per_track_metrics.jsonl,2,12.42857604542104,11.441976602114375,19.418140335062407
+EXP002,AM Contra - Heart Peripheral,drums,metrics\per_track_metrics.jsonl,2,9.32285660346122,8.286490208787718,15.704947632688125
+EXP002,AM Contra - Heart Peripheral,bass,metrics\per_track_metrics.jsonl,2,8.29974051240851,-1.3199377053063668,-2.0783372218624945
+EXP002,AM Contra - Heart Peripheral,other,metrics\per_track_metrics.jsonl,2,-0.7923547281822978,0.46322636520458926,3.7538368391184807
+EXP002,Angels In Amplifiers - I'm Alright,vocals,metrics\per_track_metrics.jsonl,3,11.446300414904584,11.080278538425079,21.418943188117737
+EXP002,Angels In Amplifiers - I'm Alright,drums,metrics\per_track_metrics.jsonl,3,9.270431675637793,7.358119820853309,20.47244874261351
+EXP002,Angels In Amplifiers - I'm Alright,bass,metrics\per_track_metrics.jsonl,3,11.439591620005576,10.442036652443312,17.94352243497246
+EXP002,Angels In Amplifiers - I'm Alright,other,metrics\per_track_metrics.jsonl,3,9.870341391448733,8.462706453851446,13.39523320585984
+EXP002,Arise - Run Run Run,vocals,metrics\per_track_metrics.jsonl,4,11.809203975401397,11.619718461925505,23.989399808618828
+EXP002,Arise - Run Run Run,drums,metrics\per_track_metrics.jsonl,4,7.4679795385949,-3.289219536556108,-2.5008574352232276
+EXP002,Arise - Run Run Run,bass,metrics\per_track_metrics.jsonl,4,8.628587615092071,7.686445164850867,13.704441786495472
+EXP002,Arise - Run Run Run,other,metrics\per_track_metrics.jsonl,4,3.7974165771956496,0.88046592763134,18.788875334600025
+EXP002,Ben Carrigan - We'll Talk About It All Tonight,vocals,metrics\per_track_metrics.jsonl,5,6.008806722732761,5.862272859525524,15.784309753054364
+EXP002,Ben Carrigan - We'll Talk About It All Tonight,drums,metrics\per_track_metrics.jsonl,5,10.54139557546389,10.043309326668728,20.33439086351374
+EXP002,Ben Carrigan - We'll Talk About It All Tonight,bass,metrics\per_track_metrics.jsonl,5,13.579829964741704,13.391778976275603,26.545678463655918
+EXP002,Ben Carrigan - We'll Talk About It All Tonight,other,metrics\per_track_metrics.jsonl,5,7.797264305708773,6.713642405188764,11.076789567627216
+EXP002,BKS - Bulldozer,vocals,metrics\per_track_metrics.jsonl,6,9.242898741368485,8.838825600906643,21.338797883124517
+EXP002,BKS - Bulldozer,drums,metrics\per_track_metrics.jsonl,6,12.879031782860197,11.857199902042089,21.00534866466482
+EXP002,BKS - Bulldozer,bass,metrics\per_track_metrics.jsonl,6,11.139363351240341,9.872590082253312,17.955088457964287
+EXP002,BKS - Bulldozer,other,metrics\per_track_metrics.jsonl,6,7.158127913284252,6.560885555016718,12.732890093389353
+EXP002,BKS - Too Much,vocals,metrics\per_track_metrics.jsonl,7,12.40132600317244,12.001221393425936,22.3725285189213
+EXP002,BKS - Too Much,drums,metrics\per_track_metrics.jsonl,7,10.919254453985076,10.291808668703023,19.111270952427596
+EXP002,BKS - Too Much,bass,metrics\per_track_metrics.jsonl,7,14.674159853952348,13.347645239698192,21.13397897969041
+EXP002,BKS - Too Much,other,metrics\per_track_metrics.jsonl,7,7.1450317936597045,6.653026601199386,15.832109522748759
+EXP002,Bobby Nobody - Stitch Up,vocals,metrics\per_track_metrics.jsonl,8,10.280029518466723,10.052964703130616,19.70281783968062
+EXP002,Bobby Nobody - Stitch Up,drums,metrics\per_track_metrics.jsonl,8,7.404062302652545,7.430693300573835,19.59995821960432
+EXP002,Bobby Nobody - Stitch Up,bass,metrics\per_track_metrics.jsonl,8,9.741965715383817,8.533319864655846,14.069652533022259
+EXP002,Bobby Nobody - Stitch Up,other,metrics\per_track_metrics.jsonl,8,6.4593169356801505,6.426391073063673,13.745797252780756
+EXP002,Buitraker - Revo X,vocals,metrics\per_track_metrics.jsonl,9,5.623445216995247,5.092027494166303,10.52613548111864
+EXP002,Buitraker - Revo X,drums,metrics\per_track_metrics.jsonl,9,15.277589245174184,14.032810940355994,26.540460246467028
+EXP002,Buitraker - Revo X,bass,metrics\per_track_metrics.jsonl,9,12.401800545348662,11.27882277426253,17.70199685991027
+EXP002,Buitraker - Revo X,other,metrics\per_track_metrics.jsonl,9,7.681776815907334,6.791180469344681,12.597520038984293
+EXP002,Carlos Gonzalez - A Place For Us,vocals,metrics\per_track_metrics.jsonl,10,8.212550488952104,7.950350807291338,15.86607480923303
+EXP002,Carlos Gonzalez - A Place For Us,drums,metrics\per_track_metrics.jsonl,10,7.583593873118133,7.269825421295748,14.86826803009373
+EXP002,Carlos Gonzalez - A Place For Us,bass,metrics\per_track_metrics.jsonl,10,1.5578730285329039,3.1608249843603007,12.684368798491729
+EXP002,Carlos Gonzalez - A Place For Us,other,metrics\per_track_metrics.jsonl,10,7.437278692296313,6.872676374518952,12.270940397317531
+EXP002,Cristina Vane - So Easy,vocals,metrics\per_track_metrics.jsonl,11,11.620597196493083,10.871475501195055,18.237058332314483
+EXP002,Cristina Vane - So Easy,drums,metrics\per_track_metrics.jsonl,11,14.390961237595283,13.736344215381562,25.590582644715163
+EXP002,Cristina Vane - So Easy,bass,metrics\per_track_metrics.jsonl,11,7.752050776029896,6.941417712566955,17.702875018917233
+EXP002,Cristina Vane - So Easy,other,metrics\per_track_metrics.jsonl,11,6.315807247036646,5.86989247157721,10.889163742197105
+EXP002,Detsky Sad - Walkie Talkie,vocals,metrics\per_track_metrics.jsonl,12,5.577937550514637,4.604810584584092,10.609244028062117
+EXP002,Detsky Sad - Walkie Talkie,drums,metrics\per_track_metrics.jsonl,12,6.516537712042556,5.992359295582675,19.25774738295917
+EXP002,Detsky Sad - Walkie Talkie,bass,metrics\per_track_metrics.jsonl,12,2.7554635521553954,4.1807686330258695,15.766038685944046
+EXP002,Detsky Sad - Walkie Talkie,other,metrics\per_track_metrics.jsonl,12,4.15716283482615,2.6417470444899793,5.218615120906264
+EXP002,Enda Reilly - Cur An Long Ag Seol,vocals,metrics\per_track_metrics.jsonl,13,12.089645940452607,11.535152626065576,20.72640293694445
+EXP002,Enda Reilly - Cur An Long Ag Seol,drums,metrics\per_track_metrics.jsonl,13,13.448811628458614,13.429038323242091,30.821635822936216
+EXP002,Enda Reilly - Cur An Long Ag Seol,bass,metrics\per_track_metrics.jsonl,13,11.19378983186082,10.61456084486972,24.141766998199348
+EXP002,Enda Reilly - Cur An Long Ag Seol,other,metrics\per_track_metrics.jsonl,13,9.633042811397349,9.130777028528422,16.55161654195354
+EXP002,Forkupines - Semantics,vocals,metrics\per_track_metrics.jsonl,14,8.60222356192392,8.521942339912485,18.8389498414577
+EXP002,Forkupines - Semantics,drums,metrics\per_track_metrics.jsonl,14,14.270752215916069,12.705910424356563,21.121265772000925
+EXP002,Forkupines - Semantics,bass,metrics\per_track_metrics.jsonl,14,8.559055472421132,7.437180941278926,16.617649348258144
+EXP002,Forkupines - Semantics,other,metrics\per_track_metrics.jsonl,14,7.854807948360669,6.6989234843656975,11.133971742866821
+EXP002,Georgia Wonder - Siren,vocals,metrics\per_track_metrics.jsonl,15,6.288177009792325,6.143856971021644,12.661414226065231
+EXP002,Georgia Wonder - Siren,drums,metrics\per_track_metrics.jsonl,15,11.574699304828775,10.7169063986355,20.997454749953313
+EXP002,Georgia Wonder - Siren,bass,metrics\per_track_metrics.jsonl,15,14.28613600627804,12.088881395112148,21.238568154548418
+EXP002,Georgia Wonder - Siren,other,metrics\per_track_metrics.jsonl,15,7.694092778120856,6.939886571498829,12.45542089427885
+EXP002,Girls Under Glass - We Feel Alright,vocals,metrics\per_track_metrics.jsonl,16,6.378541372774102,6.369661875267328,16.654505252455554
+EXP002,Girls Under Glass - We Feel Alright,drums,metrics\per_track_metrics.jsonl,16,10.274152875347443,8.934469128078906,20.21662406589129
+EXP002,Girls Under Glass - We Feel Alright,bass,metrics\per_track_metrics.jsonl,16,6.832656175849195,5.348932931496753,9.236375163942377
+EXP002,Girls Under Glass - We Feel Alright,other,metrics\per_track_metrics.jsonl,16,7.471067352036721,6.102847194753766,10.629973704412802
+EXP002,Hollow Ground - Ill Fate,vocals,metrics\per_track_metrics.jsonl,17,8.30136257506852,7.772213785142931,14.804221615576633
+EXP002,Hollow Ground - Ill Fate,drums,metrics\per_track_metrics.jsonl,17,6.801358148863076,6.5670032368201685,16.243658623178938
+EXP002,Hollow Ground - Ill Fate,bass,metrics\per_track_metrics.jsonl,17,3.771629084164375,2.5711427577432895,4.730714609001143
+EXP002,Hollow Ground - Ill Fate,other,metrics\per_track_metrics.jsonl,17,8.16553172563301,6.568080559960023,10.380210123792788
+EXP002,James Elder & Mark M Thompson - The English Actor,vocals,metrics\per_track_metrics.jsonl,18,8.94338455327199,7.840403218065423,19.643906516172052
+EXP002,James Elder & Mark M Thompson - The English Actor,drums,metrics\per_track_metrics.jsonl,18,10.886291927316398,10.3227772713973,23.01511383677528
+EXP002,James Elder & Mark M Thompson - The English Actor,bass,metrics\per_track_metrics.jsonl,18,9.138838167089586,8.371104806738213,17.274174042008664
+EXP002,James Elder & Mark M Thompson - The English Actor,other,metrics\per_track_metrics.jsonl,18,8.872792715341465,7.219241024846294,10.900651343339984
+EXP002,Juliet's Rescue - Heartbeats,vocals,metrics\per_track_metrics.jsonl,19,10.350578650650382,9.957506441741485,20.423077090407045
+EXP002,Juliet's Rescue - Heartbeats,drums,metrics\per_track_metrics.jsonl,19,16.504626518302143,15.246792401720368,27.56852207184138
+EXP002,Juliet's Rescue - Heartbeats,bass,metrics\per_track_metrics.jsonl,19,3.132186699636819,3.0325999370279977,7.80499401277541
+EXP002,Juliet's Rescue - Heartbeats,other,metrics\per_track_metrics.jsonl,19,7.8665369507057665,6.843834363726168,12.28704163993616
+EXP002,Little Chicago's Finest - My Own,vocals,metrics\per_track_metrics.jsonl,20,10.155427593119072,5.072119921835378,21.17123253963703
+EXP002,Little Chicago's Finest - My Own,drums,metrics\per_track_metrics.jsonl,20,8.608612227629385,1.7318314020677608,24.03177711126834
+EXP002,Little Chicago's Finest - My Own,bass,metrics\per_track_metrics.jsonl,20,7.41020388207705,4.364589823002649,20.570424143690197
+EXP002,Little Chicago's Finest - My Own,other,metrics\per_track_metrics.jsonl,20,0.8011830694648538,1.1851619878788286,4.430412868754984
+EXP002,Louis Cressy Band - Good Time,vocals,metrics\per_track_metrics.jsonl,21,10.531024939593907,10.432006537257763,21.141181665191336
+EXP002,Louis Cressy Band - Good Time,drums,metrics\per_track_metrics.jsonl,21,10.753578812731055,9.656982548242752,21.71577629505658
+EXP002,Louis Cressy Band - Good Time,bass,metrics\per_track_metrics.jsonl,21,11.231226566598684,10.101330619705857,17.842005180496507
+EXP002,Louis Cressy Band - Good Time,other,metrics\per_track_metrics.jsonl,21,10.82614174039965,9.766314367763743,16.18095418893672
+EXP002,Lyndsey Ollard - Catching Up,vocals,metrics\per_track_metrics.jsonl,22,13.095190471694425,11.39457690975187,26.9681367974403
+EXP002,Lyndsey Ollard - Catching Up,drums,metrics\per_track_metrics.jsonl,22,9.448747092448269,9.018265756347294,18.945067451588425
+EXP002,Lyndsey Ollard - Catching Up,bass,metrics\per_track_metrics.jsonl,22,12.504562754741443,12.137723856587513,24.475744573568456
+EXP002,Lyndsey Ollard - Catching Up,other,metrics\per_track_metrics.jsonl,22,7.046333968429167,5.818023473270632,9.794916401915502
+EXP002,M.E.R.C. Music - Knockout,vocals,metrics\per_track_metrics.jsonl,23,11.012207300631019,10.569338940139057,18.92424057429572
+EXP002,M.E.R.C. Music - Knockout,drums,metrics\per_track_metrics.jsonl,23,11.818648306803352,11.242466841058835,23.76158633677431
+EXP002,M.E.R.C. Music - Knockout,bass,metrics\per_track_metrics.jsonl,23,13.431208279911315,12.519488359582665,20.70160925494595
+EXP002,M.E.R.C. Music - Knockout,other,metrics\per_track_metrics.jsonl,23,6.944415580785779,6.958538530081012,15.489850148671012
+EXP002,Moosmusic - Big Dummy Shake,vocals,metrics\per_track_metrics.jsonl,24,11.737954173595657,11.15998375159342,19.91200069116139
+EXP002,Moosmusic - Big Dummy Shake,drums,metrics\per_track_metrics.jsonl,24,13.494107967487789,12.364712133312548,24.41560583677952
+EXP002,Moosmusic - Big Dummy Shake,bass,metrics\per_track_metrics.jsonl,24,9.751980772941309,9.049646669546668,18.075664188107066
+EXP002,Moosmusic - Big Dummy Shake,other,metrics\per_track_metrics.jsonl,24,8.167506941985618,7.607928741537792,14.655347752044008
+EXP002,Motor Tapes - Shore,vocals,metrics\per_track_metrics.jsonl,25,10.085156135554413,9.37287181625938,19.6783292864531
+EXP002,Motor Tapes - Shore,drums,metrics\per_track_metrics.jsonl,25,9.951421631055906,9.326338760612629,20.358121002578358
+EXP002,Motor Tapes - Shore,bass,metrics\per_track_metrics.jsonl,25,12.780194215365883,12.1956097531495,22.32821878808103
+EXP002,Motor Tapes - Shore,other,metrics\per_track_metrics.jsonl,25,12.165286291338175,10.988833876454523,16.965476841482214
+EXP002,Mu - Too Bright,vocals,metrics\per_track_metrics.jsonl,26,10.876014044858891,10.171729251537382,17.440203426362963
+EXP002,Mu - Too Bright,drums,metrics\per_track_metrics.jsonl,26,16.31058198963498,15.077283462306541,27.91617979324732
+EXP002,Mu - Too Bright,bass,metrics\per_track_metrics.jsonl,26,6.863156734063226,4.766276748627673,8.80258426705264
+EXP002,Mu - Too Bright,other,metrics\per_track_metrics.jsonl,26,7.101256084637423,6.788641885814563,16.796980680488215
+EXP002,Nerve 9 - Pray For The Rain,vocals,metrics\per_track_metrics.jsonl,27,9.272384748785145,8.468015885895243,20.57581948647872
+EXP002,Nerve 9 - Pray For The Rain,drums,metrics\per_track_metrics.jsonl,27,14.154702160975138,13.002622588126885,29.214511972743583
+EXP002,Nerve 9 - Pray For The Rain,bass,metrics\per_track_metrics.jsonl,27,9.335959020021873,8.004657252240841,16.63924268109635
+EXP002,Nerve 9 - Pray For The Rain,other,metrics\per_track_metrics.jsonl,27,9.10760462985696,7.714098243713233,12.021208348430397
+EXP002,PR - Happy Daze,vocals,metrics\per_track_metrics.jsonl,28,-4.543378901200876,0.3182203078172263,9.927297581022444
+EXP002,PR - Happy Daze,drums,metrics\per_track_metrics.jsonl,28,21.023273281306167,18.7599207963923,23.14533812413576
+EXP002,PR - Happy Daze,bass,metrics\per_track_metrics.jsonl,28,11.776451214776639,10.328781543938213,25.824368452929335
+EXP002,PR - Happy Daze,other,metrics\per_track_metrics.jsonl,28,8.821755519495117,8.393019313240652,18.104198378589924
+EXP002,PR - Oh No,vocals,metrics\per_track_metrics.jsonl,29,5.317547606377787,2.500252184077036,22.600358505766817
+EXP002,PR - Oh No,drums,metrics\per_track_metrics.jsonl,29,11.756112223813638,7.07926387469998,17.95049063428329
+EXP002,PR - Oh No,bass,metrics\per_track_metrics.jsonl,29,2.638931672173133,3.328466512705325,18.29916294899507
+EXP002,PR - Oh No,other,metrics\per_track_metrics.jsonl,29,3.609135165408186,0.5832641943726797,1.339146136417275
+EXP002,Punkdisco - Oral Hygiene,vocals,metrics\per_track_metrics.jsonl,30,10.210115823224147,9.864771664257661,20.012826389187666
+EXP002,Punkdisco - Oral Hygiene,drums,metrics\per_track_metrics.jsonl,30,7.629389020960375,5.123325360932769,8.99190901841423
+EXP002,Punkdisco - Oral Hygiene,bass,metrics\per_track_metrics.jsonl,30,4.080943198132234,5.17834948621532,20.71684552023989
+EXP002,Punkdisco - Oral Hygiene,other,metrics\per_track_metrics.jsonl,30,3.276013328087022,2.0717016602598886,4.600789704841959
+EXP002,Raft Monk - Tiring,vocals,metrics\per_track_metrics.jsonl,31,6.633998742876419,5.791700978621556,11.34590880389543
+EXP002,Raft Monk - Tiring,drums,metrics\per_track_metrics.jsonl,31,9.309039296716326,9.039601305990344,21.043978670038513
+EXP002,Raft Monk - Tiring,bass,metrics\per_track_metrics.jsonl,31,9.741826920820882,8.751151019010827,14.633730504548947
+EXP002,Raft Monk - Tiring,other,metrics\per_track_metrics.jsonl,31,6.263096512959336,5.5223703869897385,10.059084645968003
+EXP002,Sambasevam Shanmugam - Kaathaadi,vocals,metrics\per_track_metrics.jsonl,32,14.025634882301446,13.657151467203928,25.399702473886705
+EXP002,Sambasevam Shanmugam - Kaathaadi,drums,metrics\per_track_metrics.jsonl,32,7.425079254649509,7.748279801342982,26.629779379908722
+EXP002,Sambasevam Shanmugam - Kaathaadi,bass,metrics\per_track_metrics.jsonl,32,12.78162615288127,11.199803448350483,20.433887873744148
+EXP002,Sambasevam Shanmugam - Kaathaadi,other,metrics\per_track_metrics.jsonl,32,10.87529082175002,10.085967093733858,16.70377258230617
+EXP002,Secretariat - Borderline,vocals,metrics\per_track_metrics.jsonl,33,8.55230805924571,8.46372123061917,18.333812915151192
+EXP002,Secretariat - Borderline,drums,metrics\per_track_metrics.jsonl,33,7.549716314637298,7.2778987118392635,20.311478325862048
+EXP002,Secretariat - Borderline,bass,metrics\per_track_metrics.jsonl,33,7.298277017673042,5.822550288784366,16.891209723987394
+EXP002,Secretariat - Borderline,other,metrics\per_track_metrics.jsonl,33,10.58271680774316,9.017127915013418,13.231583445346406
+EXP002,Secretariat - Over The Top,vocals,metrics\per_track_metrics.jsonl,34,10.260640556198492,10.100965160575976,22.08201363804473
+EXP002,Secretariat - Over The Top,drums,metrics\per_track_metrics.jsonl,34,9.794730504043118,9.150090110324781,18.739438374956702
+EXP002,Secretariat - Over The Top,bass,metrics\per_track_metrics.jsonl,34,13.025396670256313,11.256916017389113,24.461027049380085
+EXP002,Secretariat - Over The Top,other,metrics\per_track_metrics.jsonl,34,8.88199948890398,8.128168587962925,13.790765168117268
+EXP002,Side Effects Project - Sing With Me,vocals,metrics\per_track_metrics.jsonl,35,14.580034248118254,12.863264284752988,18.160750786257672
+EXP002,Side Effects Project - Sing With Me,drums,metrics\per_track_metrics.jsonl,35,16.637575361697184,15.710422588175351,25.48442786942254
+EXP002,Side Effects Project - Sing With Me,bass,metrics\per_track_metrics.jsonl,35,15.231461640310943,14.364011448223833,25.66808446603006
+EXP002,Side Effects Project - Sing With Me,other,metrics\per_track_metrics.jsonl,35,2.9448611002346463,3.3147449780069267,14.731659185972113
+EXP002,Signe Jakobsen - What Have You Done To Me,vocals,metrics\per_track_metrics.jsonl,36,11.785370220355007,11.17787117177781,20.49802418799727
+EXP002,Signe Jakobsen - What Have You Done To Me,drums,metrics\per_track_metrics.jsonl,36,6.302772533785884,6.211643379109718,15.551959152272797
+EXP002,Signe Jakobsen - What Have You Done To Me,bass,metrics\per_track_metrics.jsonl,36,6.561461494659983,4.182508497593006,6.6044868042769735
+EXP002,Signe Jakobsen - What Have You Done To Me,other,metrics\per_track_metrics.jsonl,36,7.547646447564542,6.587799250243441,14.367114964408916
+EXP002,Skelpolu - Resurrection,vocals,metrics\per_track_metrics.jsonl,37,-0.2913047041100423,1.9941243880112072,9.243470703555666
+EXP002,Skelpolu - Resurrection,drums,metrics\per_track_metrics.jsonl,37,14.672524520845114,13.6355205633438,21.73303382053775
+EXP002,Skelpolu - Resurrection,bass,metrics\per_track_metrics.jsonl,37,17.308218494775957,15.456927912595074,23.55542519713471
+EXP002,Skelpolu - Resurrection,other,metrics\per_track_metrics.jsonl,37,7.531740132477655,5.99627360924445,9.687094575636923
+EXP002,Speak Softly - Broken Man,vocals,metrics\per_track_metrics.jsonl,38,7.780865163954177,6.750842679988641,15.08144616067079
+EXP002,Speak Softly - Broken Man,drums,metrics\per_track_metrics.jsonl,38,13.320605564042001,10.883646075030192,25.902940221194193
+EXP002,Speak Softly - Broken Man,bass,metrics\per_track_metrics.jsonl,38,18.56242534051725,17.649175955797627,30.041299363135106
+EXP002,Speak Softly - Broken Man,other,metrics\per_track_metrics.jsonl,38,11.385742501551224,9.451501689508602,13.426098395713481
+EXP002,Speak Softly - Like Horses,vocals,metrics\per_track_metrics.jsonl,39,9.547826117067146,8.790065016680678,15.315623386245829
+EXP002,Speak Softly - Like Horses,drums,metrics\per_track_metrics.jsonl,39,9.263303953713573,8.462858479802017,20.063602163135513
+EXP002,Speak Softly - Like Horses,bass,metrics\per_track_metrics.jsonl,39,23.78787407564541,22.331214478980318,38.50650335530534
+EXP002,Speak Softly - Like Horses,other,metrics\per_track_metrics.jsonl,39,9.406625475696915,8.131342885080798,13.676550217897116
+EXP002,The Doppler Shift - Atrophy,vocals,metrics\per_track_metrics.jsonl,40,10.277561554772623,9.528474689421074,19.121892889422924
+EXP002,The Doppler Shift - Atrophy,drums,metrics\per_track_metrics.jsonl,40,10.42945903245553,9.31514450670928,18.83308237901723
+EXP002,The Doppler Shift - Atrophy,bass,metrics\per_track_metrics.jsonl,40,2.682440245461203,1.9969679532567857,4.665380234338706
+EXP002,The Doppler Shift - Atrophy,other,metrics\per_track_metrics.jsonl,40,8.262277532585085,7.014708788112377,13.019040878896163
+EXP002,The Easton Ellises (Baumi) - SDRNR,vocals,metrics\per_track_metrics.jsonl,41,6.9361495959309,6.5110209951696065,12.76931012309719
+EXP002,The Easton Ellises (Baumi) - SDRNR,drums,metrics\per_track_metrics.jsonl,41,12.026340497808459,10.594628834609122,17.68010141832843
+EXP002,The Easton Ellises (Baumi) - SDRNR,bass,metrics\per_track_metrics.jsonl,41,9.70843550525122,8.13808935943911,16.49822319085722
+EXP002,The Easton Ellises (Baumi) - SDRNR,other,metrics\per_track_metrics.jsonl,41,3.844495024224692,3.6668255176817617,8.394574629795233
+EXP002,The Easton Ellises - Falcon 69,vocals,metrics\per_track_metrics.jsonl,42,4.641283027356943,4.995549723569041,14.776925296870989
+EXP002,The Easton Ellises - Falcon 69,drums,metrics\per_track_metrics.jsonl,42,10.830108679380528,10.246999450848566,19.613147875441516
+EXP002,The Easton Ellises - Falcon 69,bass,metrics\per_track_metrics.jsonl,42,9.368346919603347,7.752294601713481,16.09611104085093
+EXP002,The Easton Ellises - Falcon 69,other,metrics\per_track_metrics.jsonl,42,6.055857578910821,3.967130023566093,6.376951798627571
+EXP002,The Long Wait - Dark Horses,vocals,metrics\per_track_metrics.jsonl,43,9.895227415623527,9.69549541227461,18.946364408323117
+EXP002,The Long Wait - Dark Horses,drums,metrics\per_track_metrics.jsonl,43,9.092024365644805,8.926040021991376,20.269400511327763
+EXP002,The Long Wait - Dark Horses,bass,metrics\per_track_metrics.jsonl,43,9.231271903540128,8.818504644948298,20.130465689495438
+EXP002,The Long Wait - Dark Horses,other,metrics\per_track_metrics.jsonl,43,7.33353607139885,7.0228693952319325,13.473226788532601
+EXP002,The Mountaineering Club - Mallory,vocals,metrics\per_track_metrics.jsonl,44,12.337745568112656,12.076737473390178,24.774439147076084
+EXP002,The Mountaineering Club - Mallory,drums,metrics\per_track_metrics.jsonl,44,13.220097777220548,12.75765878647395,26.490555783817435
+EXP002,The Mountaineering Club - Mallory,bass,metrics\per_track_metrics.jsonl,44,12.979413322700239,11.917998388729691,21.2704320828529
+EXP002,The Mountaineering Club - Mallory,other,metrics\per_track_metrics.jsonl,44,8.86375409333452,8.015958448732079,14.889261533387812
+EXP002,The Sunshine Garcia Band - For I Am The Moon,vocals,metrics\per_track_metrics.jsonl,45,10.636675039922636,10.40754594168477,21.3907796041431
+EXP002,The Sunshine Garcia Band - For I Am The Moon,drums,metrics\per_track_metrics.jsonl,45,11.190023392448724,10.337405614410196,19.51749738213951
+EXP002,The Sunshine Garcia Band - For I Am The Moon,bass,metrics\per_track_metrics.jsonl,45,10.140493236780564,9.767541347114921,22.984394646024878
+EXP002,The Sunshine Garcia Band - For I Am The Moon,other,metrics\per_track_metrics.jsonl,45,2.3826743063127904,2.564875233358727,8.811334429771845
+EXP002,Timboz - Pony,vocals,metrics\per_track_metrics.jsonl,46,5.828225852755696,5.5152883761820135,13.387449414032396
+EXP002,Timboz - Pony,drums,metrics\per_track_metrics.jsonl,46,5.540161996598165,5.320980097315067,12.067445728347785
+EXP002,Timboz - Pony,bass,metrics\per_track_metrics.jsonl,46,3.6506745471379927,3.096411165188134,8.44404669248811
+EXP002,Timboz - Pony,other,metrics\per_track_metrics.jsonl,46,11.031424945739532,9.01776889419356,13.392859087602972
+EXP002,Tom McKenzie - Directions,vocals,metrics\per_track_metrics.jsonl,47,12.229789870141712,10.962637162603198,23.115636951190623
+EXP002,Tom McKenzie - Directions,drums,metrics\per_track_metrics.jsonl,47,16.849684343304087,15.678655885077577,27.747205860116967
+EXP002,Tom McKenzie - Directions,bass,metrics\per_track_metrics.jsonl,47,5.703290849352166,5.739017373366041,12.750203450677745
+EXP002,Tom McKenzie - Directions,other,metrics\per_track_metrics.jsonl,47,4.975865301878032,3.319475536337441,5.447159409639593
+EXP002,Triviul feat. The Fiend - Widow,vocals,metrics\per_track_metrics.jsonl,48,11.340426282290037,9.938834858773548,14.728197651688184
+EXP002,Triviul feat. The Fiend - Widow,drums,metrics\per_track_metrics.jsonl,48,8.84044939527094,8.19971186076816,19.874581403898425
+EXP002,Triviul feat. The Fiend - Widow,bass,metrics\per_track_metrics.jsonl,48,17.89333280773734,15.989789972981214,38.27801709043557
+EXP002,Triviul feat. The Fiend - Widow,other,metrics\per_track_metrics.jsonl,48,4.375224315534021,4.821062070410096,13.21566123647802
+EXP002,We Fell From The Sky - Not You,vocals,metrics\per_track_metrics.jsonl,49,6.645715538603692,6.918255412898846,18.158584382812254
+EXP002,We Fell From The Sky - Not You,drums,metrics\per_track_metrics.jsonl,49,13.374333534024494,11.895227889749902,21.01978629220656
+EXP002,We Fell From The Sky - Not You,bass,metrics\per_track_metrics.jsonl,49,4.792549082365028,4.936962669109822,10.89051363292386
+EXP002,We Fell From The Sky - Not You,other,metrics\per_track_metrics.jsonl,49,10.21617217538649,8.855727078629156,15.449489618618259
+EXP002,Zeno - Signs,vocals,metrics\per_track_metrics.jsonl,50,9.420765735656001,9.059253728775206,18.108030135125485
+EXP002,Zeno - Signs,drums,metrics\per_track_metrics.jsonl,50,10.792753192373358,10.0139874822357,19.247188871327875
+EXP002,Zeno - Signs,bass,metrics\per_track_metrics.jsonl,50,3.4659641782977686,3.9909656581380344,11.32142273440153
+EXP002,Zeno - Signs,other,metrics\per_track_metrics.jsonl,50,8.504377136587458,7.296845466809114,11.617547596032217
+EXP003,AM Contra - Heart Peripheral,vocals,metrics\per_track_metrics.jsonl,1,12.291002995860463,11.343970754890515,19.663234109802602
+EXP003,AM Contra - Heart Peripheral,drums,metrics\per_track_metrics.jsonl,1,8.719854299208894,7.501786575858458,13.60993696069691
+EXP003,AM Contra - Heart Peripheral,bass,metrics\per_track_metrics.jsonl,1,7.324240996597777,-1.4536942345301405,-2.543196771378708
+EXP003,AM Contra - Heart Peripheral,other,metrics\per_track_metrics.jsonl,1,-0.5688377726271306,0.4805669589174716,2.910506237195984
+EXP003,Al James - Schoolboy Facination,vocals,metrics\per_track_metrics.jsonl,2,7.7373556619672765,7.316495497200251,15.755096466005362
+EXP003,Al James - Schoolboy Facination,drums,metrics\per_track_metrics.jsonl,2,7.085631404298026,6.671753516570496,14.56597138202178
+EXP003,Al James - Schoolboy Facination,bass,metrics\per_track_metrics.jsonl,2,10.24132578964165,9.645480851998174,20.282334773956894
+EXP003,Al James - Schoolboy Facination,other,metrics\per_track_metrics.jsonl,2,3.7946578610141324,3.1992559548458215,6.700379990785992
+EXP003,Angels In Amplifiers - I'm Alright,vocals,metrics\per_track_metrics.jsonl,3,11.289492140563631,10.923779520545354,21.263736843701263
+EXP003,Angels In Amplifiers - I'm Alright,drums,metrics\per_track_metrics.jsonl,3,9.092922147634923,6.985902070226485,21.200658791675675
+EXP003,Angels In Amplifiers - I'm Alright,bass,metrics\per_track_metrics.jsonl,3,11.172208719630287,10.094570925916164,17.392430480256664
+EXP003,Angels In Amplifiers - I'm Alright,other,metrics\per_track_metrics.jsonl,3,9.815588082716083,8.205200019753068,12.657248433549261
+EXP003,Arise - Run Run Run,vocals,metrics\per_track_metrics.jsonl,4,11.636534438278996,11.44772980464767,24.117187939959045
+EXP003,Arise - Run Run Run,drums,metrics\per_track_metrics.jsonl,4,7.267907832347568,-3.309617515135227,-2.493630509704413
+EXP003,Arise - Run Run Run,bass,metrics\per_track_metrics.jsonl,4,8.25537655326471,7.445146677675906,13.566738724056025
+EXP003,Arise - Run Run Run,other,metrics\per_track_metrics.jsonl,4,3.5598991196567575,0.8806971703399593,18.264946626294716
+EXP003,BKS - Bulldozer,vocals,metrics\per_track_metrics.jsonl,5,9.193282446378252,8.844165756264177,21.203572789152233
+EXP003,BKS - Bulldozer,drums,metrics\per_track_metrics.jsonl,5,12.725670457388937,11.686566892987702,20.841031652383975
+EXP003,BKS - Bulldozer,bass,metrics\per_track_metrics.jsonl,5,10.77781463850462,9.625488666082752,17.815184974485344
+EXP003,BKS - Bulldozer,other,metrics\per_track_metrics.jsonl,5,7.044020787783813,6.49002649216591,12.763961301469774
+EXP003,BKS - Too Much,vocals,metrics\per_track_metrics.jsonl,6,12.390366978834875,12.023764114618647,22.656179993005978
+EXP003,BKS - Too Much,drums,metrics\per_track_metrics.jsonl,6,10.72648390304169,10.14057606880872,19.03726405417298
+EXP003,BKS - Too Much,bass,metrics\per_track_metrics.jsonl,6,14.32092826048083,13.028319281937364,20.553940421744144
+EXP003,BKS - Too Much,other,metrics\per_track_metrics.jsonl,6,7.012210930262871,6.546772395661015,16.077111112521152
+EXP003,Ben Carrigan - We'll Talk About It All Tonight,vocals,metrics\per_track_metrics.jsonl,7,5.699575140920745,5.691629390442769,16.86867856917721
+EXP003,Ben Carrigan - We'll Talk About It All Tonight,drums,metrics\per_track_metrics.jsonl,7,10.317843186233999,9.843612222773396,19.84779528146972
+EXP003,Ben Carrigan - We'll Talk About It All Tonight,bass,metrics\per_track_metrics.jsonl,7,13.147399658595845,12.947292720491204,25.705188143674533
+EXP003,Ben Carrigan - We'll Talk About It All Tonight,other,metrics\per_track_metrics.jsonl,7,7.752390916075157,6.571275596980637,10.745130043120072
+EXP003,Bobby Nobody - Stitch Up,vocals,metrics\per_track_metrics.jsonl,8,10.119434856598726,9.871982973579629,19.221993086452148
+EXP003,Bobby Nobody - Stitch Up,drums,metrics\per_track_metrics.jsonl,8,7.0623642070632675,7.154548184968589,19.435013513680573
+EXP003,Bobby Nobody - Stitch Up,bass,metrics\per_track_metrics.jsonl,8,9.732146477793627,8.177574063147324,12.945166799774803
+EXP003,Bobby Nobody - Stitch Up,other,metrics\per_track_metrics.jsonl,8,6.159906652207474,6.152754879139515,13.656206501112829
+EXP003,Buitraker - Revo X,vocals,metrics\per_track_metrics.jsonl,9,5.093572295185023,4.999813615605565,11.72253956680658
+EXP003,Buitraker - Revo X,drums,metrics\per_track_metrics.jsonl,9,15.034255538347976,13.774636907914555,26.911486574882648
+EXP003,Buitraker - Revo X,bass,metrics\per_track_metrics.jsonl,9,12.18085080466438,11.027007048069905,17.273032709181937
+EXP003,Buitraker - Revo X,other,metrics\per_track_metrics.jsonl,9,7.801980612060087,6.663250796295692,11.646347188524963
+EXP003,Carlos Gonzalez - A Place For Us,vocals,metrics\per_track_metrics.jsonl,10,7.974256666261045,7.783169513235119,15.85328901953286
+EXP003,Carlos Gonzalez - A Place For Us,drums,metrics\per_track_metrics.jsonl,10,7.564263105652712,7.18295421936014,14.579880101207905
+EXP003,Carlos Gonzalez - A Place For Us,bass,metrics\per_track_metrics.jsonl,10,1.2245080247458469,2.9797512399525106,12.992814700366758
+EXP003,Carlos Gonzalez - A Place For Us,other,metrics\per_track_metrics.jsonl,10,7.331478160505966,6.738567533231312,11.993932651218806
+EXP003,Cristina Vane - So Easy,vocals,metrics\per_track_metrics.jsonl,11,11.563290574836726,10.814926263059107,18.260836261822146
+EXP003,Cristina Vane - So Easy,drums,metrics\per_track_metrics.jsonl,11,14.193666470510028,13.519871782999504,24.96127882913628
+EXP003,Cristina Vane - So Easy,bass,metrics\per_track_metrics.jsonl,11,7.601061653101314,6.762834105176499,17.01010308863196
+EXP003,Cristina Vane - So Easy,other,metrics\per_track_metrics.jsonl,11,6.225223091092914,5.766144849938764,10.67184000899011
+EXP003,Detsky Sad - Walkie Talkie,vocals,metrics\per_track_metrics.jsonl,12,5.87262779679679,5.194309225107064,11.850661457003591
+EXP003,Detsky Sad - Walkie Talkie,drums,metrics\per_track_metrics.jsonl,12,6.424708990495249,5.8261396351325745,19.582745372693395
+EXP003,Detsky Sad - Walkie Talkie,bass,metrics\per_track_metrics.jsonl,12,-0.45575916557544954,2.6414621397260554,17.418711929841525
+EXP003,Detsky Sad - Walkie Talkie,other,metrics\per_track_metrics.jsonl,12,4.169871569103009,2.0567338403684583,4.464003509543753
+EXP003,Enda Reilly - Cur An Long Ag Seol,vocals,metrics\per_track_metrics.jsonl,13,11.795143310810413,11.276657796138876,20.56319999019818
+EXP003,Enda Reilly - Cur An Long Ag Seol,drums,metrics\per_track_metrics.jsonl,13,12.897025236350741,12.873281975030704,29.83939912124686
+EXP003,Enda Reilly - Cur An Long Ag Seol,bass,metrics\per_track_metrics.jsonl,13,10.760804527596669,10.214932993396236,23.753308369795697
+EXP003,Enda Reilly - Cur An Long Ag Seol,other,metrics\per_track_metrics.jsonl,13,9.223202560606373,8.757684332540483,16.08727304742384
+EXP003,Forkupines - Semantics,vocals,metrics\per_track_metrics.jsonl,14,8.44264882910107,8.376363845126825,18.953784165638172
+EXP003,Forkupines - Semantics,drums,metrics\per_track_metrics.jsonl,14,14.010605072086593,12.481166088219409,20.696270078414155
+EXP003,Forkupines - Semantics,bass,metrics\per_track_metrics.jsonl,14,7.956976187562752,7.0729010317491,16.786233925000758
+EXP003,Forkupines - Semantics,other,metrics\per_track_metrics.jsonl,14,7.74590654019358,6.570395543406694,10.929966972741045
+EXP003,Georgia Wonder - Siren,vocals,metrics\per_track_metrics.jsonl,15,5.893254135543078,6.038396378663167,13.801399630473403
+EXP003,Georgia Wonder - Siren,drums,metrics\per_track_metrics.jsonl,15,11.06694706253397,10.266271114738664,20.553335494064026
+EXP003,Georgia Wonder - Siren,bass,metrics\per_track_metrics.jsonl,15,13.481959401000003,11.462330325218407,20.565624423294942
+EXP003,Georgia Wonder - Siren,other,metrics\per_track_metrics.jsonl,15,7.778012079491813,6.851812766097457,11.760786142742663
+EXP003,Girls Under Glass - We Feel Alright,vocals,metrics\per_track_metrics.jsonl,16,6.306695149466814,6.334955411947142,16.818586573961184
+EXP003,Girls Under Glass - We Feel Alright,drums,metrics\per_track_metrics.jsonl,16,9.947123245729587,8.669656280191676,19.235048194297274
+EXP003,Girls Under Glass - We Feel Alright,bass,metrics\per_track_metrics.jsonl,16,6.586460192139443,5.214409921138361,9.098392152145712
+EXP003,Girls Under Glass - We Feel Alright,other,metrics\per_track_metrics.jsonl,16,7.357795446852727,6.052912919662643,10.894428169416921
+EXP003,Hollow Ground - Ill Fate,vocals,metrics\per_track_metrics.jsonl,17,8.22362957733362,7.679107714672409,14.46353389532507
+EXP003,Hollow Ground - Ill Fate,drums,metrics\per_track_metrics.jsonl,17,6.330477752020231,6.195427643453151,15.639810250377064
+EXP003,Hollow Ground - Ill Fate,bass,metrics\per_track_metrics.jsonl,17,3.6912887445800884,2.5965004301293533,4.846701760440829
+EXP003,Hollow Ground - Ill Fate,other,metrics\per_track_metrics.jsonl,17,8.297158951185034,6.50872194098611,9.98829984334224
+EXP003,James Elder & Mark M Thompson - The English Actor,vocals,metrics\per_track_metrics.jsonl,18,8.737188244123354,7.674657476130358,20.15718028124406
+EXP003,James Elder & Mark M Thompson - The English Actor,drums,metrics\per_track_metrics.jsonl,18,10.59942102182518,10.09671744589367,22.83201551370828
+EXP003,James Elder & Mark M Thompson - The English Actor,bass,metrics\per_track_metrics.jsonl,18,8.90756841393644,8.196922530044816,17.241519052170272
+EXP003,James Elder & Mark M Thompson - The English Actor,other,metrics\per_track_metrics.jsonl,18,8.755622211113854,7.051625680361752,10.643543200999115
+EXP003,Juliet's Rescue - Heartbeats,vocals,metrics\per_track_metrics.jsonl,19,10.236711303281156,9.87594230083857,20.430027587179822
+EXP003,Juliet's Rescue - Heartbeats,drums,metrics\per_track_metrics.jsonl,19,16.312433184345604,15.066519182756144,27.128062542322585
+EXP003,Juliet's Rescue - Heartbeats,bass,metrics\per_track_metrics.jsonl,19,2.839883836411544,2.888208951346253,7.604506754774858
+EXP003,Juliet's Rescue - Heartbeats,other,metrics\per_track_metrics.jsonl,19,7.865988425431332,6.745968854720067,11.878554057132806
+EXP003,Little Chicago's Finest - My Own,vocals,metrics\per_track_metrics.jsonl,20,4.557091209547925,0.8172305311766914,20.545237569880243
+EXP003,Little Chicago's Finest - My Own,drums,metrics\per_track_metrics.jsonl,20,6.4052846680825155,0.7209412297363325,23.87442527608179
+EXP003,Little Chicago's Finest - My Own,bass,metrics\per_track_metrics.jsonl,20,1.0133886824145661,0.9411659143872073,19.014138365619434
+EXP003,Little Chicago's Finest - My Own,other,metrics\per_track_metrics.jsonl,20,-1.3720938493420949,0.774597271543604,0.6075985803580639
+EXP003,Louis Cressy Band - Good Time,vocals,metrics\per_track_metrics.jsonl,21,10.345861292841949,10.265317663036424,21.088238558316917
+EXP003,Louis Cressy Band - Good Time,drums,metrics\per_track_metrics.jsonl,21,10.604987263417769,9.586453773831762,21.270663259985483
+EXP003,Louis Cressy Band - Good Time,bass,metrics\per_track_metrics.jsonl,21,10.714971762837477,9.499438676529444,16.47902445422337
+EXP003,Louis Cressy Band - Good Time,other,metrics\per_track_metrics.jsonl,21,10.676109193264036,9.603134053729843,16.238265878804086
+EXP003,Lyndsey Ollard - Catching Up,vocals,metrics\per_track_metrics.jsonl,22,12.930495611385204,10.584195170032615,26.92222750968969
+EXP003,Lyndsey Ollard - Catching Up,drums,metrics\per_track_metrics.jsonl,22,9.167073019437186,8.79084887512872,18.614959372854464
+EXP003,Lyndsey Ollard - Catching Up,bass,metrics\per_track_metrics.jsonl,22,12.080634027200087,11.755813680748744,23.94900454904026
+EXP003,Lyndsey Ollard - Catching Up,other,metrics\per_track_metrics.jsonl,22,7.053597358527215,5.205687113529836,8.187563129846865
+EXP003,M.E.R.C. Music - Knockout,vocals,metrics\per_track_metrics.jsonl,23,10.95133096823905,10.518297723188855,18.864725981509633
+EXP003,M.E.R.C. Music - Knockout,drums,metrics\per_track_metrics.jsonl,23,11.519961335739,10.97970136430952,23.76316011157453
+EXP003,M.E.R.C. Music - Knockout,bass,metrics\per_track_metrics.jsonl,23,12.749758561417313,11.905611165407976,20.266075171681482
+EXP003,M.E.R.C. Music - Knockout,other,metrics\per_track_metrics.jsonl,23,6.751912267028686,6.802579175717371,15.372031960228846
+EXP003,Moosmusic - Big Dummy Shake,vocals,metrics\per_track_metrics.jsonl,24,11.67891917673141,11.24391080864049,21.01896369184074
+EXP003,Moosmusic - Big Dummy Shake,drums,metrics\per_track_metrics.jsonl,24,13.222992465279875,12.122792421143398,24.174659772016692
+EXP003,Moosmusic - Big Dummy Shake,bass,metrics\per_track_metrics.jsonl,24,9.248138879207618,8.636997609866905,17.473106134287395
+EXP003,Moosmusic - Big Dummy Shake,other,metrics\per_track_metrics.jsonl,24,8.011058675122513,7.416983512262933,14.243322446068953
+EXP003,Motor Tapes - Shore,vocals,metrics\per_track_metrics.jsonl,25,9.648470697494103,9.067909154274362,19.1162012442917
+EXP003,Motor Tapes - Shore,drums,metrics\per_track_metrics.jsonl,25,9.548210636712627,9.00493967286564,20.174940001959577
+EXP003,Motor Tapes - Shore,bass,metrics\per_track_metrics.jsonl,25,12.148797897809347,11.686315379393497,21.991478636782613
+EXP003,Motor Tapes - Shore,other,metrics\per_track_metrics.jsonl,25,11.702496306791943,10.701718784080427,17.109065077748593
+EXP003,Mu - Too Bright,vocals,metrics\per_track_metrics.jsonl,26,10.73553486260166,10.136454012393887,17.814749401951836
+EXP003,Mu - Too Bright,drums,metrics\per_track_metrics.jsonl,26,15.968403894729217,14.642433880445203,27.43373415742515
+EXP003,Mu - Too Bright,bass,metrics\per_track_metrics.jsonl,26,7.41133056381425,6.402280211691681,12.31500738648828
+EXP003,Mu - Too Bright,other,metrics\per_track_metrics.jsonl,26,7.372264838213964,7.136156914453134,15.687352996836903
+EXP003,Nerve 9 - Pray For The Rain,vocals,metrics\per_track_metrics.jsonl,27,8.924243378525215,8.199313555308166,20.26511704487138
+EXP003,Nerve 9 - Pray For The Rain,drums,metrics\per_track_metrics.jsonl,27,13.908937760494055,12.776018014417485,28.959351205757244
+EXP003,Nerve 9 - Pray For The Rain,bass,metrics\per_track_metrics.jsonl,27,8.756193218644592,7.647000680741755,16.613344504855778
+EXP003,Nerve 9 - Pray For The Rain,other,metrics\per_track_metrics.jsonl,27,8.896824423057144,7.40815118041298,11.493758415485528
+EXP003,PR - Happy Daze,vocals,metrics\per_track_metrics.jsonl,28,-3.958913796000027,-5.228179187805562,-5.608421476945904
+EXP003,PR - Happy Daze,drums,metrics\per_track_metrics.jsonl,28,22.144758443072313,20.01294025848942,24.508265378162996
+EXP003,PR - Happy Daze,bass,metrics\per_track_metrics.jsonl,28,14.144731898616092,12.739326653219099,28.800257796803862
+EXP003,PR - Happy Daze,other,metrics\per_track_metrics.jsonl,28,3.420893888419771,4.700316379970049,16.81316735609798
+EXP003,PR - Oh No,vocals,metrics\per_track_metrics.jsonl,29,4.430867074993222,2.835703363470778,22.477262936870765
+EXP003,PR - Oh No,drums,metrics\per_track_metrics.jsonl,29,14.40653640214778,12.856335716775476,23.00100606941548
+EXP003,PR - Oh No,bass,metrics\per_track_metrics.jsonl,29,8.223478416520747,8.06417091094085,18.87633631391117
+EXP003,PR - Oh No,other,metrics\per_track_metrics.jsonl,29,6.493608282777305,4.134229933721484,6.613988361595799
+EXP003,Punkdisco - Oral Hygiene,vocals,metrics\per_track_metrics.jsonl,30,10.074489889552181,9.762685627725103,19.962051972473912
+EXP003,Punkdisco - Oral Hygiene,drums,metrics\per_track_metrics.jsonl,30,7.587815448106663,5.287449774324202,9.386064216596795
+EXP003,Punkdisco - Oral Hygiene,bass,metrics\per_track_metrics.jsonl,30,4.133785456598039,5.280128494754708,20.132497214060237
+EXP003,Punkdisco - Oral Hygiene,other,metrics\per_track_metrics.jsonl,30,2.213942317512262,1.6467512738134662,4.696966417775807
+EXP003,Raft Monk - Tiring,vocals,metrics\per_track_metrics.jsonl,31,6.330972424603435,5.659058001969597,11.553799924621085
+EXP003,Raft Monk - Tiring,drums,metrics\per_track_metrics.jsonl,31,9.06331742017683,8.824723228188919,20.33035861494507
+EXP003,Raft Monk - Tiring,bass,metrics\per_track_metrics.jsonl,31,9.59304910693872,8.553078700446019,14.179843357004954
+EXP003,Raft Monk - Tiring,other,metrics\per_track_metrics.jsonl,31,6.137670675776095,5.3656115929342985,9.79294507164986
+EXP003,Sambasevam Shanmugam - Kaathaadi,vocals,metrics\per_track_metrics.jsonl,32,13.955105664057548,13.65592717396545,25.675262015924318
+EXP003,Sambasevam Shanmugam - Kaathaadi,drums,metrics\per_track_metrics.jsonl,32,6.117114806853516,6.695891926767143,22.834907354086027
+EXP003,Sambasevam Shanmugam - Kaathaadi,bass,metrics\per_track_metrics.jsonl,32,11.36084462652372,10.211952019643167,19.890612515569003
+EXP003,Sambasevam Shanmugam - Kaathaadi,other,metrics\per_track_metrics.jsonl,32,10.491178716444345,9.757762345092589,16.506273446032345
+EXP003,Secretariat - Borderline,vocals,metrics\per_track_metrics.jsonl,33,8.399004848640196,8.322954721630047,18.159523951856254
+EXP003,Secretariat - Borderline,drums,metrics\per_track_metrics.jsonl,33,7.28046643693678,7.062846129800815,20.088846028439026
+EXP003,Secretariat - Borderline,bass,metrics\per_track_metrics.jsonl,33,7.112906311464627,5.590941236614663,15.663633051450406
+EXP003,Secretariat - Borderline,other,metrics\per_track_metrics.jsonl,33,10.417000336804714,8.848375202098785,13.083890096428892
+EXP003,Secretariat - Over The Top,vocals,metrics\per_track_metrics.jsonl,34,10.132794176447435,9.981578848106746,22.084856992099866
+EXP003,Secretariat - Over The Top,drums,metrics\per_track_metrics.jsonl,34,9.507931198900243,8.915559855580701,18.534163099852993
+EXP003,Secretariat - Over The Top,bass,metrics\per_track_metrics.jsonl,34,12.759098392988985,11.100389624291418,23.396344957078647
+EXP003,Secretariat - Over The Top,other,metrics\per_track_metrics.jsonl,34,8.646147694356264,7.964098190865091,13.790765822306895
+EXP003,Side Effects Project - Sing With Me,vocals,metrics\per_track_metrics.jsonl,35,14.456393093412343,12.862587642383145,18.55657212878477
+EXP003,Side Effects Project - Sing With Me,drums,metrics\per_track_metrics.jsonl,35,16.42264858507659,15.449354995440242,24.682821143742537
+EXP003,Side Effects Project - Sing With Me,bass,metrics\per_track_metrics.jsonl,35,13.16125720066998,12.68296613139652,25.40580866957886
+EXP003,Side Effects Project - Sing With Me,other,metrics\per_track_metrics.jsonl,35,2.8825740562741986,3.255684459093712,14.9586932894754
+EXP003,Signe Jakobsen - What Have You Done To Me,vocals,metrics\per_track_metrics.jsonl,36,11.663341474226028,11.089961612571281,20.506331378681605
+EXP003,Signe Jakobsen - What Have You Done To Me,drums,metrics\per_track_metrics.jsonl,36,5.958814386113382,5.949918023875476,15.223936251440929
+EXP003,Signe Jakobsen - What Have You Done To Me,bass,metrics\per_track_metrics.jsonl,36,6.1146536909700036,3.6864667500958603,5.792739340906346
+EXP003,Signe Jakobsen - What Have You Done To Me,other,metrics\per_track_metrics.jsonl,36,7.348455471446095,6.340987788879495,14.104080379967707
+EXP003,Skelpolu - Resurrection,vocals,metrics\per_track_metrics.jsonl,37,-1.01478719226609,1.7999877307449514,11.173925870246158
+EXP003,Skelpolu - Resurrection,drums,metrics\per_track_metrics.jsonl,37,14.522078256103988,13.466615774865856,21.993686662842652
+EXP003,Skelpolu - Resurrection,bass,metrics\per_track_metrics.jsonl,37,17.150957822600713,15.355554981698882,23.44406248284455
+EXP003,Skelpolu - Resurrection,other,metrics\per_track_metrics.jsonl,37,7.8376381055023465,5.872873440053629,9.082123872041134
+EXP003,Speak Softly - Broken Man,vocals,metrics\per_track_metrics.jsonl,38,7.5605098009629135,6.518928309362194,14.813359554276753
+EXP003,Speak Softly - Broken Man,drums,metrics\per_track_metrics.jsonl,38,12.90775530654483,9.238014398803195,28.510182938492413
+EXP003,Speak Softly - Broken Man,bass,metrics\per_track_metrics.jsonl,38,18.918914801978367,17.825631513991848,30.049657442248062
+EXP003,Speak Softly - Broken Man,other,metrics\per_track_metrics.jsonl,38,11.273937051445477,8.623225404723895,11.574143520588105
+EXP003,Speak Softly - Like Horses,vocals,metrics\per_track_metrics.jsonl,39,8.912905343079709,8.342946953061896,15.29095286463334
+EXP003,Speak Softly - Like Horses,drums,metrics\per_track_metrics.jsonl,39,8.908627026737511,8.113391041655417,20.02343777185269
+EXP003,Speak Softly - Like Horses,bass,metrics\per_track_metrics.jsonl,39,23.26750637464709,22.006221263304923,37.371690846334154
+EXP003,Speak Softly - Like Horses,other,metrics\per_track_metrics.jsonl,39,8.995965384311727,7.73151613434507,12.914992305525699
+EXP003,The Doppler Shift - Atrophy,vocals,metrics\per_track_metrics.jsonl,40,10.269026228773408,9.497410679354806,18.826476618274718
+EXP003,The Doppler Shift - Atrophy,drums,metrics\per_track_metrics.jsonl,40,10.34946644945573,9.291230850258398,18.65976630830196
+EXP003,The Doppler Shift - Atrophy,bass,metrics\per_track_metrics.jsonl,40,2.454164089036022,1.9357604807294315,4.716233376690488
+EXP003,The Doppler Shift - Atrophy,other,metrics\per_track_metrics.jsonl,40,8.165298707213754,6.874756300002431,12.880368195014704
+EXP003,The Easton Ellises (Baumi) - SDRNR,vocals,metrics\per_track_metrics.jsonl,41,6.201907204631886,5.757400943551656,11.652453145665797
+EXP003,The Easton Ellises (Baumi) - SDRNR,drums,metrics\per_track_metrics.jsonl,41,12.05408811350452,10.663007271662043,17.85872676273202
+EXP003,The Easton Ellises (Baumi) - SDRNR,bass,metrics\per_track_metrics.jsonl,41,9.092725578923561,7.721024633813842,16.97380185435928
+EXP003,The Easton Ellises (Baumi) - SDRNR,other,metrics\per_track_metrics.jsonl,41,3.449005591457861,3.0725621757550114,6.990191246522991
+EXP003,The Easton Ellises - Falcon 69,vocals,metrics\per_track_metrics.jsonl,42,3.9868811905706423,4.583092400466926,15.455328256150317
+EXP003,The Easton Ellises - Falcon 69,drums,metrics\per_track_metrics.jsonl,42,10.637919066057153,10.106284226739302,19.594913931205355
+EXP003,The Easton Ellises - Falcon 69,bass,metrics\per_track_metrics.jsonl,42,9.179158344819948,7.609133117927525,15.894721152065948
+EXP003,The Easton Ellises - Falcon 69,other,metrics\per_track_metrics.jsonl,42,6.019648873807766,3.6600166006866566,5.89231710413009
+EXP003,The Long Wait - Dark Horses,vocals,metrics\per_track_metrics.jsonl,43,9.738604452916666,9.548628781681398,18.906439225933013
+EXP003,The Long Wait - Dark Horses,drums,metrics\per_track_metrics.jsonl,43,8.748617247463688,8.626124377623883,20.103203768253564
+EXP003,The Long Wait - Dark Horses,bass,metrics\per_track_metrics.jsonl,43,8.966970642392212,8.470964269626677,18.874897439639614
+EXP003,The Long Wait - Dark Horses,other,metrics\per_track_metrics.jsonl,43,7.10757424762275,6.751341372466505,12.881238472273557
+EXP003,The Mountaineering Club - Mallory,vocals,metrics\per_track_metrics.jsonl,44,12.147013699110364,11.89180145933048,24.621415084596467
+EXP003,The Mountaineering Club - Mallory,drums,metrics\per_track_metrics.jsonl,44,12.803859503343036,12.341968748565357,26.10657214776673
+EXP003,The Mountaineering Club - Mallory,bass,metrics\per_track_metrics.jsonl,44,12.664547871257504,11.754979599425281,21.966789326829783
+EXP003,The Mountaineering Club - Mallory,other,metrics\per_track_metrics.jsonl,44,8.775046426565167,7.960776381650896,14.743396012709201
+EXP003,The Sunshine Garcia Band - For I Am The Moon,vocals,metrics\per_track_metrics.jsonl,45,10.466159025631338,10.216919620315167,20.59049887455263
+EXP003,The Sunshine Garcia Band - For I Am The Moon,drums,metrics\per_track_metrics.jsonl,45,10.517556021112506,9.677663437241394,18.769946630991715
+EXP003,The Sunshine Garcia Band - For I Am The Moon,bass,metrics\per_track_metrics.jsonl,45,9.541935920645118,9.223966829310527,21.574349632348635
+EXP003,The Sunshine Garcia Band - For I Am The Moon,other,metrics\per_track_metrics.jsonl,45,2.0866981742416617,2.389976415473508,8.729366682987314
+EXP003,Timboz - Pony,vocals,metrics\per_track_metrics.jsonl,46,5.62662054951079,5.372629731594043,13.487024294056425
+EXP003,Timboz - Pony,drums,metrics\per_track_metrics.jsonl,46,5.2046469570251865,5.073997114822429,11.485907625751096
+EXP003,Timboz - Pony,bass,metrics\per_track_metrics.jsonl,46,3.3259847385364254,2.958494639198803,8.462863971860823
+EXP003,Timboz - Pony,other,metrics\per_track_metrics.jsonl,46,11.02961748717117,8.90991010286167,13.067929638903177
+EXP003,Tom McKenzie - Directions,vocals,metrics\per_track_metrics.jsonl,47,12.120185540959055,10.960628897137754,22.856642671057937
+EXP003,Tom McKenzie - Directions,drums,metrics\per_track_metrics.jsonl,47,16.377538291648865,15.272071387760462,27.547711628611175
+EXP003,Tom McKenzie - Directions,bass,metrics\per_track_metrics.jsonl,47,3.220735051488926,4.329231050942573,12.426712235195485
+EXP003,Tom McKenzie - Directions,other,metrics\per_track_metrics.jsonl,47,3.9287746204680434,2.218191324276311,4.198040083169064
+EXP003,Triviul feat. The Fiend - Widow,vocals,metrics\per_track_metrics.jsonl,48,10.812709281940274,9.592350363233646,14.667862747369014
+EXP003,Triviul feat. The Fiend - Widow,drums,metrics\per_track_metrics.jsonl,48,8.334660983512512,7.78773878117052,18.427085790323016
+EXP003,Triviul feat. The Fiend - Widow,bass,metrics\per_track_metrics.jsonl,48,17.203268121557585,15.563456883773679,37.59651784606476
+EXP003,Triviul feat. The Fiend - Widow,other,metrics\per_track_metrics.jsonl,48,3.3778207719802116,4.215335429381828,12.603899172546916
+EXP003,We Fell From The Sky - Not You,vocals,metrics\per_track_metrics.jsonl,49,6.394951295887886,6.711194220434118,18.39579977382467
+EXP003,We Fell From The Sky - Not You,drums,metrics\per_track_metrics.jsonl,49,13.187609270679179,11.773415099293167,20.846282416065595
+EXP003,We Fell From The Sky - Not You,bass,metrics\per_track_metrics.jsonl,49,4.210699548463134,4.6604282350359965,11.09518373624111
+EXP003,We Fell From The Sky - Not You,other,metrics\per_track_metrics.jsonl,49,10.129802863195685,8.756660734000821,15.157176555483575
+EXP003,Zeno - Signs,vocals,metrics\per_track_metrics.jsonl,50,8.936835875380794,8.642147909772326,17.914748734449976
+EXP003,Zeno - Signs,drums,metrics\per_track_metrics.jsonl,50,10.548134038466808,9.800523242081876,19.107709506491265
+EXP003,Zeno - Signs,bass,metrics\per_track_metrics.jsonl,50,2.025916943007812,3.3209713677368,12.456871039816782
+EXP003,Zeno - Signs,other,metrics\per_track_metrics.jsonl,50,8.296900647260966,6.891585073108911,10.623184339472147
+EXP004,Al James - Schoolboy Facination,vocals,metrics\EXP004_per_track_metrics.jsonl,1,8.088150130715476,7.548775723249035,15.688880636801084
+EXP004,Al James - Schoolboy Facination,drums,metrics\EXP004_per_track_metrics.jsonl,1,7.365482308320589,6.886879073608045,14.696113423859833
+EXP004,Al James - Schoolboy Facination,bass,metrics\EXP004_per_track_metrics.jsonl,1,11.050237906304151,10.315204559498813,20.095620934739266
+EXP004,Al James - Schoolboy Facination,other,metrics\EXP004_per_track_metrics.jsonl,1,4.122246921125818,3.515111665048612,7.072399204674241
+EXP004,AM Contra - Heart Peripheral,vocals,metrics\EXP004_per_track_metrics.jsonl,2,12.439227532566496,11.441217947531895,19.491109724266067
+EXP004,AM Contra - Heart Peripheral,drums,metrics\EXP004_per_track_metrics.jsonl,2,9.358533418833902,8.295845525466012,15.69518989328528
+EXP004,AM Contra - Heart Peripheral,bass,metrics\EXP004_per_track_metrics.jsonl,2,8.254677523366853,-1.2813218348700164,-2.0377763081574556
+EXP004,AM Contra - Heart Peripheral,other,metrics\EXP004_per_track_metrics.jsonl,2,-0.5098881112349539,0.4872671592971438,3.4840341457693738
+EXP004,Angels In Amplifiers - I'm Alright,vocals,metrics\EXP004_per_track_metrics.jsonl,3,11.454490527203866,11.094875489723492,21.43198666832233
+EXP004,Angels In Amplifiers - I'm Alright,drums,metrics\EXP004_per_track_metrics.jsonl,3,9.372017604718142,7.292676929883319,20.647883237587045
+EXP004,Angels In Amplifiers - I'm Alright,bass,metrics\EXP004_per_track_metrics.jsonl,3,11.386481442702438,10.38897452531402,17.88785719856989
+EXP004,Angels In Amplifiers - I'm Alright,other,metrics\EXP004_per_track_metrics.jsonl,3,9.889677483215234,8.407001373150266,13.169956766916776
+EXP004,Arise - Run Run Run,vocals,metrics\EXP004_per_track_metrics.jsonl,4,11.845023155199744,11.649462381931627,24.08991886417249
+EXP004,Arise - Run Run Run,drums,metrics\EXP004_per_track_metrics.jsonl,4,7.521170226852721,-3.360515785483251,-2.5993195829960474
+EXP004,Arise - Run Run Run,bass,metrics\EXP004_per_track_metrics.jsonl,4,8.634057083801313,7.777458646979532,14.03159578984431
+EXP004,Arise - Run Run Run,other,metrics\EXP004_per_track_metrics.jsonl,4,3.732958660618091,0.8776202633075731,18.69081551285595
+EXP004,Ben Carrigan - We'll Talk About It All Tonight,vocals,metrics\EXP004_per_track_metrics.jsonl,5,6.016653803669911,5.885818680777514,16.109763010233785
+EXP004,Ben Carrigan - We'll Talk About It All Tonight,drums,metrics\EXP004_per_track_metrics.jsonl,5,10.563835829423576,10.047001439768406,20.348633394235968
+EXP004,Ben Carrigan - We'll Talk About It All Tonight,bass,metrics\EXP004_per_track_metrics.jsonl,5,13.554233912341047,13.363314829828298,26.31110755227968
+EXP004,Ben Carrigan - We'll Talk About It All Tonight,other,metrics\EXP004_per_track_metrics.jsonl,5,7.833820934634109,6.716784300561857,11.03298118365456
+EXP004,BKS - Bulldozer,vocals,metrics\EXP004_per_track_metrics.jsonl,6,9.306419291008723,8.878277662450277,21.47779031195567
+EXP004,BKS - Bulldozer,drums,metrics\EXP004_per_track_metrics.jsonl,6,12.868327393742145,11.851787474230784,21.021583984319108
+EXP004,BKS - Bulldozer,bass,metrics\EXP004_per_track_metrics.jsonl,6,11.082952811608653,9.835622192695627,18.040122542841466
+EXP004,BKS - Bulldozer,other,metrics\EXP004_per_track_metrics.jsonl,6,7.207207445934987,6.576107149223254,12.646615500476596
+EXP004,BKS - Too Much,vocals,metrics\EXP004_per_track_metrics.jsonl,7,12.501734913629008,12.106012636786655,22.61306987002338
+EXP004,BKS - Too Much,drums,metrics\EXP004_per_track_metrics.jsonl,7,10.966457449442972,10.338096468857076,19.2416049458348
+EXP004,BKS - Too Much,bass,metrics\EXP004_per_track_metrics.jsonl,7,14.695130509445454,13.366530231493591,21.107002224903248
+EXP004,BKS - Too Much,other,metrics\EXP004_per_track_metrics.jsonl,7,7.2451250014751265,6.71680212768247,15.88780498492378
+EXP004,Bobby Nobody - Stitch Up,vocals,metrics\EXP004_per_track_metrics.jsonl,8,10.29552964214772,10.06272452676063,19.68934563297819
+EXP004,Bobby Nobody - Stitch Up,drums,metrics\EXP004_per_track_metrics.jsonl,8,7.418757588313069,7.448478477345837,19.486863144361653
+EXP004,Bobby Nobody - Stitch Up,bass,metrics\EXP004_per_track_metrics.jsonl,8,9.968432568902735,8.784013472139563,14.460365094952262
+EXP004,Bobby Nobody - Stitch Up,other,metrics\EXP004_per_track_metrics.jsonl,8,6.659521018915141,6.589452255678641,13.855491609015845
+EXP004,Buitraker - Revo X,vocals,metrics\EXP004_per_track_metrics.jsonl,9,5.490623154956164,4.985650515370868,10.500134256028433
+EXP004,Buitraker - Revo X,drums,metrics\EXP004_per_track_metrics.jsonl,9,15.333372076999376,14.078002876990489,26.69969238334946
+EXP004,Buitraker - Revo X,bass,metrics\EXP004_per_track_metrics.jsonl,9,12.424234836010326,11.293331432656675,17.694700136029628
+EXP004,Buitraker - Revo X,other,metrics\EXP004_per_track_metrics.jsonl,9,7.637736048250541,6.728525569608783,12.376776561642375
+EXP004,Carlos Gonzalez - A Place For Us,vocals,metrics\EXP004_per_track_metrics.jsonl,10,8.283712901251846,8.048135800901235,16.28376007998279
+EXP004,Carlos Gonzalez - A Place For Us,drums,metrics\EXP004_per_track_metrics.jsonl,10,7.683450653963563,7.4860284429709845,15.99754150761117
+EXP004,Carlos Gonzalez - A Place For Us,bass,metrics\EXP004_per_track_metrics.jsonl,10,1.159430727229728,3.121350684301043,18.316327791224307
+EXP004,Carlos Gonzalez - A Place For Us,other,metrics\EXP004_per_track_metrics.jsonl,10,7.441762692231119,6.82559224346355,12.224306172404232
+EXP004,Cristina Vane - So Easy,vocals,metrics\EXP004_per_track_metrics.jsonl,11,11.622427334295535,10.903758797465454,18.484626715576663
+EXP004,Cristina Vane - So Easy,drums,metrics\EXP004_per_track_metrics.jsonl,11,14.440426169722336,13.776756575245493,25.754978131865606
+EXP004,Cristina Vane - So Easy,bass,metrics\EXP004_per_track_metrics.jsonl,11,7.661926362605279,6.863795567025878,17.679397840575742
+EXP004,Cristina Vane - So Easy,other,metrics\EXP004_per_track_metrics.jsonl,11,6.360082800525935,5.866113755912481,10.767844073381909
+EXP004,Detsky Sad - Walkie Talkie,vocals,metrics\EXP004_per_track_metrics.jsonl,12,5.6112834882083,4.580423298872969,10.480872552176397
+EXP004,Detsky Sad - Walkie Talkie,drums,metrics\EXP004_per_track_metrics.jsonl,12,6.623413144436404,6.048143471926473,19.39592822739455
+EXP004,Detsky Sad - Walkie Talkie,bass,metrics\EXP004_per_track_metrics.jsonl,12,2.4981127352445256,4.098910700730579,17.484303058603793
+EXP004,Detsky Sad - Walkie Talkie,other,metrics\EXP004_per_track_metrics.jsonl,12,4.074810327432475,2.5821942864577228,5.184735289350861
+EXP004,Enda Reilly - Cur An Long Ag Seol,vocals,metrics\EXP004_per_track_metrics.jsonl,13,11.984957554722616,11.44944079322434,20.80328801835476
+EXP004,Enda Reilly - Cur An Long Ag Seol,drums,metrics\EXP004_per_track_metrics.jsonl,13,13.526579664321446,13.49750782245476,30.909477299281253
+EXP004,Enda Reilly - Cur An Long Ag Seol,bass,metrics\EXP004_per_track_metrics.jsonl,13,11.33736450732538,10.717636098580394,24.42560003021553
+EXP004,Enda Reilly - Cur An Long Ag Seol,other,metrics\EXP004_per_track_metrics.jsonl,13,9.536032724404404,9.025517803844012,16.312857083770645
+EXP004,Forkupines - Semantics,vocals,metrics\EXP004_per_track_metrics.jsonl,14,8.560831049977347,8.49130441893045,18.935885841379676
+EXP004,Forkupines - Semantics,drums,metrics\EXP004_per_track_metrics.jsonl,14,14.269152352525431,12.712806509080654,21.204071521477115
+EXP004,Forkupines - Semantics,bass,metrics\EXP004_per_track_metrics.jsonl,14,8.46177666455818,7.386367381369467,16.804394022044924
+EXP004,Forkupines - Semantics,other,metrics\EXP004_per_track_metrics.jsonl,14,7.839045496989181,6.673711817712804,11.05128636445011
+EXP004,Georgia Wonder - Siren,vocals,metrics\EXP004_per_track_metrics.jsonl,15,6.1860863530646215,5.909349738985278,11.759811186085468
+EXP004,Georgia Wonder - Siren,drums,metrics\EXP004_per_track_metrics.jsonl,15,11.563525022035556,10.701421925756376,20.939793575846572
+EXP004,Georgia Wonder - Siren,bass,metrics\EXP004_per_track_metrics.jsonl,15,14.229976661019617,12.053641510902949,21.131653160958347
+EXP004,Georgia Wonder - Siren,other,metrics\EXP004_per_track_metrics.jsonl,15,7.545814653815658,6.768996468721396,12.377747993370178
+EXP004,Girls Under Glass - We Feel Alright,vocals,metrics\EXP004_per_track_metrics.jsonl,16,6.400646867322195,6.396891703005898,16.830389080606125
+EXP004,Girls Under Glass - We Feel Alright,drums,metrics\EXP004_per_track_metrics.jsonl,16,10.315865705669605,8.931620950997502,20.26600476344878
+EXP004,Girls Under Glass - We Feel Alright,bass,metrics\EXP004_per_track_metrics.jsonl,16,6.861524526546256,5.355998347164121,9.224860153573536
+EXP004,Girls Under Glass - We Feel Alright,other,metrics\EXP004_per_track_metrics.jsonl,16,7.511772830097589,6.112562323512746,10.564931997090685
+EXP004,Hollow Ground - Ill Fate,vocals,metrics\EXP004_per_track_metrics.jsonl,17,8.291758837617456,7.754236437297174,14.749460898410156
+EXP004,Hollow Ground - Ill Fate,drums,metrics\EXP004_per_track_metrics.jsonl,17,6.745286366617204,6.52298170383135,16.06102135311157
+EXP004,Hollow Ground - Ill Fate,bass,metrics\EXP004_per_track_metrics.jsonl,17,3.9033807001244876,2.600641636380163,4.752330295280418
+EXP004,Hollow Ground - Ill Fate,other,metrics\EXP004_per_track_metrics.jsonl,17,8.12668371056456,6.533628348452493,10.41354466895064
+EXP004,James Elder & Mark M Thompson - The English Actor,vocals,metrics\EXP004_per_track_metrics.jsonl,18,8.929884130074774,7.810905592471156,20.063892443277314
+EXP004,James Elder & Mark M Thompson - The English Actor,drums,metrics\EXP004_per_track_metrics.jsonl,18,10.836716639214469,10.296075012107428,23.282389895701712
+EXP004,James Elder & Mark M Thompson - The English Actor,bass,metrics\EXP004_per_track_metrics.jsonl,18,9.161411759756612,8.347611428583512,16.837546598654065
+EXP004,James Elder & Mark M Thompson - The English Actor,other,metrics\EXP004_per_track_metrics.jsonl,18,8.903500563853692,7.1879664845174,10.80010765864781
+EXP004,Juliet's Rescue - Heartbeats,vocals,metrics\EXP004_per_track_metrics.jsonl,19,10.355261438000934,9.951755008437559,20.428260169788032
+EXP004,Juliet's Rescue - Heartbeats,drums,metrics\EXP004_per_track_metrics.jsonl,19,16.577813873305775,15.288818570352698,27.543620472059445
+EXP004,Juliet's Rescue - Heartbeats,bass,metrics\EXP004_per_track_metrics.jsonl,19,3.1076828988314227,3.032639674023855,7.733946293627736
+EXP004,Juliet's Rescue - Heartbeats,other,metrics\EXP004_per_track_metrics.jsonl,19,7.917527187823233,6.8929986521062805,12.385452000672457
+EXP004,Little Chicago's Finest - My Own,vocals,metrics\EXP004_per_track_metrics.jsonl,20,9.284513898182924,9.297193364539137,21.411172665088664
+EXP004,Little Chicago's Finest - My Own,drums,metrics\EXP004_per_track_metrics.jsonl,20,8.77949066842255,6.468840381224542,24.368286801142904
+EXP004,Little Chicago's Finest - My Own,bass,metrics\EXP004_per_track_metrics.jsonl,20,6.816415553001677,6.185505371427263,20.75866044734002
+EXP004,Little Chicago's Finest - My Own,other,metrics\EXP004_per_track_metrics.jsonl,20,0.8885544723220812,-0.22923315910947428,4.454213129467657
+EXP004,Louis Cressy Band - Good Time,vocals,metrics\EXP004_per_track_metrics.jsonl,21,10.349455452071348,10.21266751805257,20.36172930975233
+EXP004,Louis Cressy Band - Good Time,drums,metrics\EXP004_per_track_metrics.jsonl,21,10.763434799995558,9.658277641756875,21.660943665628025
+EXP004,Louis Cressy Band - Good Time,bass,metrics\EXP004_per_track_metrics.jsonl,21,11.033464474158688,9.965167902108654,17.875700693348804
+EXP004,Louis Cressy Band - Good Time,other,metrics\EXP004_per_track_metrics.jsonl,21,10.786606342177716,9.751776837080124,16.259948157278764
+EXP004,Lyndsey Ollard - Catching Up,vocals,metrics\EXP004_per_track_metrics.jsonl,22,12.987890406803036,10.817829558724135,27.054097881903957
+EXP004,Lyndsey Ollard - Catching Up,drums,metrics\EXP004_per_track_metrics.jsonl,22,9.584964292137425,9.14186683765336,19.08306654421097
+EXP004,Lyndsey Ollard - Catching Up,bass,metrics\EXP004_per_track_metrics.jsonl,22,12.505090701265777,12.150036044297446,24.08609554864865
+EXP004,Lyndsey Ollard - Catching Up,other,metrics\EXP004_per_track_metrics.jsonl,22,7.189603489968394,5.46899329480902,8.681760973167755
+EXP004,M.E.R.C. Music - Knockout,vocals,metrics\EXP004_per_track_metrics.jsonl,23,11.070547136130012,10.601830295980022,18.80500195911868
+EXP004,M.E.R.C. Music - Knockout,drums,metrics\EXP004_per_track_metrics.jsonl,23,11.819408158106095,11.256352816906904,23.77093257312032
+EXP004,M.E.R.C. Music - Knockout,bass,metrics\EXP004_per_track_metrics.jsonl,23,13.254437226389243,12.325505044620906,20.448121330415404
+EXP004,M.E.R.C. Music - Knockout,other,metrics\EXP004_per_track_metrics.jsonl,23,6.921959783147661,6.964771221339907,15.716429557942913
+EXP004,Moosmusic - Big Dummy Shake,vocals,metrics\EXP004_per_track_metrics.jsonl,24,11.68516759439358,11.109094107546023,19.811192445012193
+EXP004,Moosmusic - Big Dummy Shake,drums,metrics\EXP004_per_track_metrics.jsonl,24,13.499073428053755,12.369471067021113,24.331839306592798
+EXP004,Moosmusic - Big Dummy Shake,bass,metrics\EXP004_per_track_metrics.jsonl,24,9.653767580828514,8.97836370438647,18.021817321025896
+EXP004,Moosmusic - Big Dummy Shake,other,metrics\EXP004_per_track_metrics.jsonl,24,8.168428036339886,7.610855025429592,14.698866869007352
+EXP004,Motor Tapes - Shore,vocals,metrics\EXP004_per_track_metrics.jsonl,25,9.935452537299229,9.295759936225155,19.793530617264647
+EXP004,Motor Tapes - Shore,drums,metrics\EXP004_per_track_metrics.jsonl,25,10.290731553278775,9.738769427269506,23.8624932356104
+EXP004,Motor Tapes - Shore,bass,metrics\EXP004_per_track_metrics.jsonl,25,12.153921679114353,11.821914206926126,23.96256629099874
+EXP004,Motor Tapes - Shore,other,metrics\EXP004_per_track_metrics.jsonl,25,11.943508187434151,10.806006474266777,17.061024325662043
+EXP004,Mu - Too Bright,vocals,metrics\EXP004_per_track_metrics.jsonl,26,10.803491810165411,10.06350343788963,17.150109246083755
+EXP004,Mu - Too Bright,drums,metrics\EXP004_per_track_metrics.jsonl,26,16.295510625640194,15.054169328387196,27.904078336238417
+EXP004,Mu - Too Bright,bass,metrics\EXP004_per_track_metrics.jsonl,26,7.20767978414047,4.949636829510232,8.745196270042882
+EXP004,Mu - Too Bright,other,metrics\EXP004_per_track_metrics.jsonl,26,7.15914101144545,6.77644004616314,16.616240695172586
+EXP004,Nerve 9 - Pray For The Rain,vocals,metrics\EXP004_per_track_metrics.jsonl,27,9.285920835418128,8.467607255707799,20.738152017060404
+EXP004,Nerve 9 - Pray For The Rain,drums,metrics\EXP004_per_track_metrics.jsonl,27,14.177735010305435,13.008723349149067,29.234660263637842
+EXP004,Nerve 9 - Pray For The Rain,bass,metrics\EXP004_per_track_metrics.jsonl,27,9.313650613201892,8.019469395664663,17.03806933982904
+EXP004,Nerve 9 - Pray For The Rain,other,metrics\EXP004_per_track_metrics.jsonl,27,9.181613331166051,7.715437264995292,11.897749290267175
+EXP004,PR - Happy Daze,vocals,metrics\EXP004_per_track_metrics.jsonl,28,-4.287850361061181,0.6007778500789234,10.972423899627245
+EXP004,PR - Happy Daze,drums,metrics\EXP004_per_track_metrics.jsonl,28,21.36032249842833,19.00999833919476,23.30430993274607
+EXP004,PR - Happy Daze,bass,metrics\EXP004_per_track_metrics.jsonl,28,12.465216732273287,10.727440132372699,25.714487779168916
+EXP004,PR - Happy Daze,other,metrics\EXP004_per_track_metrics.jsonl,28,9.185978743056763,8.628046693256133,17.643453250767163
+EXP004,PR - Oh No,vocals,metrics\EXP004_per_track_metrics.jsonl,29,3.9169057945064516,2.142407437178186,22.175628808580825
+EXP004,PR - Oh No,drums,metrics\EXP004_per_track_metrics.jsonl,29,11.665663681065679,7.0551227802570935,17.82815542010499
+EXP004,PR - Oh No,bass,metrics\EXP004_per_track_metrics.jsonl,29,2.668607118342731,3.3405517026899325,17.7052649148959
+EXP004,PR - Oh No,other,metrics\EXP004_per_track_metrics.jsonl,29,3.4416854105657926,0.6710213491039202,1.5317183220133983
+EXP004,Punkdisco - Oral Hygiene,vocals,metrics\EXP004_per_track_metrics.jsonl,30,10.984335527516356,10.639524719514403,22.077976367301936
+EXP004,Punkdisco - Oral Hygiene,drums,metrics\EXP004_per_track_metrics.jsonl,30,7.60309240789649,4.966725835559435,8.737937928727169
+EXP004,Punkdisco - Oral Hygiene,bass,metrics\EXP004_per_track_metrics.jsonl,30,3.699023897889466,4.950560124473822,20.85598962358182
+EXP004,Punkdisco - Oral Hygiene,other,metrics\EXP004_per_track_metrics.jsonl,30,2.863184022932452,2.041467143386488,5.179712453439959
+EXP004,Raft Monk - Tiring,vocals,metrics\EXP004_per_track_metrics.jsonl,31,6.506100090565442,5.698364389002528,11.211180761131896
+EXP004,Raft Monk - Tiring,drums,metrics\EXP004_per_track_metrics.jsonl,31,9.30244408565192,9.030108426700247,21.10323769974346
+EXP004,Raft Monk - Tiring,bass,metrics\EXP004_per_track_metrics.jsonl,31,9.739652906350896,8.757977655572759,14.696081183394028
+EXP004,Raft Monk - Tiring,other,metrics\EXP004_per_track_metrics.jsonl,31,6.219362102449959,5.482709336123158,9.973871298753199
+EXP004,Sambasevam Shanmugam - Kaathaadi,vocals,metrics\EXP004_per_track_metrics.jsonl,32,14.03177143859457,13.670844444829854,25.449868464392196
+EXP004,Sambasevam Shanmugam - Kaathaadi,drums,metrics\EXP004_per_track_metrics.jsonl,32,7.612999326811681,7.9400610856607665,26.48874471135015
+EXP004,Sambasevam Shanmugam - Kaathaadi,bass,metrics\EXP004_per_track_metrics.jsonl,32,12.866658575854999,11.284267887144726,20.64571624214274
+EXP004,Sambasevam Shanmugam - Kaathaadi,other,metrics\EXP004_per_track_metrics.jsonl,32,10.89075052808563,10.123867489413076,16.82040304396255
+EXP004,Secretariat - Borderline,vocals,metrics\EXP004_per_track_metrics.jsonl,33,8.574204795712983,8.488548039501849,18.35534524969381
+EXP004,Secretariat - Borderline,drums,metrics\EXP004_per_track_metrics.jsonl,33,7.54497783710219,7.2797315677831325,20.352041160815766
+EXP004,Secretariat - Borderline,bass,metrics\EXP004_per_track_metrics.jsonl,33,7.349196497383323,5.841762767257731,16.50477506066751
+EXP004,Secretariat - Borderline,other,metrics\EXP004_per_track_metrics.jsonl,33,10.570307407184876,9.027549835794842,13.310222138876593
+EXP004,Secretariat - Over The Top,vocals,metrics\EXP004_per_track_metrics.jsonl,34,10.252472326833036,10.087033328115087,22.117129472083576
+EXP004,Secretariat - Over The Top,drums,metrics\EXP004_per_track_metrics.jsonl,34,9.75424574146086,9.13771807690486,18.840450013361966
+EXP004,Secretariat - Over The Top,bass,metrics\EXP004_per_track_metrics.jsonl,34,13.019146254464447,11.267634862743318,24.476087035909643
+EXP004,Secretariat - Over The Top,other,metrics\EXP004_per_track_metrics.jsonl,34,8.849241231139537,8.088446362222982,13.704162326577535
+EXP004,Side Effects Project - Sing With Me,vocals,metrics\EXP004_per_track_metrics.jsonl,35,14.615616141868927,12.9119662571173,18.296521755793222
+EXP004,Side Effects Project - Sing With Me,drums,metrics\EXP004_per_track_metrics.jsonl,35,16.647720076335116,15.724468813021776,25.471884690955182
+EXP004,Side Effects Project - Sing With Me,bass,metrics\EXP004_per_track_metrics.jsonl,35,13.65947676097435,13.140505476209796,26.283928990145334
+EXP004,Side Effects Project - Sing With Me,other,metrics\EXP004_per_track_metrics.jsonl,35,2.7766310868937643,3.255791432426385,14.5431184080842
+EXP004,Signe Jakobsen - What Have You Done To Me,vocals,metrics\EXP004_per_track_metrics.jsonl,36,11.82134712094067,11.210207842221227,20.4666613728118
+EXP004,Signe Jakobsen - What Have You Done To Me,drums,metrics\EXP004_per_track_metrics.jsonl,36,6.402870483872162,6.328122332604318,16.10070479285172
+EXP004,Signe Jakobsen - What Have You Done To Me,bass,metrics\EXP004_per_track_metrics.jsonl,36,6.3284035755001415,3.8065633519734132,6.092982194987854
+EXP004,Signe Jakobsen - What Have You Done To Me,other,metrics\EXP004_per_track_metrics.jsonl,36,7.444337184666137,6.479869180474383,14.321744195852606
+EXP004,Skelpolu - Resurrection,vocals,metrics\EXP004_per_track_metrics.jsonl,37,-0.16879963516326715,2.1234931294086214,9.554333424706048
+EXP004,Skelpolu - Resurrection,drums,metrics\EXP004_per_track_metrics.jsonl,37,14.444565008547215,13.467192489301734,21.60149046498827
+EXP004,Skelpolu - Resurrection,bass,metrics\EXP004_per_track_metrics.jsonl,37,17.172342404488013,15.398412179277813,23.70571381497047
+EXP004,Skelpolu - Resurrection,other,metrics\EXP004_per_track_metrics.jsonl,37,7.49977455036512,6.065736360568895,9.940978564756607
+EXP004,Speak Softly - Broken Man,vocals,metrics\EXP004_per_track_metrics.jsonl,38,7.846907351383673,6.824676743490991,15.37016055545157
+EXP004,Speak Softly - Broken Man,drums,metrics\EXP004_per_track_metrics.jsonl,38,13.303098851244924,10.656142942436793,26.45374574712092
+EXP004,Speak Softly - Broken Man,bass,metrics\EXP004_per_track_metrics.jsonl,38,18.500276813875555,17.62421289097366,30.086489283163075
+EXP004,Speak Softly - Broken Man,other,metrics\EXP004_per_track_metrics.jsonl,38,11.357536816050631,9.305366469253398,13.049374670848962
+EXP004,Speak Softly - Like Horses,vocals,metrics\EXP004_per_track_metrics.jsonl,39,9.642761431555014,8.844361283581586,15.16995771728071
+EXP004,Speak Softly - Like Horses,drums,metrics\EXP004_per_track_metrics.jsonl,39,9.279089439739794,8.4567534888848,20.067094041191112
+EXP004,Speak Softly - Like Horses,bass,metrics\EXP004_per_track_metrics.jsonl,39,23.53336454522732,22.163339151478873,38.8093089728319
+EXP004,Speak Softly - Like Horses,other,metrics\EXP004_per_track_metrics.jsonl,39,9.382851412100303,8.174525766228927,13.98072376944679
+EXP004,The Doppler Shift - Atrophy,vocals,metrics\EXP004_per_track_metrics.jsonl,40,10.26407742279293,9.51801383409464,19.12112347128968
+EXP004,The Doppler Shift - Atrophy,drums,metrics\EXP004_per_track_metrics.jsonl,40,10.434380650031764,9.291919593751215,18.772405210649257
+EXP004,The Doppler Shift - Atrophy,bass,metrics\EXP004_per_track_metrics.jsonl,40,2.510305248738491,1.8933334503621277,4.520269061349721
+EXP004,The Doppler Shift - Atrophy,other,metrics\EXP004_per_track_metrics.jsonl,40,8.242510321852603,7.002444708870232,12.982781911560261
+EXP004,The Easton Ellises (Baumi) - SDRNR,vocals,metrics\EXP004_per_track_metrics.jsonl,41,6.857104987571504,6.397736691382443,12.542647553381732
+EXP004,The Easton Ellises (Baumi) - SDRNR,drums,metrics\EXP004_per_track_metrics.jsonl,41,12.126698862592033,10.692874920935814,17.793654869812507
+EXP004,The Easton Ellises (Baumi) - SDRNR,bass,metrics\EXP004_per_track_metrics.jsonl,41,9.694538623178092,8.135785357360435,16.567838034944035
+EXP004,The Easton Ellises (Baumi) - SDRNR,other,metrics\EXP004_per_track_metrics.jsonl,41,3.828276023829793,3.599092191668176,8.104359083703738
+EXP004,The Easton Ellises - Falcon 69,vocals,metrics\EXP004_per_track_metrics.jsonl,42,4.593840905589508,4.9587491262797005,14.724909033155729
+EXP004,The Easton Ellises - Falcon 69,drums,metrics\EXP004_per_track_metrics.jsonl,42,10.815155424519476,10.238782364292495,19.637542898387842
+EXP004,The Easton Ellises - Falcon 69,bass,metrics\EXP004_per_track_metrics.jsonl,42,9.384292937088158,7.737340541315559,15.962506339628506
+EXP004,The Easton Ellises - Falcon 69,other,metrics\EXP004_per_track_metrics.jsonl,42,6.092173760675679,3.9402614466731682,6.31307452985871
+EXP004,The Long Wait - Dark Horses,vocals,metrics\EXP004_per_track_metrics.jsonl,43,9.922692239810242,9.71943209649124,18.98672255145962
+EXP004,The Long Wait - Dark Horses,drums,metrics\EXP004_per_track_metrics.jsonl,43,9.102591449844692,8.940364208472877,20.378921350262157
+EXP004,The Long Wait - Dark Horses,bass,metrics\EXP004_per_track_metrics.jsonl,43,9.198215563151212,8.782977829929482,20.07678738480606
+EXP004,The Long Wait - Dark Horses,other,metrics\EXP004_per_track_metrics.jsonl,43,7.299264413449775,6.995771529697833,13.47569283086479
+EXP004,The Mountaineering Club - Mallory,vocals,metrics\EXP004_per_track_metrics.jsonl,44,12.411820201939527,12.146935823170406,24.78870742457387
+EXP004,The Mountaineering Club - Mallory,drums,metrics\EXP004_per_track_metrics.jsonl,44,13.331455773058881,12.845712190462379,26.35268447350148
+EXP004,The Mountaineering Club - Mallory,bass,metrics\EXP004_per_track_metrics.jsonl,44,12.950695039371913,11.938606698470185,21.552440620468623
+EXP004,The Mountaineering Club - Mallory,other,metrics\EXP004_per_track_metrics.jsonl,44,8.877553768446289,8.037319451292982,14.88144118380233
+EXP004,The Sunshine Garcia Band - For I Am The Moon,vocals,metrics\EXP004_per_track_metrics.jsonl,45,10.868207123437625,10.623086911773028,21.55931761520349
+EXP004,The Sunshine Garcia Band - For I Am The Moon,drums,metrics\EXP004_per_track_metrics.jsonl,45,11.18071614455231,10.34078415130975,19.30526428861597
+EXP004,The Sunshine Garcia Band - For I Am The Moon,bass,metrics\EXP004_per_track_metrics.jsonl,45,10.155561577685523,9.79724820317955,23.086449289198328
+EXP004,The Sunshine Garcia Band - For I Am The Moon,other,metrics\EXP004_per_track_metrics.jsonl,45,2.596675137707069,2.872574329773755,9.341539870840386
+EXP004,Timboz - Pony,vocals,metrics\EXP004_per_track_metrics.jsonl,46,5.758502467010583,5.471863598914119,13.289592713158004
+EXP004,Timboz - Pony,drums,metrics\EXP004_per_track_metrics.jsonl,46,5.525091916768896,5.29858915473842,12.025923670111116
+EXP004,Timboz - Pony,bass,metrics\EXP004_per_track_metrics.jsonl,46,3.5883458939737665,3.062985924941927,8.337796319634421
+EXP004,Timboz - Pony,other,metrics\EXP004_per_track_metrics.jsonl,46,11.01722772639021,9.024076499193045,13.454593117804215
+EXP004,Tom McKenzie - Directions,vocals,metrics\EXP004_per_track_metrics.jsonl,47,12.232269413864863,10.963762296452629,23.087899097037038
+EXP004,Tom McKenzie - Directions,drums,metrics\EXP004_per_track_metrics.jsonl,47,16.84259980977436,15.642315341017136,27.82715665147463
+EXP004,Tom McKenzie - Directions,bass,metrics\EXP004_per_track_metrics.jsonl,47,4.347088977831348,4.950463041273378,12.431720394776391
+EXP004,Tom McKenzie - Directions,other,metrics\EXP004_per_track_metrics.jsonl,47,4.644058711909374,2.741593909759839,4.558121766221823
+EXP004,Triviul feat. The Fiend - Widow,vocals,metrics\EXP004_per_track_metrics.jsonl,48,11.33551231038883,9.930518866248514,14.71352722284841
+EXP004,Triviul feat. The Fiend - Widow,drums,metrics\EXP004_per_track_metrics.jsonl,48,8.909672472875483,8.262251896568486,19.889722790498567
+EXP004,Triviul feat. The Fiend - Widow,bass,metrics\EXP004_per_track_metrics.jsonl,48,17.39368622958548,15.658205279215453,37.15553272445777
+EXP004,Triviul feat. The Fiend - Widow,other,metrics\EXP004_per_track_metrics.jsonl,48,4.303107481260449,4.791257105607608,13.258397681893804
+EXP004,We Fell From The Sky - Not You,vocals,metrics\EXP004_per_track_metrics.jsonl,49,6.5968647936727995,6.888467538075349,18.137312938231737
+EXP004,We Fell From The Sky - Not You,drums,metrics\EXP004_per_track_metrics.jsonl,49,13.37150394894925,11.885364498585652,21.004664719613896
+EXP004,We Fell From The Sky - Not You,bass,metrics\EXP004_per_track_metrics.jsonl,49,4.586694598125003,4.781723702599892,10.825137791647927
+EXP004,We Fell From The Sky - Not You,other,metrics\EXP004_per_track_metrics.jsonl,49,10.187092089341272,8.808558491157056,15.431973547211548
+EXP004,Zeno - Signs,vocals,metrics\EXP004_per_track_metrics.jsonl,50,9.358196261943373,9.00288829017218,18.061824179002144
+EXP004,Zeno - Signs,drums,metrics\EXP004_per_track_metrics.jsonl,50,10.830458632727805,10.03965976823072,19.217059626670103
+EXP004,Zeno - Signs,bass,metrics\EXP004_per_track_metrics.jsonl,50,3.4048186092923998,3.930157955283653,11.04172760374285
+EXP004,Zeno - Signs,other,metrics\EXP004_per_track_metrics.jsonl,50,8.438966274019732,7.248886948591582,11.59205408725446

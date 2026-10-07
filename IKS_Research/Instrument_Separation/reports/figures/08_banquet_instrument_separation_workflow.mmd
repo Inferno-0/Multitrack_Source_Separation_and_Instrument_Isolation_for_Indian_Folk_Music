@@ -1,0 +1,10 @@
+graph TD
+    A[Isolated Folk Instruments] --> B[Generate 10s Queries & 6s Mixtures]
+    B --> C[Ensure >= 16s Source Length]
+    C --> D[Construct Positive & Negative Pairs]
+    D --> E[Banquet Run 002 Training]
+    E --> F[Validation Check]
+    F --> G{Negative RMS < 2x Baseline?}
+    G -- Yes --> H[Select Checkpoint 2600]
+    G -- No --> I[Discard Checkpoint]
+    H --> J[Independent TEST Evaluation]

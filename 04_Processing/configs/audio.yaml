@@ -1,0 +1,7 @@
+# Audio Processing Configurations
+# Intended Future Purpose:
+# - Set target sampling rate (e.g., 44100Hz or 22050Hz) and bit depth (e.g., 16-bit)
+# - Set number of audio channels (e.g., mono)
+# - Configure Short-Time Fourier Transform (STFT) parameters (FFT size, window size, hop size)
+# - Configure Mel-frequency Spectrogram parameters (number of mel bands, fmin, fmax)
+# - Define default audio codecs and conversion settings (MP3 to WAV conversion)

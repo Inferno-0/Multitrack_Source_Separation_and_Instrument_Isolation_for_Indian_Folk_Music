@@ -1,0 +1,70 @@
+======================================================================
+IKS Internship Experiment Execution Log
+======================================================================
+
+Experiment ID          : EXP002
+Dataset                : BIHU
+Model                  : htdemucs
+Execution Time         : 2026-07-27 00:21:23
+
+Directories
+----------------------------------------------------------------------
+Project Root           : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation
+Experiment Directory   : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP002
+Input Audio Directory  : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/03_Datasets/BIHU/Audio/WAV
+Output Directory       : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP002/outputs
+Logs Directory         : /content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP002/logs
+
+Processing Summary
+----------------------------------------------------------------------
+Input Recordings       : 10
+Generated Audio Files  : 20
+Audio Validation       : PASSED
+Manual Evaluation      : PENDING
+
+Generated Outputs
+----------------------------------------------------------------------
+BIHU_002
+    ├── BIHU_002_Vocals.wav
+    └── BIHU_002_No_Vocals.wav
+
+BIHU_003
+    ├── BIHU_003_Vocals.wav
+    └── BIHU_003_No_Vocals.wav
+
+BIHU_004
+    ├── BIHU_004_Vocals.wav
+    └── BIHU_004_No_Vocals.wav
+
+BIHU_005
+    ├── BIHU_005_Vocals.wav
+    └── BIHU_005_No_Vocals.wav
+
+BIHU_006
+    ├── BIHU_006_Vocals.wav
+    └── BIHU_006_No_Vocals.wav
+
+BIHU_007
+    ├── BIHU_007_Vocals.wav
+    └── BIHU_007_No_Vocals.wav
+
+BIHU_008
+    ├── BIHU_008_Vocals.wav
+    └── BIHU_008_No_Vocals.wav
+
+BIHU_009
+    ├── BIHU_009_Vocals.wav
+    └── BIHU_009_No_Vocals.wav
+
+BIHU_010
+    ├── BIHU_010_Vocals.wav
+    └── BIHU_010_No_Vocals.wav
+
+BIHU_011
+    ├── BIHU_011_Vocals.wav
+    └── BIHU_011_No_Vocals.wav
+
+======================================================================
+Experiment completed successfully.
+Next Step: Perform manual listening evaluation.
+======================================================================

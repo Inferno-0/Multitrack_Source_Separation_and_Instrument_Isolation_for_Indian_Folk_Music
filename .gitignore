@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Audio datasets
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+*.aac
+*.wma
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Archives
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment and secrets
+.env
+.env.*
+*.secret
+secrets/
+credentials/
+
+# Research papers not intended for public redistribution
+01_Research/Papers/
+
+# Runtime-generated experiment artifacts
+_runtime_tasks/
+
+# Temporary research files
+temp_reports.txt

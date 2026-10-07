@@ -1,0 +1,46 @@
+{
+    "id": "pilot_029",
+    "mixture_composition": [
+        "vocals",
+        "dhul",
+        "flute",
+        "dholak",
+        "harmonium"
+    ],
+    "sources": {
+        "vocals": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000021.wav",
+            "original_filename": "saraga_0021_vocals.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "dhul": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "flute": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\flute\\audio\\flute_000083.wav",
+            "original_filename": "allemande_first_fragment_nicolet.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "dholak": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000027.wav",
+            "original_filename": "Dholak Sample - 27.wav",
+            "gain_applied_in_mix": 0.2
+        },
+        "harmonium": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001244.wav",
+            "original_filename": "935.wav",
+            "gain_applied_in_mix": 0.2
+        }
+    },
+    "target_present": true,
+    "query_instrument": "dhul",
+    "query_file": {
+        "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+        "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+    },
+    "target_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_029\\stems\\dhul.wav",
+    "mixture_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_029\\clean_mixture.wav",
+    "query_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_029\\query.wav"
+}

@@ -1,0 +1,240 @@
+{
+  "experiment": "EXP004",
+  "generated_at": "2026-08-18T00:12:47.041341",
+  "scope": {
+    "tracks": 50,
+    "sources": [
+      "vocals",
+      "drums",
+      "bass",
+      "other"
+    ],
+    "approved_metrics": [
+      "SDR",
+      "SIR",
+      "SAR",
+      "SI-SDR"
+    ],
+    "excluded_metrics": [
+      "ISR"
+    ]
+  },
+  "input": {
+    "source_level_csv": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\metrics\\EXP004_per_source_metrics.csv",
+    "source_level_rows": 200
+  },
+  "source_means_dB": {
+    "vocals": {
+      "SDR": 8.673563263318655,
+      "SIR": 18.305360074997996,
+      "SAR": 9.060040038547418,
+      "SI-SDR": 7.795546798706055
+    },
+    "drums": {
+      "SDR": 9.947352971628673,
+      "SIR": 20.787283389027415,
+      "SAR": 11.119038930964987,
+      "SI-SDR": 9.506644768714905
+    },
+    "bass": {
+      "SDR": 8.6157875149968,
+      "SIR": 18.00104424625848,
+      "SAR": 9.59174126260942,
+      "SI-SDR": 7.7582400515675545
+    },
+    "other": {
+      "SDR": 6.167104701675434,
+      "SIR": 11.861588676487617,
+      "SAR": 7.146467984980931,
+      "SI-SDR": 4.706491317749023
+    }
+  },
+  "source_rankings": {
+    "SDR": [
+      "drums",
+      "vocals",
+      "bass",
+      "other"
+    ],
+    "SIR": [
+      "drums",
+      "vocals",
+      "bass",
+      "other"
+    ],
+    "SAR": [
+      "drums",
+      "bass",
+      "vocals",
+      "other"
+    ],
+    "SI-SDR": [
+      "drums",
+      "vocals",
+      "bass",
+      "other"
+    ]
+  },
+  "best_worst_comparison": {
+    "SDR": {
+      "best_source": "drums",
+      "best_mean_dB": 9.947352971628673,
+      "worst_source": "other",
+      "worst_mean_dB": 6.167104701675434,
+      "best_worst_gap_dB": 3.7802482699532387
+    },
+    "SIR": {
+      "best_source": "drums",
+      "best_mean_dB": 20.787283389027415,
+      "worst_source": "other",
+      "worst_mean_dB": 11.861588676487617,
+      "best_worst_gap_dB": 8.925694712539798
+    },
+    "SAR": {
+      "best_source": "drums",
+      "best_mean_dB": 11.119038930964987,
+      "worst_source": "other",
+      "worst_mean_dB": 7.146467984980931,
+      "best_worst_gap_dB": 3.9725709459840557
+    },
+    "SI-SDR": {
+      "best_source": "drums",
+      "best_mean_dB": 9.506644768714905,
+      "worst_source": "other",
+      "worst_mean_dB": 4.706491317749023,
+      "best_worst_gap_dB": 4.800153450965881
+    }
+  },
+  "source_profiles": {
+    "vocals": {
+      "means_dB": {
+        "SDR": 8.673563263318655,
+        "SIR": 18.305360074997996,
+        "SAR": 9.060040038547418,
+        "SI-SDR": 7.795546798706055
+      },
+      "rankings": {
+        "SDR": 2,
+        "SIR": 2,
+        "SAR": 3,
+        "SI-SDR": 2
+      },
+      "average_rank": 2.25
+    },
+    "drums": {
+      "means_dB": {
+        "SDR": 9.947352971628673,
+        "SIR": 20.787283389027415,
+        "SAR": 11.119038930964987,
+        "SI-SDR": 9.506644768714905
+      },
+      "rankings": {
+        "SDR": 1,
+        "SIR": 1,
+        "SAR": 1,
+        "SI-SDR": 1
+      },
+      "average_rank": 1.0
+    },
+    "bass": {
+      "means_dB": {
+        "SDR": 8.6157875149968,
+        "SIR": 18.00104424625848,
+        "SAR": 9.59174126260942,
+        "SI-SDR": 7.7582400515675545
+      },
+      "rankings": {
+        "SDR": 3,
+        "SIR": 3,
+        "SAR": 2,
+        "SI-SDR": 3
+      },
+      "average_rank": 2.75
+    },
+    "other": {
+      "means_dB": {
+        "SDR": 6.167104701675434,
+        "SIR": 11.861588676487617,
+        "SAR": 7.146467984980931,
+        "SI-SDR": 4.706491317749023
+      },
+      "rankings": {
+        "SDR": 4,
+        "SIR": 4,
+        "SAR": 4,
+        "SI-SDR": 4
+      },
+      "average_rank": 4.0
+    }
+  },
+  "overall_source_ranking": [
+    "drums",
+    "vocals",
+    "bass",
+    "other"
+  ],
+  "track_level_source_comparison": {
+    "SDR": {
+      "best_source_count": {
+        "vocals": 14,
+        "drums": 22,
+        "bass": 12,
+        "other": 2
+      },
+      "worst_source_count": {
+        "vocals": 7,
+        "drums": 4,
+        "bass": 12,
+        "other": 27
+      }
+    },
+    "SIR": {
+      "best_source_count": {
+        "vocals": 11,
+        "drums": 25,
+        "bass": 13,
+        "other": 1
+      },
+      "worst_source_count": {
+        "vocals": 4,
+        "drums": 1,
+        "bass": 10,
+        "other": 35
+      }
+    },
+    "SAR": {
+      "best_source_count": {
+        "vocals": 12,
+        "drums": 23,
+        "bass": 13,
+        "other": 2
+      },
+      "worst_source_count": {
+        "vocals": 10,
+        "drums": 3,
+        "bass": 12,
+        "other": 25
+      }
+    },
+    "SI-SDR": {
+      "best_source_count": {
+        "vocals": 14,
+        "drums": 22,
+        "bass": 12,
+        "other": 2
+      },
+      "worst_source_count": {
+        "vocals": 7,
+        "drums": 3,
+        "bass": 11,
+        "other": 29
+      }
+    }
+  },
+  "policy": {
+    "wav_files_loaded": false,
+    "metrics_recomputed": false,
+    "isr_used_downstream": false,
+    "authoritative_source": "EXP004_per_source_metrics.csv"
+  }
+}

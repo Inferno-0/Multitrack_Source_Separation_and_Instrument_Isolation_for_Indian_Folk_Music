@@ -1,0 +1,12 @@
+{"experiment": "EXP002", "track": "Signe Jakobsen - What Have You Done To Me", "source": "vocals", "metrics": {"SDR": 11.17787117177781, "SIR": 20.892205511438856, "SAR": 11.732090967772358, "SI-SDR": 10.87756633758545}}
+{"experiment": "EXP002", "track": "Signe Jakobsen - What Have You Done To Me", "source": "accompaniment", "metrics": {"SDR": 13.581930640858923, "SIR": 21.555643753480705, "SAR": 14.502615675455338, "SI-SDR": 13.340224266052246}}
+{"experiment": "EXP002", "track": "The Mountaineering Club - Mallory", "source": "vocals", "metrics": {"SDR": 12.076737473390178, "SIR": 26.068351725187725, "SAR": 12.270855265226484, "SI-SDR": 11.721196174621582}}
+{"experiment": "EXP002", "track": "The Mountaineering Club - Mallory", "source": "accompaniment", "metrics": {"SDR": 19.995894907746635, "SIR": 30.203799310664422, "SAR": 20.543552244987723, "SI-SDR": 19.435890197753906}}
+{"experiment": "EXP002", "track": "Forkupines - Semantics", "source": "vocals", "metrics": {"SDR": 8.521942339912485, "SIR": 19.566468661838034, "SAR": 8.5314101868872, "SI-SDR": 7.942575454711914}}
+{"experiment": "EXP002", "track": "Forkupines - Semantics", "source": "accompaniment", "metrics": {"SDR": 16.897613797577737, "SIR": 24.744323689546846, "SAR": 17.895679020780687, "SI-SDR": 16.896869659423828}}
+{"experiment": "EXP002", "track": "Skelpolu - Resurrection", "source": "vocals", "metrics": {"SDR": 1.9941243880112072, "SIR": 10.152640320998072, "SAR": -0.4602856066309299, "SI-SDR": -2.1961233615875244}}
+{"experiment": "EXP002", "track": "Skelpolu - Resurrection", "source": "accompaniment", "metrics": {"SDR": 16.41322742341342, "SIR": 18.857082160492233, "SAR": 20.604302906562424, "SI-SDR": 16.526485443115234}}
+{"experiment": "EXP002", "track": "The Long Wait - Dark Horses", "source": "vocals", "metrics": {"SDR": 9.69549541227461, "SIR": 20.53743252665864, "SAR": 9.717775779923386, "SI-SDR": 9.119714736938477}}
+{"experiment": "EXP002", "track": "The Long Wait - Dark Horses", "source": "accompaniment", "metrics": {"SDR": 15.46562663418481, "SIR": 24.809991859882466, "SAR": 16.083544968971573, "SI-SDR": 15.426366806030273}}
+{"experiment": "EXP002", "track": "BKS - Bulldozer", "source": "vocals", "metrics": {"SDR": 8.838825600906643, "SIR": 21.98796131698395, "SAR": 9.201711992741327, "SI-SDR": 8.714695930480957}}
+{"experiment": "EXP002", "track": "BKS - Bulldozer", "source": "accompaniment", "metrics": {"SDR": 16.60439520196957, "SIR": 23.034961894828744, "SAR": 17.846874488908988, "SI-SDR": 16.546972274780273}}

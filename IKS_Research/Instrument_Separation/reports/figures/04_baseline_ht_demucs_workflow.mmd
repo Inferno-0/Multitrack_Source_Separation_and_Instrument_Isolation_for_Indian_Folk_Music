@@ -1,0 +1,8 @@
+graph TD
+    A[Curated BIHU Folk Tracks] --> B[Pretrained HT-Demucs Inference]
+    B --> C[Vocals Stem]
+    B --> D[Accompaniment Stem]
+    C --> E[Evaluate Vocal Clarity & Completeness]
+    D --> F[Evaluate Instrument Preservation]
+    C --> G[Measure Vocal Leakage]
+    D --> H[Measure Instrument Leakage]

@@ -1,0 +1,49 @@
+========================================================================
+Experiment Information
+========================================================================
+
+Experiment ID          : EXP001
+Notebook Version       : 1.0
+Notebook File          : EXP001_HTDemucs_Baseline.ipynb
+
+Execution Date         : 2026-07-25
+Processing Duration    : 31.61 seconds
+
+========================================================================
+Model Configuration
+========================================================================
+
+Model                  : HT-Demucs
+Demucs Version         : 4.1.0
+PyTorch Version        : 2.11.0+cu128
+
+========================================================================
+Hardware Configuration
+========================================================================
+
+GPU Name               : Tesla T4
+CUDA Available         : Yes
+
+========================================================================
+Dataset Information
+========================================================================
+
+Dataset                : BIHU
+Recording ID           : BIHU_001
+Input Audio            : BIHU_001.wav
+
+========================================================================
+Execution
+========================================================================
+
+Status                 : SUCCESS
+
+========================================================================
+Generated Output Files
+========================================================================
+
+Vocals
+05_Experiments/Baseline_HT_Demucs/EXP001/outputs/BIHU/Vocals/BIHU_001_vocals.wav
+
+No Vocals
+05_Experiments/Baseline_HT_Demucs/EXP001/outputs/BIHU/No_Vocals/BIHU_001_no_vocals.wav

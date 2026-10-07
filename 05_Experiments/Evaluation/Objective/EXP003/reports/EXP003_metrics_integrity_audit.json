@@ -1,0 +1,92 @@
+{
+  "experiment": "EXP003",
+  "audit_timestamp": "2026-08-16T18:45:45.574176",
+  "evaluation_policy": {
+    "expected_tracks": 50,
+    "expected_sources_per_track": 4,
+    "expected_source_evaluations": 200,
+    "sources": [
+      "vocals",
+      "drums",
+      "bass",
+      "other"
+    ],
+    "fixed_source_ordering": true,
+    "permutation_search": false,
+    "whole_track_bsseval": true,
+    "bsseval_filter_length": 512,
+    "framewise_filters": false,
+    "independent_si_sdr": true
+  },
+  "approved_metrics": [
+    "SDR",
+    "SIR",
+    "SAR",
+    "SI-SDR"
+  ],
+  "excluded_metrics": [
+    "ISR"
+  ],
+  "source_metric_file": {
+    "path": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP003\\metrics\\EXP003_per_source_metrics.csv",
+    "exists": true,
+    "columns": [
+      "experiment",
+      "track",
+      "source",
+      "sample_rate",
+      "num_samples",
+      "num_channels",
+      "SDR",
+      "SIR",
+      "SAR",
+      "SI-SDR"
+    ],
+    "row_count": 200,
+    "track_column": "track",
+    "source_column": "source",
+    "experiment_column": "experiment",
+    "metric_columns": {
+      "SDR": "SDR",
+      "SIR": "SIR",
+      "SAR": "SAR",
+      "SI-SDR": "SI-SDR"
+    }
+  },
+  "source_structure": {
+    "unique_tracks": 50,
+    "unique_track_source_pairs": 200,
+    "expected_track_count": 50,
+    "expected_source_evaluation_count": 200,
+    "source_coverage_valid": true,
+    "duplicate_pairs": false
+  },
+  "metric_validation": {
+    "SDR": {
+      "column": "SDR",
+      "valid_count": 200,
+      "invalid_count": 0
+    },
+    "SIR": {
+      "column": "SIR",
+      "valid_count": 200,
+      "invalid_count": 0
+    },
+    "SAR": {
+      "column": "SAR",
+      "valid_count": 200,
+      "invalid_count": 0
+    },
+    "SI-SDR": {
+      "column": "SI-SDR",
+      "valid_count": 200,
+      "invalid_count": 0
+    }
+  },
+  "downstream_outputs": {
+    "per_track_csv": true,
+    "per_track_jsonl": true,
+    "evaluation_summary": true
+  },
+  "status": "PASS"
+}

@@ -1,0 +1,17 @@
+{
+  "experiment_id": "EXP002",
+  "model": "htdemucs",
+  "created_at": "2026-08-14T19:29:57.763713",
+  "total_tracks": 50,
+  "completed_tracks": 50,
+  "incomplete_tracks": 0,
+  "not_started_tracks": 0,
+  "expected_stems": [
+    "vocals",
+    "drums",
+    "bass",
+    "other"
+  ],
+  "prediction_directory": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Evaluation/Objective/EXP002/predictions",
+  "inference_log": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Evaluation/Objective/EXP002/logs/inference_log.csv"
+}

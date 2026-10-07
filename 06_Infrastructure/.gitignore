@@ -1,0 +1,29 @@
+# OS & IDE Cache files
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+
+# Python & Environment artifacts
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Audio Files
+*.wav
+*.m4a
+*.mp3
+*.flac
+*.aac
+*.ogg
+
+# Source Separation Outputs
+*.stem.mp4
+
+# Models binary files
+04_Processing/models/Pretrained/
+04_Processing/models/Trained/
+
+# Machine-generated outputs
+06_Outputs/

@@ -1,0 +1,1063 @@
+[
+  {
+    "experiment": "EXP002",
+    "file": "metrics\\per_track_metrics.jsonl",
+    "filename": "per_track_metrics.jsonl",
+    "format": ".jsonl",
+    "fields": [
+      {
+        "field_name": "status",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "track",
+        "role": "track_identifier",
+        "type": "str"
+      },
+      {
+        "field_name": "track_index",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "sample_rate",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "sources.vocals.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.ISR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.ISR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.ISR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.ISR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SDR_dB",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.ISR_dB",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SIR_dB",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SAR_dB",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SI_SDR_dB",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "evaluation.bsseval",
+        "role": "nested_value",
+        "type": "str"
+      },
+      {
+        "field_name": "evaluation.bsseval_window",
+        "role": "nested_value",
+        "type": "str"
+      },
+      {
+        "field_name": "evaluation.bsseval_framewise_filters",
+        "role": "nested_value",
+        "type": "bool"
+      },
+      {
+        "field_name": "evaluation.bsseval_compute_permutation",
+        "role": "nested_value",
+        "type": "bool"
+      },
+      {
+        "field_name": "evaluation.bsseval_filters_len",
+        "role": "nested_value",
+        "type": "int"
+      },
+      {
+        "field_name": "evaluation.si_sdr",
+        "role": "nested_value",
+        "type": "str"
+      },
+      {
+        "field_name": "elapsed_seconds",
+        "role": "top_level_key",
+        "type": "float"
+      },
+      {
+        "field_name": "timestamp",
+        "role": "top_level_key",
+        "type": "str"
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": true,
+    "candidate_metrics_identified": true,
+    "is_aggregate": false,
+    "total_records": 50
+  },
+  {
+    "experiment": "EXP002",
+    "file": "metrics\\per_track_metrics.csv",
+    "filename": "per_track_metrics.csv",
+    "format": ".csv",
+    "fields": [
+      {
+        "field_name": "track",
+        "type": "str",
+        "role": "track_identifier",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "source",
+        "type": "str",
+        "role": "source_identifier",
+        "unique_count": 4,
+        "null_count": 0
+      },
+      {
+        "field_name": "SDR_dB",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "ISR_dB",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "SIR_dB",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "SAR_dB",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "SI_SDR_dB",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": true,
+    "candidate_metrics_identified": true,
+    "is_aggregate": false,
+    "total_records": 200
+  },
+  {
+    "experiment": "EXP002",
+    "file": "metrics\\evaluation_summary.json",
+    "filename": "evaluation_summary.json",
+    "format": ".json",
+    "fields": [],
+    "candidate_tracks_identified": false,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": false,
+    "is_aggregate": true,
+    "total_records": 1
+  },
+  {
+    "experiment": "EXP003",
+    "file": "metrics\\EXP003_objective_evaluation.jsonl",
+    "filename": "EXP003_objective_evaluation.jsonl",
+    "format": ".jsonl",
+    "fields": [
+      {
+        "field_name": "experiment_id",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "track",
+        "role": "track_identifier",
+        "type": "str"
+      },
+      {
+        "field_name": "status",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "elapsed_seconds",
+        "role": "top_level_key",
+        "type": "float"
+      },
+      {
+        "field_name": "error",
+        "role": "top_level_key",
+        "type": "str"
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": false,
+    "is_aggregate": false,
+    "total_records": 13
+  },
+  {
+    "experiment": "EXP003",
+    "file": "metrics\\EXP003_evaluation_log.jsonl",
+    "filename": "EXP003_evaluation_log.jsonl",
+    "format": ".jsonl",
+    "fields": [
+      {
+        "field_name": "experiment",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "track",
+        "role": "track_identifier",
+        "type": "str"
+      },
+      {
+        "field_name": "status",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "elapsed_seconds",
+        "role": "top_level_key",
+        "type": "float"
+      },
+      {
+        "field_name": "sample_rate",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "shape",
+        "role": "top_level_key",
+        "type": "list"
+      },
+      {
+        "field_name": "metrics",
+        "role": "top_level_key",
+        "type": "list"
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": false,
+    "is_aggregate": false,
+    "total_records": 50
+  },
+  {
+    "experiment": "EXP003",
+    "file": "metrics\\EXP003_per_source_metrics.csv",
+    "filename": "EXP003_per_source_metrics.csv",
+    "format": ".csv",
+    "fields": [
+      {
+        "field_name": "experiment",
+        "type": "str",
+        "role": "unknown",
+        "unique_count": 1,
+        "null_count": 0
+      },
+      {
+        "field_name": "track",
+        "type": "str",
+        "role": "track_identifier",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "source",
+        "type": "str",
+        "role": "source_identifier",
+        "unique_count": 4,
+        "null_count": 0
+      },
+      {
+        "field_name": "sample_rate",
+        "type": "int64",
+        "role": "unknown",
+        "unique_count": 1,
+        "null_count": 0
+      },
+      {
+        "field_name": "num_samples",
+        "type": "int64",
+        "role": "unknown",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "num_channels",
+        "type": "int64",
+        "role": "unknown",
+        "unique_count": 1,
+        "null_count": 0
+      },
+      {
+        "field_name": "SDR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "SIR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "SAR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "SI-SDR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": true,
+    "candidate_metrics_identified": true,
+    "is_aggregate": false,
+    "total_records": 200
+  },
+  {
+    "experiment": "EXP003",
+    "file": "metrics\\EXP003_per_track_metrics.csv",
+    "filename": "EXP003_per_track_metrics.csv",
+    "format": ".csv",
+    "fields": [
+      {
+        "field_name": "experiment",
+        "type": "str",
+        "role": "unknown",
+        "unique_count": 1,
+        "null_count": 0
+      },
+      {
+        "field_name": "track",
+        "type": "str",
+        "role": "track_identifier",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "SDR_mean",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "SIR_mean",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "SAR_mean",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "SI-SDR_mean",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 50,
+        "null_count": 0
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": true,
+    "is_aggregate": false,
+    "total_records": 50
+  },
+  {
+    "experiment": "EXP003",
+    "file": "metrics\\EXP003_metric_summary.json",
+    "filename": "EXP003_metric_summary.json",
+    "format": ".json",
+    "fields": [],
+    "candidate_tracks_identified": false,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": false,
+    "is_aggregate": true,
+    "total_records": 1
+  },
+  {
+    "experiment": "EXP003",
+    "file": "metrics\\per_track_metrics.csv",
+    "filename": "per_track_metrics.csv",
+    "format": ".csv",
+    "fields": [
+      {
+        "field_name": "experiment",
+        "type": "str",
+        "role": "unknown",
+        "unique_count": 1,
+        "null_count": 0
+      },
+      {
+        "field_name": "track",
+        "type": "str",
+        "role": "track_identifier",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "SDR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "SIR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "SAR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "SI-SDR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 50,
+        "null_count": 0
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": true,
+    "is_aggregate": false,
+    "total_records": 50
+  },
+  {
+    "experiment": "EXP003",
+    "file": "metrics\\per_track_metrics.jsonl",
+    "filename": "per_track_metrics.jsonl",
+    "format": ".jsonl",
+    "fields": [
+      {
+        "field_name": "experiment",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "track",
+        "role": "track_identifier",
+        "type": "str"
+      },
+      {
+        "field_name": "status",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "sources.vocals.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SDR_dB",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SIR_dB",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SAR_dB",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SI_SDR_dB",
+        "role": "nested_value",
+        "type": "float"
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": true,
+    "candidate_metrics_identified": true,
+    "is_aggregate": false,
+    "total_records": 50
+  },
+  {
+    "experiment": "EXP003",
+    "file": "metrics\\evaluation_summary.json",
+    "filename": "evaluation_summary.json",
+    "format": ".json",
+    "fields": [],
+    "candidate_tracks_identified": false,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": false,
+    "is_aggregate": true,
+    "total_records": 1
+  },
+  {
+    "experiment": "EXP004",
+    "file": "metrics\\EXP004_evaluation_log.jsonl",
+    "filename": "EXP004_evaluation_log.jsonl",
+    "format": ".jsonl",
+    "fields": [
+      {
+        "field_name": "experiment",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "event",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "expected_tracks",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "expected_source_evaluations",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "approved_metrics",
+        "role": "top_level_key",
+        "type": "list"
+      },
+      {
+        "field_name": "excluded_metrics",
+        "role": "top_level_key",
+        "type": "list"
+      },
+      {
+        "field_name": "max_workers",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "estimated_worker_memory_gib",
+        "role": "top_level_key",
+        "type": "float"
+      },
+      {
+        "field_name": "resume_checkpoints",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "timestamp",
+        "role": "top_level_key",
+        "type": "str"
+      }
+    ],
+    "candidate_tracks_identified": false,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": false,
+    "is_aggregate": false,
+    "total_records": 26
+  },
+  {
+    "experiment": "EXP004",
+    "file": "metrics\\EXP004_per_track_metrics.jsonl",
+    "filename": "EXP004_per_track_metrics.jsonl",
+    "format": ".jsonl",
+    "fields": [
+      {
+        "field_name": "experiment",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "track",
+        "role": "track_identifier",
+        "type": "str"
+      },
+      {
+        "field_name": "status",
+        "role": "top_level_key",
+        "type": "str"
+      },
+      {
+        "field_name": "sample_rate",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "num_samples",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "num_channels",
+        "role": "top_level_key",
+        "type": "int"
+      },
+      {
+        "field_name": "sources.vocals.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.vocals.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.drums.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.bass.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SIR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SAR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "sources.other.SI_SDR_dB",
+        "role": "nested_metric",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SDR",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SIR",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SAR",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "track_average.SI-SDR",
+        "role": "nested_value",
+        "type": "float"
+      },
+      {
+        "field_name": "evaluation_configuration.bsseval",
+        "role": "nested_value",
+        "type": "str"
+      },
+      {
+        "field_name": "evaluation_configuration.window",
+        "role": "nested_value",
+        "type": "str"
+      },
+      {
+        "field_name": "evaluation_configuration.hop",
+        "role": "nested_value",
+        "type": "str"
+      },
+      {
+        "field_name": "evaluation_configuration.filters_len",
+        "role": "nested_value",
+        "type": "int"
+      },
+      {
+        "field_name": "evaluation_configuration.framewise_filters",
+        "role": "nested_value",
+        "type": "bool"
+      },
+      {
+        "field_name": "evaluation_configuration.compute_permutation",
+        "role": "nested_value",
+        "type": "bool"
+      },
+      {
+        "field_name": "evaluation_configuration.si_sdr",
+        "role": "nested_value",
+        "type": "str"
+      },
+      {
+        "field_name": "evaluation_configuration.excluded_metrics",
+        "role": "nested_value",
+        "type": "list"
+      },
+      {
+        "field_name": "elapsed_seconds",
+        "role": "top_level_key",
+        "type": "float"
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": true,
+    "candidate_metrics_identified": true,
+    "is_aggregate": false,
+    "total_records": 50
+  },
+  {
+    "experiment": "EXP004",
+    "file": "metrics\\EXP004_per_source_metrics.csv",
+    "filename": "EXP004_per_source_metrics.csv",
+    "format": ".csv",
+    "fields": [
+      {
+        "field_name": "experiment",
+        "type": "str",
+        "role": "unknown",
+        "unique_count": 1,
+        "null_count": 0
+      },
+      {
+        "field_name": "track",
+        "type": "str",
+        "role": "track_identifier",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "source",
+        "type": "str",
+        "role": "source_identifier",
+        "unique_count": 4,
+        "null_count": 0
+      },
+      {
+        "field_name": "sample_rate",
+        "type": "int64",
+        "role": "unknown",
+        "unique_count": 1,
+        "null_count": 0
+      },
+      {
+        "field_name": "num_samples",
+        "type": "int64",
+        "role": "unknown",
+        "unique_count": 50,
+        "null_count": 0
+      },
+      {
+        "field_name": "num_channels",
+        "type": "int64",
+        "role": "unknown",
+        "unique_count": 1,
+        "null_count": 0
+      },
+      {
+        "field_name": "SDR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "SIR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "SAR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      },
+      {
+        "field_name": "SI-SDR",
+        "type": "float64",
+        "role": "metric",
+        "unique_count": 200,
+        "null_count": 0
+      }
+    ],
+    "candidate_tracks_identified": true,
+    "candidate_sources_identified": true,
+    "candidate_metrics_identified": true,
+    "is_aggregate": false,
+    "total_records": 200
+  },
+  {
+    "experiment": "EXP004",
+    "file": "metrics\\EXP004_metric_integrity_audit.json",
+    "filename": "EXP004_metric_integrity_audit.json",
+    "format": ".json",
+    "fields": [],
+    "candidate_tracks_identified": false,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": false,
+    "is_aggregate": true,
+    "total_records": 1
+  },
+  {
+    "experiment": "EXP004",
+    "file": "metrics\\EXP004_prediction_audio_integrity_diagnostic.json",
+    "filename": "EXP004_prediction_audio_integrity_diagnostic.json",
+    "format": ".json",
+    "fields": [],
+    "candidate_tracks_identified": false,
+    "candidate_sources_identified": false,
+    "candidate_metrics_identified": false,
+    "is_aggregate": true,
+    "total_records": 1
+  }
+]

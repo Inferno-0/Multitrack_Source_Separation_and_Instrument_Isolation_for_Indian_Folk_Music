@@ -1,0 +1,30 @@
+{
+  "model_path": "D:\\finetune_htdemucs_runs\\run_002\\best.pt",
+  "checkpoint_step": 15000,
+  "best_valid_loss": 0.004415826842771835,
+  "dataset_path": "D:\\dataset_prepared_saraga\\valid",
+  "split": "valid",
+  "n_tracks": 15,
+  "source_list": [
+    "vocals",
+    "accompaniment"
+  ],
+  "metric_library": "mir_eval",
+  "metric_version": "0.8.2",
+  "metric_functions": [
+    "mir_eval.separation.bss_eval_sources (joint 2-source: SDR, SIR, SAR)",
+    "Scale-Invariant SDR (SI-SDR) per Le Roux et al. 2019 (per-source)"
+  ],
+  "bss_eval_convention": "Both sources (vocals + accompaniment) evaluated jointly in a single bss_eval_sources call with reference shape (2, N) and estimate shape (2, N). This yields finite SIR values by including cross-source interference.",
+  "channel_handling": "Mono duplicated to stereo [1,2,N] for inference. Stereo output averaged to mono before metrics.",
+  "inference_method": "demucs.apply.apply_model (split=True, overlap=0.25, shifts=1)",
+  "model_segment_secs": 7.8,
+  "sample_rate": 44100,
+  "evaluation_timestamp": "2026-08-24T13:17:28.899562+00:00",
+  "python_version": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "n_evaluated_rows": 30,
+  "n_failed_tracks": 0,
+  "failed_tracks": [],
+  "evaluation_status": "COMPLETE"
+}

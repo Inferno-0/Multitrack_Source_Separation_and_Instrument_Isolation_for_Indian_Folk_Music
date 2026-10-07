@@ -1,0 +1,110 @@
+{
+  "experiment": {
+    "experiment_id": "EXP004",
+    "notebook_version": "3.0",
+    "tradition": "Pandavani",
+    "model": "HT-Demucs",
+    "demucs_model": "htdemucs",
+    "separation": "Two-stem (vocals)"
+  },
+  "execution_configuration": {
+    "device": "CUDA",
+    "jobs": 1,
+    "demucs_segment_seconds": 7,
+    "physical_chunk_duration_seconds": 60.0,
+    "overlap_seconds": 5.0,
+    "step_seconds": 55.0,
+    "processing_strategy": "Sequential physical chunking with overlap and reconstruction"
+  },
+  "recordings": {
+    "expected_count": 5,
+    "recordings": [
+      "PNDV_009",
+      "PNDV_012",
+      "PNDV_018",
+      "PNDV_021",
+      "PNDV_024"
+    ]
+  },
+  "production_result": {
+    "successful_recordings": 5,
+    "failed_recordings": 0,
+    "all_recordings_completed": true,
+    "all_outputs_present": true,
+    "expected_output_files": 10,
+    "validated_output_files": 10
+  },
+  "outputs": [
+    {
+      "recording": "PNDV_009",
+      "output_directory": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_009",
+      "vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_009/PNDV_009_Vocals.wav",
+      "no_vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_009/PNDV_009_No_Vocals.wav",
+      "vocals_exists": true,
+      "no_vocals_exists": true,
+      "sample_rate": 44100,
+      "channels": 2,
+      "frames": 54576128,
+      "duration_seconds": 1237.5539229024944
+    },
+    {
+      "recording": "PNDV_012",
+      "output_directory": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_012",
+      "vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_012/PNDV_012_Vocals.wav",
+      "no_vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_012/PNDV_012_No_Vocals.wav",
+      "vocals_exists": true,
+      "no_vocals_exists": true,
+      "sample_rate": 44100,
+      "channels": 2,
+      "frames": 9955328,
+      "duration_seconds": 225.74439909297053
+    },
+    {
+      "recording": "PNDV_018",
+      "output_directory": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_018",
+      "vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_018/PNDV_018_Vocals.wav",
+      "no_vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_018/PNDV_018_No_Vocals.wav",
+      "vocals_exists": true,
+      "no_vocals_exists": true,
+      "sample_rate": 44100,
+      "channels": 2,
+      "frames": 17278976,
+      "duration_seconds": 391.81351473922905
+    },
+    {
+      "recording": "PNDV_021",
+      "output_directory": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_021",
+      "vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_021/PNDV_021_Vocals.wav",
+      "no_vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_021/PNDV_021_No_Vocals.wav",
+      "vocals_exists": true,
+      "no_vocals_exists": true,
+      "sample_rate": 44100,
+      "channels": 2,
+      "frames": 140176384,
+      "duration_seconds": 3178.6028117913834
+    },
+    {
+      "recording": "PNDV_024",
+      "output_directory": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_024",
+      "vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_024/PNDV_024_Vocals.wav",
+      "no_vocals_output": "/content/drive/MyDrive/IKS_Music_Source_Separation_and_Instrument_Isolation/05_Experiments/Baseline_HT_Demucs/EXP004/outputs/PNDV_024/PNDV_024_No_Vocals.wav",
+      "vocals_exists": true,
+      "no_vocals_exists": true,
+      "sample_rate": 44100,
+      "channels": 2,
+      "frames": 281156608,
+      "duration_seconds": 6375.433287981859
+    }
+  ],
+  "validation": {
+    "output_structure_valid": true,
+    "audio_integrity_valid": true,
+    "sample_rate_hz": 44100,
+    "channels": 2,
+    "all_outputs_readable": true
+  },
+  "documentation": {
+    "generated_at": "2026-08-14T04:34:33",
+    "status": "COMPLETED"
+  }
+}

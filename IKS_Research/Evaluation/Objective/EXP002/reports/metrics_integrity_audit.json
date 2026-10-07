@@ -1,0 +1,62 @@
+{
+  "experiment": "EXP002",
+  "timestamp": "2026-08-16T00:07:11.489902",
+  "expected_tracks": 50,
+  "expected_sources": [
+    "vocals",
+    "drums",
+    "bass",
+    "other"
+  ],
+  "approved_metrics": [
+    "SDR",
+    "SIR",
+    "SAR",
+    "SI-SDR"
+  ],
+  "excluded_metric": "ISR",
+  "jsonl": {
+    "records": 50,
+    "unique_tracks": 50,
+    "source_evaluations": 200,
+    "approved_source_metric_values": {
+      "SDR": 200,
+      "SIR": 200,
+      "SAR": 200,
+      "SI-SDR": 200
+    },
+    "excluded_isr_source_values": 200,
+    "track_average_values": {
+      "SDR": 50,
+      "SIR": 50,
+      "SAR": 50,
+      "SI-SDR": 50
+    },
+    "track_average_isr_values": 50
+  },
+  "csv": {
+    "data_rows": 200,
+    "source_evaluations": 200,
+    "approved_metric_values": {
+      "SDR": 200,
+      "SIR": 200,
+      "SAR": 200,
+      "SI-SDR": 200
+    },
+    "isr_values": 200
+  },
+  "policy": {
+    "isr_included_downstream": false,
+    "isr_included_in_reports": false,
+    "isr_included_in_plots": false,
+    "isr_included_in_summary_tables": false,
+    "isr_calculated_in_exp003": false,
+    "isr_calculated_in_exp004": false
+  },
+  "files": {
+    "jsonl": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\metrics\\per_track_metrics.jsonl",
+    "csv": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\metrics\\per_track_metrics.csv",
+    "summary": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\metrics\\evaluation_summary.json",
+    "audit": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\metrics_integrity_audit.json"
+  }
+}

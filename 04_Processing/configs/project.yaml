@@ -1,0 +1,6 @@
+# Project-wide General Configurations
+# Intended Future Purpose:
+# - Define repository path roots and data workspace locations
+# - Configure logging levels, formats, and log file paths
+# - Set execution flags for dry-runs, debug mode, and pipeline triggers
+# - Store metadata schema validation schemas and standard catalog versioning

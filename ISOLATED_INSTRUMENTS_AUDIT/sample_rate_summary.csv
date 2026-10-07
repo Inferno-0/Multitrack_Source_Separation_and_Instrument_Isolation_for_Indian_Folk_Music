@@ -1,0 +1,11 @@
+dataset,sample_rate,count
+Flute,44100,112
+Flute,48000,17
+Dhul,48000,9
+Harmonium,44100,7
+Harmonium,48000,1
+Harmonium,22050,1314
+Dholak,44100,55
+Tabla,44100,561
+Tabla,16000,236
+Vocals,44100,162

@@ -1,0 +1,725 @@
+{
+  "experiment": "EXP002",
+  "analysis": "objective_metric_distribution_and_outlier_analysis",
+  "timestamp": "2026-08-16T00:10:04.522511",
+  "input": {
+    "csv": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\metrics\\per_track_metrics.csv",
+    "jsonl": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\metrics\\per_track_metrics.jsonl",
+    "tracks": 50,
+    "source_evaluations": 200
+  },
+  "approved_metrics": [
+    "SDR",
+    "SIR",
+    "SAR",
+    "SI-SDR"
+  ],
+  "excluded_metrics": [
+    "ISR"
+  ],
+  "overall_statistics": {
+    "SDR": {
+      "count": 200,
+      "mean_dB": 8.322303479056401,
+      "median_dB": 8.427862883546048,
+      "std_dB": 3.7296216333510577,
+      "min_dB": -3.289219536556108,
+      "q1_dB": 6.133604526954675,
+      "q3_dB": 10.473862224367249,
+      "max_dB": 22.331214478980318
+    },
+    "SIR": {
+      "count": 200,
+      "mean_dB": 17.164077761328084,
+      "median_dB": 17.892763807734482,
+      "std_dB": 6.357021421745246,
+      "min_dB": -2.5008574352232276,
+      "q1_dB": 13.227602893129308,
+      "q3_dB": 20.99942822863119,
+      "max_dB": 38.50650335530534
+    },
+    "SAR": {
+      "count": 200,
+      "mean_dB": 9.259769872982265,
+      "median_dB": 9.290712022750736,
+      "std_dB": 3.84513909303731,
+      "min_dB": -4.543378901200876,
+      "q1_dB": 7.134087866404134,
+      "q3_dB": 11.441268818730329,
+      "max_dB": 23.78787407564541
+    },
+    "SI-SDR": {
+      "count": 200,
+      "mean_dB": 7.471126790726909,
+      "median_dB": 7.819874282221125,
+      "std_dB": 4.5222446324392545,
+      "min_dB": -9.46494302569813,
+      "q1_dB": 5.310112144693088,
+      "q3_dB": 10.18514691194246,
+      "max_dB": 22.37121468950659
+    }
+  },
+  "overall_iqr_outliers": {
+    "SDR": {
+      "q1_dB": 6.133604526954675,
+      "q3_dB": 10.473862224367249,
+      "iqr_dB": 4.340257697412574,
+      "lower_bound_dB": -0.3767820191641862,
+      "upper_bound_dB": 16.98424877048611,
+      "outlier_count": 5,
+      "outlier_indices": [
+        6,
+        13,
+        109,
+        150,
+        154
+      ]
+    },
+    "SIR": {
+      "q1_dB": 13.227602893129308,
+      "q3_dB": 20.99942822863119,
+      "iqr_dB": 7.77182533550188,
+      "lower_bound_dB": 1.569864889876488,
+      "upper_bound_dB": 32.657166231884005,
+      "outlier_count": 5,
+      "outlier_indices": [
+        6,
+        13,
+        115,
+        154,
+        190
+      ]
+    },
+    "SAR": {
+      "q1_dB": 7.134087866404134,
+      "q3_dB": 11.441268818730329,
+      "iqr_dB": 4.307180952326195,
+      "lower_bound_dB": 0.6733164379148429,
+      "upper_bound_dB": 17.90204024721962,
+      "outlier_count": 6,
+      "outlier_indices": [
+        7,
+        108,
+        109,
+        144,
+        150,
+        154
+      ]
+    },
+    "SI-SDR": {
+      "q1_dB": 5.310112144693088,
+      "q3_dB": 10.18514691194246,
+      "iqr_dB": 4.875034767249373,
+      "lower_bound_dB": -2.0024400061809713,
+      "upper_bound_dB": 17.49769906281652,
+      "outlier_count": 10,
+      "outlier_indices": [
+        6,
+        7,
+        13,
+        15,
+        108,
+        109,
+        115,
+        144,
+        150,
+        154
+      ]
+    }
+  },
+  "source_statistics": {
+    "vocals": {
+      "SDR": {
+        "count": 50,
+        "mean_dB": 8.590691941128474,
+        "median_dB": 9.216062772517294,
+        "std_dB": 2.8903056364436095,
+        "min_dB": 0.3182203078172263,
+        "q1_dB": 6.570976416374365,
+        "q3_dB": 10.795941360931057,
+        "max_dB": 13.657151467203928
+      },
+      "SIR": {
+        "count": 50,
+        "mean_dB": 18.23515329355716,
+        "median_dB": 18.935302491309418,
+        "std_dB": 4.134689702530534,
+        "min_dB": 9.243470703555666,
+        "q1_dB": 15.399654344430926,
+        "q3_dB": 21.037486983129615,
+        "max_dB": 26.9681367974403
+      },
+      "SAR": {
+        "count": 50,
+        "mean_dB": 9.088053399441112,
+        "median_dB": 9.99019177558897,
+        "std_dB": 3.4148701634919156,
+        "min_dB": -4.543378901200876,
+        "q1_dB": 7.1473284879367185,
+        "q3_dB": 11.419831881750948,
+        "max_dB": 14.580034248118254
+      },
+      "SI-SDR": {
+        "count": 50,
+        "mean_dB": 7.821769176255639,
+        "median_dB": 8.929529415998509,
+        "std_dB": 3.827280564133188,
+        "min_dB": -7.179837062504864,
+        "q1_dB": 5.77949701687596,
+        "q3_dB": 10.418806051605365,
+        "max_dB": 13.467965124223308
+      }
+    },
+    "drums": {
+      "SDR": {
+        "count": 50,
+        "mean_dB": 9.831945650749196,
+        "median_dB": 9.835485015239225,
+        "std_dB": 3.746964706041281,
+        "min_dB": -3.289219536556108,
+        "q1_dB": 7.510089925766122,
+        "q3_dB": 12.247341072421886,
+        "max_dB": 18.7599207963923
+      },
+      "SIR": {
+        "count": 50,
+        "mean_dB": 20.65627337246778,
+        "median_dB": 20.34625593304605,
+        "std_dB": 5.497636586063463,
+        "min_dB": -2.5008574352232276,
+        "q1_dB": 18.98661832679822,
+        "q3_dB": 23.964229417644834,
+        "max_dB": 30.821635822936216
+      },
+      "SAR": {
+        "count": 50,
+        "mean_dB": 11.082281868980992,
+        "median_dB": 10.773166002552205,
+        "std_dB": 3.2910150945969825,
+        "min_dB": 5.540161996598165,
+        "q1_dB": 8.903343137864407,
+        "q3_dB": 13.360901541528872,
+        "max_dB": 21.023273281306167
+      },
+      "SI-SDR": {
+        "count": 50,
+        "mean_dB": 9.4823045591848,
+        "median_dB": 9.561985724205865,
+        "std_dB": 3.7946554696942036,
+        "min_dB": -3.495691751698372,
+        "q1_dB": 7.0708599687464835,
+        "q3_dB": 11.965628004478845,
+        "max_dB": 18.765091326688765
+      }
+    },
+    "bass": {
+      "SDR": {
+        "count": 50,
+        "mean_dB": 8.647892733167982,
+        "median_dB": 8.642235441833336,
+        "std_dB": 4.522590240700674,
+        "min_dB": -1.3199377053063668,
+        "q1_dB": 4.997309373386196,
+        "q3_dB": 11.273346085044174,
+        "max_dB": 22.331214478980318
+      },
+      "SIR": {
+        "count": 50,
+        "mean_dB": 17.851116009030477,
+        "median_dB": 17.892763807734482,
+        "std_dB": 7.676615696423784,
+        "min_dB": -2.0783372218624945,
+        "q1_dB": 13.795744473127169,
+        "q3_dB": 21.262466100776777,
+        "max_dB": 38.50650335530534
+      },
+      "SAR": {
+        "count": 50,
+        "mean_dB": 9.713475042000427,
+        "median_dB": 9.72513121303605,
+        "std_dB": 4.660946230963651,
+        "min_dB": 1.5578730285329039,
+        "q1_dB": 6.840281315402702,
+        "q3_dB": 12.711286350209773,
+        "max_dB": 23.78787407564541
+      },
+      "SI-SDR": {
+        "count": 50,
+        "mean_dB": 7.851425052537844,
+        "median_dB": 8.128819734678569,
+        "std_dB": 5.154571821408332,
+        "min_dB": -3.1985421939610403,
+        "q1_dB": 4.050404625833114,
+        "q3_dB": 10.97696140896998,
+        "max_dB": 22.37121468950659
+      }
+    },
+    "other": {
+      "SDR": {
+        "count": 50,
+        "mean_dB": 6.218683591179954,
+        "median_dB": 6.751142145501664,
+        "std_dB": 2.5732824112619865,
+        "min_dB": 0.46322636520458926,
+        "q1_dB": 4.996389149555006,
+        "q3_dB": 7.940493397477367,
+        "max_dB": 10.988833876454523
+      },
+      "SIR": {
+        "count": 50,
+        "mean_dB": 11.913768370256928,
+        "median_dB": 12.665205066186822,
+        "std_dB": 3.955512061096576,
+        "min_dB": 1.339146136417275,
+        "q1_dB": 10.1393660154242,
+        "q3_dB": 14.583289555135234,
+        "max_dB": 18.788875334600025
+      },
+      "SAR": {
+        "count": 50,
+        "mean_dB": 7.155269181506531,
+        "median_dB": 7.5396932900210984,
+        "std_dB": 2.7713293493722424,
+        "min_dB": -0.7923547281822978,
+        "q1_dB": 6.10766731242295,
+        "q3_dB": 8.87053305983973,
+        "max_dB": 12.165286291338175
+      },
+      "SI-SDR": {
+        "count": 50,
+        "mean_dB": 4.729008374929351,
+        "median_dB": 5.724317557731381,
+        "std_dB": 3.9197811388620356,
+        "min_dB": -9.46494302569813,
+        "q1_dB": 3.337523408471085,
+        "q3_dB": 7.21994251686157,
+        "max_dB": 10.634701149208848
+      }
+    }
+  },
+  "source_iqr_outliers": {
+    "vocals": {
+      "SDR": {
+        "q1_dB": 6.570976416374365,
+        "q3_dB": 10.795941360931057,
+        "iqr_dB": 4.2249649445566915,
+        "lower_bound_dB": 0.23352899953932837,
+        "upper_bound_dB": 17.133388777766093,
+        "outlier_count": 0,
+        "outlier_indices": []
+      },
+      "SIR": {
+        "q1_dB": 15.399654344430926,
+        "q3_dB": 21.037486983129615,
+        "iqr_dB": 5.637832638698688,
+        "lower_bound_dB": 6.942905386382895,
+        "upper_bound_dB": 29.494235941177646,
+        "outlier_count": 0,
+        "outlier_indices": []
+      },
+      "SAR": {
+        "q1_dB": 7.1473284879367185,
+        "q3_dB": 11.419831881750948,
+        "iqr_dB": 4.27250339381423,
+        "lower_bound_dB": 0.7385733972153741,
+        "upper_bound_dB": 17.828586972472294,
+        "outlier_count": 2,
+        "outlier_indices": [
+          27,
+          36
+        ]
+      },
+      "SI-SDR": {
+        "q1_dB": 5.77949701687596,
+        "q3_dB": 10.418806051605365,
+        "iqr_dB": 4.639309034729405,
+        "lower_bound_dB": -1.1794665352181477,
+        "upper_bound_dB": 17.377769603699473,
+        "outlier_count": 2,
+        "outlier_indices": [
+          27,
+          36
+        ]
+      }
+    },
+    "drums": {
+      "SDR": {
+        "q1_dB": 7.510089925766122,
+        "q3_dB": 12.247341072421886,
+        "iqr_dB": 4.737251146655764,
+        "lower_bound_dB": 0.40421320578247677,
+        "upper_bound_dB": 19.35321779240553,
+        "outlier_count": 1,
+        "outlier_indices": [
+          3
+        ]
+      },
+      "SIR": {
+        "q1_dB": 18.98661832679822,
+        "q3_dB": 23.964229417644834,
+        "iqr_dB": 4.977611090846615,
+        "lower_bound_dB": 11.520201690528296,
+        "upper_bound_dB": 31.430646053914757,
+        "outlier_count": 2,
+        "outlier_indices": [
+          3,
+          29
+        ]
+      },
+      "SAR": {
+        "q1_dB": 8.903343137864407,
+        "q3_dB": 13.360901541528872,
+        "iqr_dB": 4.457558403664464,
+        "lower_bound_dB": 2.217005532367711,
+        "upper_bound_dB": 20.047239147025568,
+        "outlier_count": 1,
+        "outlier_indices": [
+          27
+        ]
+      },
+      "SI-SDR": {
+        "q1_dB": 7.0708599687464835,
+        "q3_dB": 11.965628004478845,
+        "iqr_dB": 4.894768035732361,
+        "lower_bound_dB": -0.2712920848520577,
+        "upper_bound_dB": 19.307780058077384,
+        "outlier_count": 1,
+        "outlier_indices": [
+          3
+        ]
+      }
+    },
+    "bass": {
+      "SDR": {
+        "q1_dB": 4.997309373386196,
+        "q3_dB": 11.273346085044174,
+        "iqr_dB": 6.276036711657978,
+        "lower_bound_dB": -4.41674569410077,
+        "upper_bound_dB": 20.68740115253114,
+        "outlier_count": 1,
+        "outlier_indices": [
+          38
+        ]
+      },
+      "SIR": {
+        "q1_dB": 13.795744473127169,
+        "q3_dB": 21.262466100776777,
+        "iqr_dB": 7.4667216276496085,
+        "lower_bound_dB": 2.595662031652756,
+        "upper_bound_dB": 32.46254854225119,
+        "outlier_count": 3,
+        "outlier_indices": [
+          1,
+          38,
+          47
+        ]
+      },
+      "SAR": {
+        "q1_dB": 6.840281315402702,
+        "q3_dB": 12.711286350209773,
+        "iqr_dB": 5.871005034807071,
+        "lower_bound_dB": -1.9662262368079055,
+        "upper_bound_dB": 21.51779390242038,
+        "outlier_count": 1,
+        "outlier_indices": [
+          38
+        ]
+      },
+      "SI-SDR": {
+        "q1_dB": 4.050404625833114,
+        "q3_dB": 10.97696140896998,
+        "iqr_dB": 6.926556783136867,
+        "lower_bound_dB": -6.339430548872187,
+        "upper_bound_dB": 21.36679658367528,
+        "outlier_count": 1,
+        "outlier_indices": [
+          38
+        ]
+      }
+    },
+    "other": {
+      "SDR": {
+        "q1_dB": 4.996389149555006,
+        "q3_dB": 7.940493397477367,
+        "iqr_dB": 2.9441042479223603,
+        "lower_bound_dB": 0.5802327776714664,
+        "upper_bound_dB": 12.356649769360907,
+        "outlier_count": 1,
+        "outlier_indices": [
+          1
+        ]
+      },
+      "SIR": {
+        "q1_dB": 10.1393660154242,
+        "q3_dB": 14.583289555135234,
+        "iqr_dB": 4.443923539711035,
+        "lower_bound_dB": 3.4734807058576473,
+        "upper_bound_dB": 21.249174864701786,
+        "outlier_count": 1,
+        "outlier_indices": [
+          28
+        ]
+      },
+      "SAR": {
+        "q1_dB": 6.10766731242295,
+        "q3_dB": 8.87053305983973,
+        "iqr_dB": 2.7628657474167797,
+        "lower_bound_dB": 1.96336869129778,
+        "upper_bound_dB": 13.0148316809649,
+        "outlier_count": 2,
+        "outlier_indices": [
+          1,
+          19
+        ]
+      },
+      "SI-SDR": {
+        "q1_dB": 3.337523408471085,
+        "q3_dB": 7.21994251686157,
+        "iqr_dB": 3.882419108390485,
+        "lower_bound_dB": -2.486105254114643,
+        "upper_bound_dB": 13.043571179447298,
+        "outlier_count": 2,
+        "outlier_indices": [
+          1,
+          3
+        ]
+      }
+    }
+  },
+  "track_extremes": {
+    "SDR": {
+      "lowest": [
+        {
+          "track": "Arise - Run Run Run",
+          "source": "drums",
+          "value_dB": -3.289219536556108
+        },
+        {
+          "track": "AM Contra - Heart Peripheral",
+          "source": "bass",
+          "value_dB": -1.3199377053063668
+        },
+        {
+          "track": "PR - Happy Daze",
+          "source": "vocals",
+          "value_dB": 0.3182203078172263
+        },
+        {
+          "track": "AM Contra - Heart Peripheral",
+          "source": "other",
+          "value_dB": 0.46322636520458926
+        },
+        {
+          "track": "PR - Oh No",
+          "source": "other",
+          "value_dB": 0.5832641943726797
+        }
+      ],
+      "highest": [
+        {
+          "track": "Speak Softly - Like Horses",
+          "source": "bass",
+          "value_dB": 22.331214478980318
+        },
+        {
+          "track": "PR - Happy Daze",
+          "source": "drums",
+          "value_dB": 18.7599207963923
+        },
+        {
+          "track": "Speak Softly - Broken Man",
+          "source": "bass",
+          "value_dB": 17.649175955797627
+        },
+        {
+          "track": "Triviul feat. The Fiend - Widow",
+          "source": "bass",
+          "value_dB": 15.989789972981214
+        },
+        {
+          "track": "Side Effects Project - Sing With Me",
+          "source": "drums",
+          "value_dB": 15.710422588175351
+        }
+      ]
+    },
+    "SIR": {
+      "lowest": [
+        {
+          "track": "Arise - Run Run Run",
+          "source": "drums",
+          "value_dB": -2.5008574352232276
+        },
+        {
+          "track": "AM Contra - Heart Peripheral",
+          "source": "bass",
+          "value_dB": -2.0783372218624945
+        },
+        {
+          "track": "PR - Oh No",
+          "source": "other",
+          "value_dB": 1.339146136417275
+        },
+        {
+          "track": "AM Contra - Heart Peripheral",
+          "source": "other",
+          "value_dB": 3.7538368391184807
+        },
+        {
+          "track": "Little Chicago's Finest - My Own",
+          "source": "other",
+          "value_dB": 4.430412868754984
+        }
+      ],
+      "highest": [
+        {
+          "track": "Speak Softly - Like Horses",
+          "source": "bass",
+          "value_dB": 38.50650335530534
+        },
+        {
+          "track": "Triviul feat. The Fiend - Widow",
+          "source": "bass",
+          "value_dB": 38.27801709043557
+        },
+        {
+          "track": "Enda Reilly - Cur An Long Ag Seol",
+          "source": "drums",
+          "value_dB": 30.821635822936216
+        },
+        {
+          "track": "Speak Softly - Broken Man",
+          "source": "bass",
+          "value_dB": 30.041299363135106
+        },
+        {
+          "track": "Nerve 9 - Pray For The Rain",
+          "source": "drums",
+          "value_dB": 29.214511972743583
+        }
+      ]
+    },
+    "SAR": {
+      "lowest": [
+        {
+          "track": "PR - Happy Daze",
+          "source": "vocals",
+          "value_dB": -4.543378901200876
+        },
+        {
+          "track": "AM Contra - Heart Peripheral",
+          "source": "other",
+          "value_dB": -0.7923547281822978
+        },
+        {
+          "track": "Skelpolu - Resurrection",
+          "source": "vocals",
+          "value_dB": -0.2913047041100423
+        },
+        {
+          "track": "Little Chicago's Finest - My Own",
+          "source": "other",
+          "value_dB": 0.8011830694648538
+        },
+        {
+          "track": "Carlos Gonzalez - A Place For Us",
+          "source": "bass",
+          "value_dB": 1.5578730285329039
+        }
+      ],
+      "highest": [
+        {
+          "track": "Speak Softly - Like Horses",
+          "source": "bass",
+          "value_dB": 23.78787407564541
+        },
+        {
+          "track": "PR - Happy Daze",
+          "source": "drums",
+          "value_dB": 21.023273281306167
+        },
+        {
+          "track": "Speak Softly - Broken Man",
+          "source": "bass",
+          "value_dB": 18.56242534051725
+        },
+        {
+          "track": "Triviul feat. The Fiend - Widow",
+          "source": "bass",
+          "value_dB": 17.89333280773734
+        },
+        {
+          "track": "Skelpolu - Resurrection",
+          "source": "bass",
+          "value_dB": 17.308218494775957
+        }
+      ]
+    },
+    "SI-SDR": {
+      "lowest": [
+        {
+          "track": "AM Contra - Heart Peripheral",
+          "source": "other",
+          "value_dB": -9.46494302569813
+        },
+        {
+          "track": "PR - Happy Daze",
+          "source": "vocals",
+          "value_dB": -7.179837062504864
+        },
+        {
+          "track": "Arise - Run Run Run",
+          "source": "other",
+          "value_dB": -6.440443397741379
+        },
+        {
+          "track": "Arise - Run Run Run",
+          "source": "drums",
+          "value_dB": -3.495691751698372
+        },
+        {
+          "track": "AM Contra - Heart Peripheral",
+          "source": "bass",
+          "value_dB": -3.1985421939610403
+        }
+      ],
+      "highest": [
+        {
+          "track": "Speak Softly - Like Horses",
+          "source": "bass",
+          "value_dB": 22.37121468950659
+        },
+        {
+          "track": "PR - Happy Daze",
+          "source": "drums",
+          "value_dB": 18.765091326688765
+        },
+        {
+          "track": "Speak Softly - Broken Man",
+          "source": "bass",
+          "value_dB": 17.576772443077672
+        },
+        {
+          "track": "Triviul feat. The Fiend - Widow",
+          "source": "bass",
+          "value_dB": 15.877080539821808
+        },
+        {
+          "track": "Side Effects Project - Sing With Me",
+          "source": "drums",
+          "value_dB": 15.59031293503483
+        }
+      ]
+    }
+  },
+  "plots": [
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sdr_distribution.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sir_distribution.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sar_distribution.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_si_sdr_distribution.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sdr_by_source_boxplot.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sir_by_source_boxplot.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_sar_by_source_boxplot.png",
+    "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\plots\\exp002_si_sdr_by_source_boxplot.png"
+  ]
+}

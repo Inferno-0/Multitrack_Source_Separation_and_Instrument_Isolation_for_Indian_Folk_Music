@@ -1,0 +1,310 @@
+{
+  "experiment": "EXP002",
+  "generated_at": "2026-08-16T00:42:02.510704",
+  "dataset": {
+    "tracks": 50,
+    "sources_per_track": 4,
+    "source_evaluations": 200
+  },
+  "approved_metrics": [
+    "SDR",
+    "SIR",
+    "SAR",
+    "SI-SDR"
+  ],
+  "excluded_metrics": [
+    "ISR"
+  ],
+  "metric_statistics": {
+    "overall_source_level": {
+      "SDR": {
+        "count": 200,
+        "mean_dB": 8.322303479056401,
+        "median_dB": 8.427862883546048,
+        "std_dB": 3.7296216333510577,
+        "min_dB": -3.289219536556108,
+        "q1_dB": 6.133604526954675,
+        "q3_dB": 10.473862224367249,
+        "max_dB": 22.331214478980318,
+        "iqr_dB": 4.340257697412574
+      },
+      "SIR": {
+        "count": 200,
+        "mean_dB": 17.164077761328084,
+        "median_dB": 17.892763807734482,
+        "std_dB": 6.357021421745246,
+        "min_dB": -2.5008574352232276,
+        "q1_dB": 13.227602893129308,
+        "q3_dB": 20.99942822863119,
+        "max_dB": 38.50650335530534,
+        "iqr_dB": 7.77182533550188
+      },
+      "SAR": {
+        "count": 200,
+        "mean_dB": 9.259769872982265,
+        "median_dB": 9.290712022750736,
+        "std_dB": 3.84513909303731,
+        "min_dB": -4.543378901200876,
+        "q1_dB": 7.134087866404134,
+        "q3_dB": 11.441268818730329,
+        "max_dB": 23.78787407564541,
+        "iqr_dB": 4.307180952326195
+      },
+      "SI-SDR": {
+        "count": 200,
+        "mean_dB": 7.471126790726909,
+        "median_dB": 7.819874282221125,
+        "std_dB": 4.5222446324392545,
+        "min_dB": -9.46494302569813,
+        "q1_dB": 5.310112144693088,
+        "q3_dB": 10.18514691194246,
+        "max_dB": 22.37121468950659,
+        "iqr_dB": 4.875034767249373
+      }
+    },
+    "track_average": {
+      "SDR": {
+        "count": 50,
+        "mean_dB": 8.322303479056401,
+        "median_dB": 8.882967893412241,
+        "std_dB": 2.13644794405864,
+        "min_dB": 3.088425783696154,
+        "q1_dB": 7.015980654062331,
+        "q3_dB": 9.642313101544731,
+        "max_dB": 11.928870215135952,
+        "iqr_dB": 2.6263324474824
+      },
+      "SIR": {
+        "count": 50,
+        "mean_dB": 17.164077761328087,
+        "median_dB": 17.408006541871934,
+        "std_dB": 3.1042321327178004,
+        "min_dB": 9.199646896251629,
+        "q1_dB": 14.27292850246064,
+        "q3_dB": 19.525517649341012,
+        "max_dB": 23.060355575008387,
+        "iqr_dB": 5.252589146880371
+      },
+      "SAR": {
+        "count": 50,
+        "mean_dB": 9.259769872982266,
+        "median_dB": 9.47265317349278,
+        "std_dB": 1.8801915149813422,
+        "min_dB": 4.751775412384685,
+        "q1_dB": 7.941095287014064,
+        "q3_dB": 10.519447997746038,
+        "max_dB": 13.00140740553076,
+        "iqr_dB": 2.5783527107319744
+      },
+      "SI-SDR": {
+        "count": 50,
+        "mean_dB": 7.471126790726909,
+        "median_dB": 7.9100592298386525,
+        "std_dB": 2.3971273378123175,
+        "min_dB": 1.511908769582265,
+        "q1_dB": 5.9719346928603585,
+        "q3_dB": 9.029352207202866,
+        "max_dB": 11.464294113585204,
+        "iqr_dB": 3.0574175143425073
+      }
+    }
+  },
+  "source_performance": {
+    "vocals": {
+      "SDR": {
+        "mean_dB": 8.590691941128474,
+        "median_dB": 9.216062772517294,
+        "std_dB": 2.8903056364436095,
+        "min_dB": 0.3182203078172263,
+        "max_dB": 13.657151467203928
+      },
+      "SIR": {
+        "mean_dB": 18.23515329355716,
+        "median_dB": 18.935302491309418,
+        "std_dB": 4.134689702530534,
+        "min_dB": 9.243470703555666,
+        "max_dB": 26.9681367974403
+      },
+      "SAR": {
+        "mean_dB": 9.088053399441112,
+        "median_dB": 9.99019177558897,
+        "std_dB": 3.4148701634919156,
+        "min_dB": -4.543378901200876,
+        "max_dB": 14.580034248118254
+      },
+      "SI-SDR": {
+        "mean_dB": 7.821769176255639,
+        "median_dB": 8.929529415998509,
+        "std_dB": 3.827280564133188,
+        "min_dB": -7.179837062504864,
+        "max_dB": 13.467965124223308
+      }
+    },
+    "drums": {
+      "SDR": {
+        "mean_dB": 9.831945650749196,
+        "median_dB": 9.835485015239225,
+        "std_dB": 3.746964706041281,
+        "min_dB": -3.289219536556108,
+        "max_dB": 18.7599207963923
+      },
+      "SIR": {
+        "mean_dB": 20.65627337246778,
+        "median_dB": 20.34625593304605,
+        "std_dB": 5.497636586063463,
+        "min_dB": -2.5008574352232276,
+        "max_dB": 30.821635822936216
+      },
+      "SAR": {
+        "mean_dB": 11.082281868980992,
+        "median_dB": 10.773166002552205,
+        "std_dB": 3.2910150945969825,
+        "min_dB": 5.540161996598165,
+        "max_dB": 21.023273281306167
+      },
+      "SI-SDR": {
+        "mean_dB": 9.4823045591848,
+        "median_dB": 9.561985724205865,
+        "std_dB": 3.7946554696942036,
+        "min_dB": -3.495691751698372,
+        "max_dB": 18.765091326688765
+      }
+    },
+    "bass": {
+      "SDR": {
+        "mean_dB": 8.647892733167982,
+        "median_dB": 8.642235441833336,
+        "std_dB": 4.522590240700674,
+        "min_dB": -1.3199377053063668,
+        "max_dB": 22.331214478980318
+      },
+      "SIR": {
+        "mean_dB": 17.851116009030477,
+        "median_dB": 17.892763807734482,
+        "std_dB": 7.676615696423784,
+        "min_dB": -2.0783372218624945,
+        "max_dB": 38.50650335530534
+      },
+      "SAR": {
+        "mean_dB": 9.713475042000427,
+        "median_dB": 9.72513121303605,
+        "std_dB": 4.660946230963651,
+        "min_dB": 1.5578730285329039,
+        "max_dB": 23.78787407564541
+      },
+      "SI-SDR": {
+        "mean_dB": 7.851425052537844,
+        "median_dB": 8.128819734678569,
+        "std_dB": 5.154571821408332,
+        "min_dB": -3.1985421939610403,
+        "max_dB": 22.37121468950659
+      }
+    },
+    "other": {
+      "SDR": {
+        "mean_dB": 6.218683591179954,
+        "median_dB": 6.751142145501664,
+        "std_dB": 2.5732824112619865,
+        "min_dB": 0.46322636520458926,
+        "max_dB": 10.988833876454523
+      },
+      "SIR": {
+        "mean_dB": 11.913768370256928,
+        "median_dB": 12.665205066186822,
+        "std_dB": 3.955512061096576,
+        "min_dB": 1.339146136417275,
+        "max_dB": 18.788875334600025
+      },
+      "SAR": {
+        "mean_dB": 7.155269181506531,
+        "median_dB": 7.5396932900210984,
+        "std_dB": 2.7713293493722424,
+        "min_dB": -0.7923547281822978,
+        "max_dB": 12.165286291338175
+      },
+      "SI-SDR": {
+        "mean_dB": 4.729008374929351,
+        "median_dB": 5.724317557731381,
+        "std_dB": 3.9197811388620356,
+        "min_dB": -9.46494302569813,
+        "max_dB": 10.634701149208848
+      }
+    }
+  },
+  "source_rankings": {
+    "SDR": [
+      "drums",
+      "bass",
+      "vocals",
+      "other"
+    ],
+    "SIR": [
+      "drums",
+      "vocals",
+      "bass",
+      "other"
+    ],
+    "SAR": [
+      "drums",
+      "bass",
+      "vocals",
+      "other"
+    ],
+    "SI-SDR": [
+      "drums",
+      "bass",
+      "vocals",
+      "other"
+    ]
+  },
+  "best_worst_sources": {
+    "SDR": {
+      "best_source": "drums",
+      "best_mean_dB": 9.831945650749196,
+      "worst_source": "other",
+      "worst_mean_dB": 6.218683591179954,
+      "gap_dB": 3.6132620595692417
+    },
+    "SIR": {
+      "best_source": "drums",
+      "best_mean_dB": 20.65627337246778,
+      "worst_source": "other",
+      "worst_mean_dB": 11.913768370256928,
+      "gap_dB": 8.742505002210851
+    },
+    "SAR": {
+      "best_source": "drums",
+      "best_mean_dB": 11.082281868980992,
+      "worst_source": "other",
+      "worst_mean_dB": 7.155269181506531,
+      "gap_dB": 3.927012687474461
+    },
+    "SI-SDR": {
+      "best_source": "drums",
+      "best_mean_dB": 9.4823045591848,
+      "worst_source": "other",
+      "worst_mean_dB": 4.729008374929351,
+      "gap_dB": 4.75329618425545
+    }
+  },
+  "outlier_summary": {
+    "SDR": null,
+    "SIR": null,
+    "SAR": null,
+    "SI-SDR": null
+  },
+  "track_performance_summary": {},
+  "input_reports": {
+    "integrity": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\metrics_integrity_audit.json",
+    "descriptive": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_metric_descriptive_statistics.json",
+    "distribution": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_distribution_outlier_analysis.json",
+    "source_comparison": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_source_level_comparative_analysis.json",
+    "track_aggregate": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP002\\reports\\exp002_track_level_aggregate_analysis.json"
+  },
+  "integrity_policy": {
+    "wav_files_loaded": false,
+    "metrics_recomputed": false,
+    "existing_evaluation_outputs_used": true,
+    "isr_included_downstream": false
+  }
+}

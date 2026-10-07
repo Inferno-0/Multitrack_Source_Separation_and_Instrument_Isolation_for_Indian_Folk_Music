@@ -1,0 +1,34 @@
+{
+    "id": "pilot_003",
+    "mixture_composition": [
+        "vocals",
+        "tabla",
+        "harmonium"
+    ],
+    "sources": {
+        "vocals": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000053.wav",
+            "original_filename": "saraga_0053_vocals.wav",
+            "gain_applied_in_mix": 0.3333333333333333
+        },
+        "tabla": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000511.wav",
+            "original_filename": "RMA_9.wav",
+            "gain_applied_in_mix": 0.3333333333333333
+        },
+        "harmonium": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000013.wav",
+            "original_filename": "1009.wav",
+            "gain_applied_in_mix": 0.3333333333333333
+        }
+    },
+    "target_present": true,
+    "query_instrument": "harmonium",
+    "query_file": {
+        "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_000666.wav",
+        "original_filename": "414.wav"
+    },
+    "target_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_003\\stems\\harmonium.wav",
+    "mixture_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_003\\clean_mixture.wav",
+    "query_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_003\\query.wav"
+}

@@ -1,0 +1,15 @@
+{
+  "instruments": [
+    "tabla",
+    "flute"
+  ],
+  "vocals_present": true,
+  "target": "flute",
+  "sources": {
+    "vocals": "saraga_0027_vocals.wav",
+    "tabla": "addhatrital01.wav",
+    "flute": "Gully-Loops-Maya-Flute-Loop-BPM-128-Pt-2-C.wav"
+  },
+  "query_source": "160_Bm_BluesElectricRiffFlute_01_565.wav",
+  "query_padding_needed": true
+}

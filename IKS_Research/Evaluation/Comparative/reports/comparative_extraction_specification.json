@@ -1,0 +1,93 @@
+{
+  "EXP002": {
+    "authoritative_file": "metrics\\per_track_metrics.jsonl",
+    "format": ".jsonl",
+    "selection_reason": "Contains track identifiers, source identifiers, and metrics in .jsonl format.",
+    "track_level_available": true,
+    "source_level_available": true,
+    "metric_fields": [
+      "sources.vocals.SDR_dB",
+      "sources.vocals.ISR_dB",
+      "sources.vocals.SIR_dB",
+      "sources.vocals.SAR_dB",
+      "sources.vocals.SI_SDR_dB",
+      "sources.drums.SDR_dB",
+      "sources.drums.ISR_dB",
+      "sources.drums.SIR_dB",
+      "sources.drums.SAR_dB",
+      "sources.drums.SI_SDR_dB",
+      "sources.bass.SDR_dB",
+      "sources.bass.ISR_dB",
+      "sources.bass.SIR_dB",
+      "sources.bass.SAR_dB",
+      "sources.bass.SI_SDR_dB",
+      "sources.other.SDR_dB",
+      "sources.other.ISR_dB",
+      "sources.other.SIR_dB",
+      "sources.other.SAR_dB",
+      "sources.other.SI_SDR_dB"
+    ],
+    "track_fields": [
+      "track"
+    ],
+    "source_fields": []
+  },
+  "EXP003": {
+    "authoritative_file": "metrics\\per_track_metrics.jsonl",
+    "format": ".jsonl",
+    "selection_reason": "Contains track identifiers, source identifiers, and metrics in .jsonl format.",
+    "track_level_available": true,
+    "source_level_available": true,
+    "metric_fields": [
+      "sources.vocals.SDR_dB",
+      "sources.vocals.SIR_dB",
+      "sources.vocals.SAR_dB",
+      "sources.vocals.SI_SDR_dB",
+      "sources.drums.SDR_dB",
+      "sources.drums.SIR_dB",
+      "sources.drums.SAR_dB",
+      "sources.drums.SI_SDR_dB",
+      "sources.bass.SDR_dB",
+      "sources.bass.SIR_dB",
+      "sources.bass.SAR_dB",
+      "sources.bass.SI_SDR_dB",
+      "sources.other.SDR_dB",
+      "sources.other.SIR_dB",
+      "sources.other.SAR_dB",
+      "sources.other.SI_SDR_dB"
+    ],
+    "track_fields": [
+      "track"
+    ],
+    "source_fields": []
+  },
+  "EXP004": {
+    "authoritative_file": "metrics\\EXP004_per_track_metrics.jsonl",
+    "format": ".jsonl",
+    "selection_reason": "Contains track identifiers, source identifiers, and metrics in .jsonl format.",
+    "track_level_available": true,
+    "source_level_available": true,
+    "metric_fields": [
+      "sources.vocals.SDR_dB",
+      "sources.vocals.SIR_dB",
+      "sources.vocals.SAR_dB",
+      "sources.vocals.SI_SDR_dB",
+      "sources.drums.SDR_dB",
+      "sources.drums.SIR_dB",
+      "sources.drums.SAR_dB",
+      "sources.drums.SI_SDR_dB",
+      "sources.bass.SDR_dB",
+      "sources.bass.SIR_dB",
+      "sources.bass.SAR_dB",
+      "sources.bass.SI_SDR_dB",
+      "sources.other.SDR_dB",
+      "sources.other.SIR_dB",
+      "sources.other.SAR_dB",
+      "sources.other.SI_SDR_dB"
+    ],
+    "track_fields": [
+      "track"
+    ],
+    "source_fields": []
+  }
+}

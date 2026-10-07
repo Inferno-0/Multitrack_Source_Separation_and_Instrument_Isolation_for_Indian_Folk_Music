@@ -1,0 +1,57 @@
+experiment:
+  id: EXP003
+  type: baseline
+  status: success
+
+dataset:
+  name: BAUL_GEET
+  tradition: Baul Geet
+  input_format: WAV
+  recordings:
+    - BAUL_002.wav
+    - BAUL_016.wav
+    - BAUL_024.wav
+
+model:
+  name: HT-Demucs
+  demucs_model: htdemucs
+
+separation:
+  type: two_stem
+  stems:
+    - vocals
+    - no_vocals
+
+environment:
+  platform: Google Colab
+  gpu: Tesla T4
+  pytorch_version: "2.11.0+cu128"
+  demucs_version: "4.1.0"
+
+execution:
+  total_recordings: 3
+  total_output_files: 6
+  total_processing_time_seconds: 78.55
+
+validation:
+  output_structure: passed
+  audio_integrity: passed
+  all_outputs_readable: true
+
+evaluation:
+  subjective:
+    status: completed
+    method: manual_listening
+  objective:
+    status: pending
+    metrics:
+      - SDR
+      - SI-SDR
+      - SIR
+      - SAR
+
+paths:
+  input_audio: "03_Datasets/BAUL_GEET/Audio/WAV"
+  experiment: "05_Experiments/Baseline_HT_Demucs/EXP003"
+  outputs: "05_Experiments/Baseline_HT_Demucs/EXP003/outputs"
+  logs: "05_Experiments/Baseline_HT_Demucs/EXP003/logs"

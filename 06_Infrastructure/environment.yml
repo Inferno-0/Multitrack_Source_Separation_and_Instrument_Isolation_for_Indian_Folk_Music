@@ -1,0 +1,8 @@
+name: iks_folk_music
+channels:
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pip:
+      - -r requirements.txt

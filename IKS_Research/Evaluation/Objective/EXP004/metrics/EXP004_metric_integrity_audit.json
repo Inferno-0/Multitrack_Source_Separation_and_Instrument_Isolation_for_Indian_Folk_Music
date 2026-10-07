@@ -1,0 +1,53 @@
+{
+  "experiment": "EXP004",
+  "timestamp_utc": "2026-08-17T17:48:11.718173Z",
+  "expected_musdb18_tracks": 50,
+  "discovered_musdb18_tracks": 50,
+  "sources": [
+    "vocals",
+    "drums",
+    "bass",
+    "other"
+  ],
+  "expected_sources_per_track": 4,
+  "approved_metrics": [
+    "SDR",
+    "SIR",
+    "SAR",
+    "SI-SDR"
+  ],
+  "excluded_metrics": [
+    "ISR"
+  ],
+  "bsseval": {
+    "version": "BSSEval v4",
+    "window": "whole_track",
+    "window_value": "np.inf",
+    "hop_value": "np.inf",
+    "filters_len": 512,
+    "framewise_filters": false,
+    "compute_permutation": false
+  },
+  "si_sdr": {
+    "implementation": "torchmetrics.audio.ScaleInvariantSignalDistortionRatio",
+    "scale_invariant": true
+  },
+  "prediction_root": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\predictions",
+  "ground_truth_root": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\03_Datasets\\Benchmarks\\MUSDB18\\test",
+  "metrics_root": "G:\\My Drive\\IKS_Music_Source_Separation_and_Instrument_Isolation\\05_Experiments\\Evaluation\\Objective\\EXP004\\metrics",
+  "complete_prediction_track_count": 50,
+  "incomplete_prediction_track_count": 0,
+  "incomplete_prediction_tracks": [],
+  "evaluated_track_count": 50,
+  "pending_complete_track_count": 0,
+  "pending_complete_tracks": [],
+  "source_evaluation_count": 200,
+  "expected_source_evaluation_count_if_all_50_complete": 200,
+  "expected_source_evaluation_count_currently_complete": 200,
+  "csv_source_rows": 200,
+  "evaluation_failures_this_run": [],
+  "total_evaluation_seconds_this_run": 0.07945466041564941,
+  "status": "COMPLETE",
+  "resumable": true,
+  "ht_demucs_inference_performed": false
+}

@@ -1,0 +1,12 @@
+{
+  "experiment": "EXP004",
+  "evaluation_type": "two-stem objective",
+  "input_prediction_root": "D:\\IKS_Research\\Evaluation\\Objective\\EXP004\\predictions",
+  "input_reference_root": "D:\\IKS_Research\\MUSDB18\\test",
+  "output_root": "D:\\IKS_Research\\Evaluation\\Two_Source\\EXP004",
+  "validated_tracks": 50,
+  "source_records_generated": 100,
+  "evaluated_tracks": 50,
+  "qc_summary": "PASSED",
+  "completion_status": "COMPLETE"
+}

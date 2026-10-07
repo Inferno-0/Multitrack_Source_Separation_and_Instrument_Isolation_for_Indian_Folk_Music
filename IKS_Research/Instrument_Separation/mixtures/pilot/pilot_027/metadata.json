@@ -1,0 +1,40 @@
+{
+    "id": "pilot_027",
+    "mixture_composition": [
+        "vocals",
+        "dhul",
+        "dholak",
+        "tabla"
+    ],
+    "sources": {
+        "vocals": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000088.wav",
+            "original_filename": "saraga_0089_vocals.wav",
+            "gain_applied_in_mix": 0.25
+        },
+        "dhul": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+            "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav",
+            "gain_applied_in_mix": 0.25
+        },
+        "dholak": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000021.wav",
+            "original_filename": "Dholak Sample - 21.wav",
+            "gain_applied_in_mix": 0.25
+        },
+        "tabla": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000787.wav",
+            "original_filename": "trital89.wav",
+            "gain_applied_in_mix": 0.25
+        }
+    },
+    "target_present": true,
+    "query_instrument": "dhul",
+    "query_file": {
+        "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dhul\\audio\\dhul_000011.wav",
+        "original_filename": "Gully-Loops-Mahor-Dhul-Loop-BPM-120.wav"
+    },
+    "target_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_027\\stems\\dhul.wav",
+    "mixture_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_027\\clean_mixture.wav",
+    "query_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_027\\query.wav"
+}

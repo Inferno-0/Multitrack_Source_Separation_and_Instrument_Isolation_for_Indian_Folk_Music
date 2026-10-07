@@ -1,0 +1,34 @@
+{
+    "id": "pilot_008",
+    "mixture_composition": [
+        "vocals",
+        "harmonium",
+        "tabla"
+    ],
+    "sources": {
+        "vocals": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\vocals\\audio\\vocals_000038.wav",
+            "original_filename": "saraga_0038_vocals.wav",
+            "gain_applied_in_mix": 0.3333333333333333
+        },
+        "harmonium": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\harmonium\\audio\\harmonium_001255.wav",
+            "original_filename": "945.wav",
+            "gain_applied_in_mix": 0.3333333333333333
+        },
+        "tabla": {
+            "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\tabla\\audio\\tabla_000456.wav",
+            "original_filename": "koyaliya_SRC.wav",
+            "gain_applied_in_mix": 0.3333333333333333
+        }
+    },
+    "target_present": false,
+    "query_instrument": "dholak",
+    "query_file": {
+        "path": "D:\\ISOLATED_INSTRUMENTS_PREPARED\\dholak\\audio\\dholak_000015.wav",
+        "original_filename": "Dholak Sample - 15.wav"
+    },
+    "target_path": null,
+    "mixture_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_008\\clean_mixture.wav",
+    "query_path": "D:\\IKS_Research\\Instrument_Separation\\mixtures\\pilot\\pilot_008\\query.wav"
+}
